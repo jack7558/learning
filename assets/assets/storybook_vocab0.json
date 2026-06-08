@@ -1,0 +1,7202 @@
+[
+  {
+    "id": 1,
+    "word": "a",
+    "part_of_speech": "관사",
+    "meaning": "하나의",
+    "grammar_pattern": "긍정문",
+    "example": "I see a dog.",
+    "example_translation": "나는 개 한 마리를 봐."
+  },
+  {
+    "id": 2,
+    "word": "A.M.",
+    "part_of_speech": "abbreviation",
+    "meaning": "오전",
+    "grammar_pattern": "긍정문",
+    "example": "It is 8 A.M. now.",
+    "example_translation": "지금은 오전 8시야."
+  },
+  {
+    "id": 3,
+    "word": "about",
+    "part_of_speech": "preposition",
+    "meaning": "~에 대하여",
+    "grammar_pattern": "명령문",
+    "example": "Tell me about your cat.",
+    "example_translation": "네 고양이에 대해 말해줘."
+  },
+  {
+    "id": 4,
+    "word": "above",
+    "part_of_speech": "preposition",
+    "meaning": "~보다 위에",
+    "grammar_pattern": "긍정문",
+    "example": "The bird flies above the tree.",
+    "example_translation": "새가 나무 위로 날아가."
+  },
+  {
+    "id": 5,
+    "word": "academy",
+    "part_of_speech": "noun",
+    "meaning": "학술원",
+    "grammar_pattern": "부정문",
+    "example": "I do not go to the academy today.",
+    "example_translation": "나는 오늘 학원에 안 가."
+  },
+  {
+    "id": 6,
+    "word": "accent",
+    "part_of_speech": "noun",
+    "meaning": "액센트",
+    "grammar_pattern": "긍정문",
+    "example": "She has a cute accent.",
+    "example_translation": "그녀는 귀여운 말투를 가졌어."
+  },
+  {
+    "id": 7,
+    "word": "accident",
+    "part_of_speech": "noun",
+    "meaning": "뜻밖의 사건",
+    "grammar_pattern": "의문문",
+    "example": "Do not make an accident with your toy.",
+    "example_translation": "장난감으로 사고 치지 마."
+  },
+  {
+    "id": 8,
+    "word": "across",
+    "part_of_speech": "preposition",
+    "meaning": "가로질러",
+    "grammar_pattern": "청유문",
+    "example": "Let's run across the playground!",
+    "example_translation": "운동장을 가로질러 달리자!"
+  },
+  {
+    "id": 9,
+    "word": "act",
+    "part_of_speech": "verb",
+    "meaning": "행동하다",
+    "grammar_pattern": "긍정문",
+    "example": "He likes to act like a lion.",
+    "example_translation": "그녀는 사자처럼 행동하는 것을 좋아해."
+  },
+  {
+    "id": 10,
+    "word": "add",
+    "part_of_speech": "verb",
+    "meaning": "추가하다",
+    "grammar_pattern": "명령문",
+    "example": "Add some sugar, please.",
+    "example_translation": "설탕을 조금 더해줘."
+  },
+  {
+    "id": 11,
+    "word": "address",
+    "part_of_speech": "verb",
+    "meaning": "말을 걸다",
+    "grammar_pattern": "의문문",
+    "example": "What is your home address?",
+    "example_translation": "네 집 주소는 뭐니?"
+  },
+  {
+    "id": 12,
+    "word": "adult",
+    "part_of_speech": "noun",
+    "meaning": "성인",
+    "grammar_pattern": "긍정문",
+    "example": "An adult helps me.",
+    "example_translation": "어른 한 분이 나를 도와줘."
+  },
+  {
+    "id": 13,
+    "word": "adventure",
+    "part_of_speech": "verb",
+    "meaning": "모험 모험하다",
+    "grammar_pattern": "to부정사",
+    "example": "We want to start an adventure.",
+    "example_translation": "우리는 모험을 시작하고 싶어."
+  },
+  {
+    "id": 14,
+    "word": "advise",
+    "part_of_speech": "verb",
+    "meaning": "충고하다",
+    "grammar_pattern": "긍정문",
+    "example": "Teachers advise us everyday.",
+    "example_translation": "선생님들은 매일 우리에게 조언해 주셔."
+  },
+  {
+    "id": 15,
+    "word": "afraid",
+    "part_of_speech": "adjective",
+    "meaning": "두려워하여",
+    "grammar_pattern": "부정문",
+    "example": "I am not afraid of the dark.",
+    "example_translation": "나는 어둠이 두렵지 않아."
+  },
+  {
+    "id": 16,
+    "word": "after",
+    "part_of_speech": "preposition",
+    "meaning": "후에",
+    "grammar_pattern": "청유문",
+    "example": "Let's play after lunch.",
+    "example_translation": "점심 먹고 나서 놀자."
+  },
+  {
+    "id": 17,
+    "word": "afternoon",
+    "part_of_speech": "noun",
+    "meaning": "오후",
+    "grammar_pattern": "긍정문",
+    "example": "Good afternoon, teacher!",
+    "example_translation": "좋은 오후입니다, 선생님!"
+  },
+  {
+    "id": 18,
+    "word": "again",
+    "part_of_speech": "adverb",
+    "meaning": "다시",
+    "grammar_pattern": "청유문",
+    "example": "Let's play this game again!",
+    "example_translation": "이 게임 다시 하자!"
+  },
+  {
+    "id": 19,
+    "word": "against",
+    "part_of_speech": "preposition",
+    "meaning": "~에 반대하여",
+    "grammar_pattern": "긍정문",
+    "example": "The ladder is against the wall.",
+    "example_translation": "사다리가 벽에 기대어 있어."
+  },
+  {
+    "id": 20,
+    "word": "age",
+    "part_of_speech": "noun",
+    "meaning": "연령",
+    "grammar_pattern": "의문문",
+    "example": "What is your age?",
+    "example_translation": "네 나이는 몇 살이니?"
+  },
+  {
+    "id": 21,
+    "word": "ago",
+    "part_of_speech": "adverb",
+    "meaning": "이전에",
+    "grammar_pattern": "긍정문",
+    "example": "The bus left a minute ago.",
+    "example_translation": "버스가 1분 전에 떠났어."
+  },
+  {
+    "id": 22,
+    "word": "agree",
+    "part_of_speech": "verb",
+    "meaning": "동의하다",
+    "grammar_pattern": "긍정문",
+    "example": "I agree with your idea.",
+    "example_translation": "나는 네 생각에 동의해."
+  },
+  {
+    "id": 23,
+    "word": "ahead",
+    "part_of_speech": "adverb",
+    "meaning": "전방에",
+    "grammar_pattern": "명령문",
+    "example": "Look straight ahead!",
+    "example_translation": "똑바로 앞을 봐!"
+  },
+  {
+    "id": 24,
+    "word": "air",
+    "part_of_speech": "noun",
+    "meaning": "공기",
+    "grammar_pattern": "긍정문",
+    "example": "The air is very clean.",
+    "example_translation": "공기가 아주 깨끗해."
+  },
+  {
+    "id": 25,
+    "word": "airline",
+    "part_of_speech": "noun",
+    "meaning": "정기항공",
+    "grammar_pattern": "There is/are",
+    "example": "There is a big airline logo here.",
+    "example_translation": "여기 큰 항공사 로고가 있어."
+  },
+  {
+    "id": 26,
+    "word": "airplane",
+    "part_of_speech": "noun",
+    "meaning": "비행기",
+    "grammar_pattern": "명령문",
+    "example": "Look at that fast airplane!",
+    "example_translation": "저 빠른 비행기를 봐!"
+  },
+  {
+    "id": 27,
+    "word": "airport",
+    "part_of_speech": "noun",
+    "meaning": "공항",
+    "grammar_pattern": "긍정문",
+    "example": "We go to the airport by bus.",
+    "example_translation": "우리는 버스를 타고 공항에 가."
+  },
+  {
+    "id": 28,
+    "word": "all",
+    "part_of_speech": "noun",
+    "meaning": "모든",
+    "grammar_pattern": "긍정문",
+    "example": "We all love pizza.",
+    "example_translation": "우리 모두 피자를 좋아해."
+  },
+  {
+    "id": 29,
+    "word": "almost",
+    "part_of_speech": "adverb",
+    "meaning": "거의",
+    "grammar_pattern": "긍정문",
+    "example": "I am almost ready for school.",
+    "example_translation": "나 학교 갈 준비 거의 다 됐어."
+  },
+  {
+    "id": 30,
+    "word": "alone",
+    "part_of_speech": "adjective",
+    "meaning": "다만 홀로(혼자서)",
+    "grammar_pattern": "의문문",
+    "example": "Do not walk alone at night.",
+    "example_translation": "밤에 혼자 걷지 마."
+  },
+  {
+    "id": 31,
+    "word": "along",
+    "part_of_speech": "preposition",
+    "meaning": "~을 따라",
+    "grammar_pattern": "청유문",
+    "example": "Let's walk along the river.",
+    "example_translation": "강을 따라서 걷자."
+  },
+  {
+    "id": 32,
+    "word": "aloud",
+    "part_of_speech": "adverb",
+    "meaning": "큰 소리로",
+    "grammar_pattern": "명령문",
+    "example": "Please read this book aloud.",
+    "example_translation": "이 책을 소리 내어 읽어주렴."
+  },
+  {
+    "id": 33,
+    "word": "already",
+    "part_of_speech": "adverb",
+    "meaning": "이미",
+    "grammar_pattern": "의문문",
+    "example": "Is it already 9 o'clock?",
+    "example_translation": "벌써 9시야?"
+  },
+  {
+    "id": 34,
+    "word": "alright",
+    "part_of_speech": "adverb",
+    "meaning": "더할나위없이",
+    "grammar_pattern": "동명사",
+    "example": "Everything is alright.",
+    "example_translation": "모든 게 다 괜찮아."
+  },
+  {
+    "id": 35,
+    "word": "also",
+    "part_of_speech": "adverb",
+    "meaning": "~도 또한",
+    "grammar_pattern": "긍정문",
+    "example": "I also like strawberry milk.",
+    "example_translation": "나도 딸기 우유를 좋아해."
+  },
+  {
+    "id": 36,
+    "word": "always",
+    "part_of_speech": "adverb",
+    "meaning": "늘",
+    "grammar_pattern": "긍정문",
+    "example": "You always smile at me.",
+    "example_translation": "너는 항상 나를 보고 웃는구나."
+  },
+  {
+    "id": 37,
+    "word": "and",
+    "part_of_speech": "conjunction",
+    "meaning": "및",
+    "grammar_pattern": "긍정문",
+    "example": "I like apples and bananas.",
+    "example_translation": "나는 사과와 바나나를 좋아해."
+  },
+  {
+    "id": 38,
+    "word": "angel",
+    "part_of_speech": "noun",
+    "meaning": "천사",
+    "grammar_pattern": "감탄문",
+    "example": "What a beautiful angel!",
+    "example_translation": "정말 아름다운 천사구나!"
+  },
+  {
+    "id": 39,
+    "word": "anger",
+    "part_of_speech": "noun",
+    "meaning": "성",
+    "grammar_pattern": "의문문",
+    "example": "Do not show your anger.",
+    "example_translation": "너의 화를 내지 마렴."
+  },
+  {
+    "id": 40,
+    "word": "animal",
+    "part_of_speech": "adjective",
+    "meaning": "동물",
+    "grammar_pattern": "There is/are",
+    "example": "There are many animals in the zoo.",
+    "example_translation": "동물원에는 많은 동물들이 있어."
+  },
+  {
+    "id": 41,
+    "word": "another",
+    "part_of_speech": "pronoun",
+    "meaning": "또 하나",
+    "grammar_pattern": "의문문",
+    "example": "Can I have another cookie?",
+    "example_translation": "쿠키 하나 더 먹어도 돼요?"
+  },
+  {
+    "id": 42,
+    "word": "answer",
+    "part_of_speech": "noun",
+    "meaning": "대답",
+    "grammar_pattern": "명령문",
+    "example": "Please answer my question.",
+    "example_translation": "내 질문에 대답해줘."
+  },
+  {
+    "id": 43,
+    "word": "ant",
+    "part_of_speech": "noun",
+    "meaning": "개미",
+    "grammar_pattern": "명령문",
+    "example": "Look at this tiny ant!",
+    "example_translation": "이 작은 개미를 봐!"
+  },
+  {
+    "id": 44,
+    "word": "any",
+    "part_of_speech": "noun",
+    "meaning": "어떤",
+    "grammar_pattern": "의문문",
+    "example": "Do you have any candy?",
+    "example_translation": "너 사탕 좀 있니?"
+  },
+  {
+    "id": 45,
+    "word": "apple",
+    "part_of_speech": "noun",
+    "meaning": "사과",
+    "grammar_pattern": "동명사",
+    "example": "Eating an apple is healthy.",
+    "example_translation": "사과를 먹는 것은 건강에 좋아."
+  },
+  {
+    "id": 46,
+    "word": "area",
+    "part_of_speech": "noun",
+    "meaning": "면적",
+    "grammar_pattern": "긍정문",
+    "example": "This is a play area for kids.",
+    "example_translation": "여기는 어린이를 위한 놀이 구역이야."
+  },
+  {
+    "id": 47,
+    "word": "arm",
+    "part_of_speech": "noun",
+    "meaning": "팔",
+    "grammar_pattern": "원급비교",
+    "example": "My arm is as long as yours.",
+    "example_translation": "내 팔은 네 팔만큼 길어."
+  },
+  {
+    "id": 48,
+    "word": "around",
+    "part_of_speech": "preposition",
+    "meaning": "사방에",
+    "grammar_pattern": "긍정문",
+    "example": "We sit around the table.",
+    "example_translation": "우리는 테이블 주위에 앉아."
+  },
+  {
+    "id": 49,
+    "word": "arrive",
+    "part_of_speech": "verb",
+    "meaning": "도착하다",
+    "grammar_pattern": "긍정문",
+    "example": "We arrive at school early.",
+    "example_translation": "우리는 학교에 일찍 도착해."
+  },
+  {
+    "id": 50,
+    "word": "art",
+    "part_of_speech": "noun",
+    "meaning": "예술",
+    "grammar_pattern": "긍정문",
+    "example": "I love making art projects.",
+    "example_translation": "나는 미술 과제 만드는 것을 사랑해."
+  },
+  {
+    "id": 51,
+    "word": "as",
+    "part_of_speech": "conjunction",
+    "meaning": "~할 때",
+    "grammar_pattern": "원급비교",
+    "example": "I am as tall as my brother.",
+    "example_translation": "나는 내 남동생만큼 키가 커."
+  },
+  {
+    "id": 52,
+    "word": "ask",
+    "part_of_speech": "verb",
+    "meaning": "묻다",
+    "grammar_pattern": "청유문",
+    "example": "Let's ask the teacher.",
+    "example_translation": "선생님께 여쭤보자."
+  },
+  {
+    "id": 53,
+    "word": "at",
+    "part_of_speech": "preposition",
+    "meaning": "~에서",
+    "grammar_pattern": "긍정문",
+    "example": "I am at home now.",
+    "example_translation": "나는 지금 집에 있어."
+  },
+  {
+    "id": 54,
+    "word": "aunt",
+    "part_of_speech": "noun",
+    "meaning": "아주머니",
+    "grammar_pattern": "긍정문",
+    "example": "My aunt gives me a doll.",
+    "example_translation": "우리 이모가 나에게 인형을 주셔."
+  },
+  {
+    "id": 55,
+    "word": "away",
+    "part_of_speech": "adverb",
+    "meaning": "떨어져서",
+    "grammar_pattern": "명령문",
+    "example": "Go away, bad dreams!",
+    "example_translation": "나쁜 꿈들아, 멀리 가버려라!"
+  },
+  {
+    "id": 56,
+    "word": "baby",
+    "part_of_speech": "noun",
+    "meaning": "갓난아기",
+    "grammar_pattern": "부정문",
+    "example": "The baby does not cry loud.",
+    "example_translation": "그 아기는 크게 울지 않아."
+  },
+  {
+    "id": 57,
+    "word": "back",
+    "part_of_speech": "noun",
+    "meaning": "등",
+    "grammar_pattern": "명령문",
+    "example": "Step back, please.",
+    "example_translation": "뒤로 물러서 주세요."
+  },
+  {
+    "id": 58,
+    "word": "background",
+    "part_of_speech": "noun",
+    "meaning": "배경",
+    "grammar_pattern": "긍정문",
+    "example": "The background of the picture is blue.",
+    "example_translation": "사진의 배경은 파란색이야."
+  },
+  {
+    "id": 59,
+    "word": "bad",
+    "part_of_speech": "adjective",
+    "meaning": "나쁜",
+    "grammar_pattern": "동명사",
+    "example": "Lying is a bad habit.",
+    "example_translation": "거짓말하는 것은 나쁜 습관이야."
+  },
+  {
+    "id": 60,
+    "word": "bake",
+    "part_of_speech": "verb",
+    "meaning": "굽다",
+    "grammar_pattern": "to부정사",
+    "example": "I want to bake a cake with mom.",
+    "example_translation": "나는 엄마랑 케이크를 굽고 싶어."
+  },
+  {
+    "id": 61,
+    "word": "ball",
+    "part_of_speech": "noun",
+    "meaning": "공",
+    "grammar_pattern": "명령문",
+    "example": "Throw the ball to me!",
+    "example_translation": "나한테 공을 던져줘!"
+  },
+  {
+    "id": 62,
+    "word": "balloon",
+    "part_of_speech": "noun",
+    "meaning": "기구",
+    "grammar_pattern": "감탄문",
+    "example": "What a big balloon!",
+    "example_translation": "정말 큰 풍선이구나!"
+  },
+  {
+    "id": 63,
+    "word": "band",
+    "part_of_speech": "noun",
+    "meaning": "그룹",
+    "grammar_pattern": "There is/are",
+    "example": "There is a music band on the stage.",
+    "example_translation": "무대 위에 음악 밴드가 있어."
+  },
+  {
+    "id": 64,
+    "word": "bank",
+    "part_of_speech": "noun",
+    "meaning": "뚝",
+    "grammar_pattern": "긍정문",
+    "example": "The bank is near the shop.",
+    "example_translation": "은행은 가게 근처에 있어."
+  },
+  {
+    "id": 65,
+    "word": "base",
+    "part_of_speech": "noun",
+    "meaning": "기초",
+    "grammar_pattern": "명령문",
+    "example": "Touch the base of the toy.",
+    "example_translation": "장난감의 바닥을 만져봐."
+  },
+  {
+    "id": 66,
+    "word": "baseball",
+    "part_of_speech": "noun",
+    "meaning": "야구",
+    "grammar_pattern": "동명사",
+    "example": "Playing baseball is so much fun.",
+    "example_translation": "야구를 하는 것은 정말 재미있어."
+  },
+  {
+    "id": 67,
+    "word": "basic",
+    "part_of_speech": "adjective",
+    "meaning": "기본의",
+    "grammar_pattern": "청유문",
+    "example": "Let's learn basic English.",
+    "example_translation": "기본적인 영어를 배우자."
+  },
+  {
+    "id": 68,
+    "word": "basket",
+    "part_of_speech": "noun",
+    "meaning": "바구니",
+    "grammar_pattern": "There is/are",
+    "example": "There are apples in the basket.",
+    "example_translation": "바구니 안에 사과들이 있어."
+  },
+  {
+    "id": 69,
+    "word": "basketball",
+    "part_of_speech": "noun",
+    "meaning": "농구",
+    "grammar_pattern": "의문문",
+    "example": "Do you like to play basketball?",
+    "example_translation": "너 농구하는 것 좋아하니?"
+  },
+  {
+    "id": 70,
+    "word": "bat",
+    "part_of_speech": "noun",
+    "meaning": "배트",
+    "grammar_pattern": "명령문",
+    "example": "Hold the bat with both hands.",
+    "example_translation": "두 손으로 배트를 잡아라."
+  },
+  {
+    "id": 71,
+    "word": "bath",
+    "part_of_speech": "noun",
+    "meaning": "목욕",
+    "grammar_pattern": "동명사",
+    "example": "Taking a bath makes me warm.",
+    "example_translation": "목욕을 하는 것은 나를 따뜻하게 해줘."
+  },
+  {
+    "id": 72,
+    "word": "bathroom",
+    "part_of_speech": "noun",
+    "meaning": "욕실",
+    "grammar_pattern": "의문문",
+    "example": "Where is the bathroom?",
+    "example_translation": "화장실이 어디예요?"
+  },
+  {
+    "id": 73,
+    "word": "battery",
+    "part_of_speech": "noun",
+    "meaning": "전지",
+    "grammar_pattern": "긍정문",
+    "example": "My toy needs a new battery.",
+    "example_translation": "내 장난감은 새 건전지가 필요해."
+  },
+  {
+    "id": 74,
+    "word": "battle",
+    "part_of_speech": "noun",
+    "meaning": "전투",
+    "grammar_pattern": "의문문",
+    "example": "Do not start a water battle!",
+    "example_translation": "물총 싸움을 시작하지 마!"
+  },
+  {
+    "id": 75,
+    "word": "be",
+    "part_of_speech": "verb",
+    "meaning": "~이다",
+    "grammar_pattern": "to부정사",
+    "example": "I want to be a pilot.",
+    "example_translation": "나는 비행기 조종사가 되고 싶어."
+  },
+  {
+    "id": 76,
+    "word": "beach",
+    "part_of_speech": "noun",
+    "meaning": "해안",
+    "grammar_pattern": "청유문",
+    "example": "Let's go to the beach this summer.",
+    "example_translation": "이번 여름에 해변에 가자."
+  },
+  {
+    "id": 77,
+    "word": "bean",
+    "part_of_speech": "noun",
+    "meaning": "콩",
+    "grammar_pattern": "부정문",
+    "example": "I do not like to eat beans.",
+    "example_translation": "나는 콩 먹는 것을 좋아하지 않아."
+  },
+  {
+    "id": 78,
+    "word": "bear",
+    "part_of_speech": "verb",
+    "meaning": "나르다(곰)",
+    "grammar_pattern": "원급비교",
+    "example": "The bear is as big as a car.",
+    "example_translation": "그 곰은 자동차만큼 커."
+  },
+  {
+    "id": 79,
+    "word": "beauty",
+    "part_of_speech": "noun",
+    "meaning": "아름다움",
+    "grammar_pattern": "긍정문",
+    "example": "She is a true beauty.",
+    "example_translation": "그녀는 정말 미인이야."
+  },
+  {
+    "id": 80,
+    "word": "because",
+    "part_of_speech": "conjunction",
+    "meaning": "왜냐하면",
+    "grammar_pattern": "긍정문",
+    "example": "I happy because I have a toy.",
+    "example_translation": "나는 장난감이 있어서 행복해."
+  },
+  {
+    "id": 81,
+    "word": "become",
+    "part_of_speech": "verb",
+    "meaning": "~이 되다",
+    "grammar_pattern": "긍정문",
+    "example": "Caterpillars become butterflies.",
+    "example_translation": "애벌레들은 나비가 돼."
+  },
+  {
+    "id": 82,
+    "word": "bed",
+    "part_of_speech": "noun",
+    "meaning": "침대",
+    "grammar_pattern": "명령문",
+    "example": "Go to bed right now.",
+    "example_translation": "지금 당장 침대로 가서 자거라."
+  },
+  {
+    "id": 83,
+    "word": "bedroom",
+    "part_of_speech": "adjective",
+    "meaning": "침실 성적인",
+    "grammar_pattern": "부정문",
+    "example": "My bedroom is not very big.",
+    "example_translation": "내 침실은 그리 크지 않아."
+  },
+  {
+    "id": 84,
+    "word": "bee",
+    "part_of_speech": "noun",
+    "meaning": "꿀벌",
+    "grammar_pattern": "명령문",
+    "example": "Look at the yellow bee!",
+    "example_translation": "저 노란 벌을 봐!"
+  },
+  {
+    "id": 85,
+    "word": "beef",
+    "part_of_speech": "noun",
+    "meaning": "쇠고기",
+    "grammar_pattern": "긍정문",
+    "example": "We eat beef for dinner.",
+    "example_translation": "우리는 저녁으로 소고기를 먹어."
+  },
+  {
+    "id": 86,
+    "word": "before",
+    "part_of_speech": "preposition",
+    "meaning": "앞에",
+    "grammar_pattern": "명령문",
+    "example": "Wash your hands before eating.",
+    "example_translation": "먹기 전에 손을 씻으렴."
+  },
+  {
+    "id": 87,
+    "word": "begin",
+    "part_of_speech": "verb",
+    "meaning": "시작하다",
+    "grammar_pattern": "청유문",
+    "example": "Let's begin our drawing class.",
+    "example_translation": "그리기 수업을 시작하자."
+  },
+  {
+    "id": 88,
+    "word": "behind",
+    "part_of_speech": "preposition",
+    "meaning": "뒤에",
+    "grammar_pattern": "의문문",
+    "example": "Who is standing behind the door?",
+    "example_translation": "문 뒤에 누가 서 있니?"
+  },
+  {
+    "id": 89,
+    "word": "believe",
+    "part_of_speech": "verb",
+    "meaning": "믿다",
+    "grammar_pattern": "긍정문",
+    "example": "I believe in magic.",
+    "example_translation": "나는 마법을 믿어."
+  },
+  {
+    "id": 90,
+    "word": "bell",
+    "part_of_speech": "noun",
+    "meaning": "종",
+    "grammar_pattern": "긍정문",
+    "example": "The school bell rings at noon.",
+    "example_translation": "학교 종이 정오에 울려."
+  },
+  {
+    "id": 91,
+    "word": "below",
+    "part_of_speech": "preposition",
+    "meaning": "아래에",
+    "grammar_pattern": "명령문",
+    "example": "Write your name below the line.",
+    "example_translation": "선 아래에 네 이름을 쓰렴."
+  },
+  {
+    "id": 92,
+    "word": "beside",
+    "part_of_speech": "preposition",
+    "meaning": "~의 곁에",
+    "grammar_pattern": "명령문",
+    "example": "Sit beside me, please.",
+    "example_translation": "내 옆에 앉으렴."
+  },
+  {
+    "id": 93,
+    "word": "between",
+    "part_of_speech": "preposition",
+    "meaning": "~의 사이에",
+    "grammar_pattern": "긍정문",
+    "example": "The cat is between the boxes.",
+    "example_translation": "고양이가 상자들 사이에 있어."
+  },
+  {
+    "id": 94,
+    "word": "bicycle",
+    "part_of_speech": "verb",
+    "meaning": "자전거 자전거를타다",
+    "grammar_pattern": "동명사",
+    "example": "Riding a bicycle is fun.",
+    "example_translation": "자전거를 타는 것은 재미있어."
+  },
+  {
+    "id": 95,
+    "word": "big",
+    "part_of_speech": "adjective",
+    "meaning": "큰",
+    "grammar_pattern": "감탄문",
+    "example": "What a big elephant!",
+    "example_translation": "정말 큰 코끼리구나!"
+  },
+  {
+    "id": 96,
+    "word": "bill",
+    "part_of_speech": "noun",
+    "meaning": "계산서",
+    "grammar_pattern": "There is/are",
+    "example": "There is a one-dollar bill on the desk.",
+    "example_translation": "책상 위에 1달러짜리 지폐가 있어."
+  },
+  {
+    "id": 97,
+    "word": "bird",
+    "part_of_speech": "noun",
+    "meaning": "새",
+    "grammar_pattern": "긍정문",
+    "example": "The bird likes to sing.",
+    "example_translation": "그 새는 노래하는 것을 좋아해."
+  },
+  {
+    "id": 98,
+    "word": "birth",
+    "part_of_speech": "noun",
+    "meaning": "출생",
+    "grammar_pattern": "긍정문",
+    "example": "We celebrate the birth of the puppy.",
+    "example_translation": "우리는 강아지의 탄생을 축하해."
+  },
+  {
+    "id": 99,
+    "word": "birthday",
+    "part_of_speech": "noun",
+    "meaning": "생일",
+    "grammar_pattern": "긍정문",
+    "example": "Happy birthday to you!",
+    "example_translation": "네 생일을 축하해!"
+  },
+  {
+    "id": 100,
+    "word": "bite",
+    "part_of_speech": "verb",
+    "meaning": "물다",
+    "grammar_pattern": "의문문",
+    "example": "Does your dog bite people?",
+    "example_translation": "너의 개는 사람을 무니?"
+  },
+  {
+    "id": 101,
+    "word": "black",
+    "part_of_speech": "adjective",
+    "meaning": "검은",
+    "grammar_pattern": "긍정문",
+    "example": "I have a black cat.",
+    "example_translation": "나는 검은 고양이를 키워."
+  },
+  {
+    "id": 102,
+    "word": "block",
+    "part_of_speech": "noun",
+    "meaning": "덩어리",
+    "grammar_pattern": "의문문",
+    "example": "Do not block the hallway.",
+    "example_translation": "복도를 막지 마라."
+  },
+  {
+    "id": 103,
+    "word": "blood",
+    "part_of_speech": "noun",
+    "meaning": "피",
+    "grammar_pattern": "긍정문",
+    "example": "Mosquitoes love drinking blood.",
+    "example_translation": "모기들은 피를 마시는 것을 좋아해."
+  },
+  {
+    "id": 104,
+    "word": "blue",
+    "part_of_speech": "adjective",
+    "meaning": "푸른",
+    "grammar_pattern": "원급비교",
+    "example": "The sky is as blue as the ocean.",
+    "example_translation": "하늘이 바다만큼 파랗구나."
+  },
+  {
+    "id": 105,
+    "word": "board",
+    "part_of_speech": "noun",
+    "meaning": "널빤지",
+    "grammar_pattern": "명령문",
+    "example": "Look at the white board.",
+    "example_translation": "화이트보드를 보렴."
+  },
+  {
+    "id": 106,
+    "word": "boat",
+    "part_of_speech": "noun",
+    "meaning": "배",
+    "grammar_pattern": "There is/are",
+    "example": "There are three boats on the lake.",
+    "example_translation": "호수 위에 배 세 척이 있어."
+  },
+  {
+    "id": 107,
+    "word": "body",
+    "part_of_speech": "noun",
+    "meaning": "신체",
+    "grammar_pattern": "명령문",
+    "example": "Keep your body warm.",
+    "example_translation": "몸을 따뜻하게 유지해라."
+  },
+  {
+    "id": 108,
+    "word": "bomb",
+    "part_of_speech": "verb",
+    "meaning": "폭탄 폭격하다",
+    "grammar_pattern": "의문문",
+    "example": "Do not play with a water bomb inside.",
+    "example_translation": "집안에서 물폭탄을 가지고 놀지 마."
+  },
+  {
+    "id": 109,
+    "word": "bone",
+    "part_of_speech": "noun",
+    "meaning": "뼈",
+    "grammar_pattern": "긍정문",
+    "example": "The dog loves to chew a bone.",
+    "example_translation": "그 개는 뼈다귀를 씹는 것을 좋아해."
+  },
+  {
+    "id": 110,
+    "word": "book",
+    "part_of_speech": "noun",
+    "meaning": "책",
+    "grammar_pattern": "동명사",
+    "example": "Reading a book makes me smart.",
+    "example_translation": "책을 읽는 것은 나를 똑똑하게 만들어줘."
+  },
+  {
+    "id": 111,
+    "word": "boot",
+    "part_of_speech": "noun",
+    "meaning": "목이 긴 구두",
+    "grammar_pattern": "명령문",
+    "example": "Put on your rain boots.",
+    "example_translation": "레인부츠를 신으렴."
+  },
+  {
+    "id": 112,
+    "word": "borrow",
+    "part_of_speech": "verb",
+    "meaning": "빌다",
+    "grammar_pattern": "의문문",
+    "example": "Can I borrow your crayon?",
+    "example_translation": "너 크레파스 좀 빌릴 수 있을까?"
+  },
+  {
+    "id": 113,
+    "word": "boss",
+    "part_of_speech": "noun",
+    "meaning": "두목",
+    "grammar_pattern": "긍정문",
+    "example": "He acts like a boss.",
+    "example_translation": "그는 대장처럼 행동해."
+  },
+  {
+    "id": 114,
+    "word": "both",
+    "part_of_speech": "conjunction",
+    "meaning": "쌍방의",
+    "grammar_pattern": "명령문",
+    "example": "Raise both hands!",
+    "example_translation": "두 손을 다 들어봐!"
+  },
+  {
+    "id": 115,
+    "word": "bottle",
+    "part_of_speech": "noun",
+    "meaning": "병",
+    "grammar_pattern": "There is/are",
+    "example": "There is a milk bottle on the table.",
+    "example_translation": "탁자 위에 우유병이 하나 있어."
+  },
+  {
+    "id": 116,
+    "word": "bottom",
+    "part_of_speech": "noun",
+    "meaning": "밑바닥",
+    "grammar_pattern": "명령문",
+    "example": "Look at the bottom of the box.",
+    "example_translation": "상자 바닥을 보렴."
+  },
+  {
+    "id": 117,
+    "word": "bowl",
+    "part_of_speech": "noun",
+    "meaning": "사발",
+    "grammar_pattern": "There is/are",
+    "example": "There are strawberries in the bowl.",
+    "example_translation": "그릇 안에 딸기들이 있어."
+  },
+  {
+    "id": 118,
+    "word": "boy",
+    "part_of_speech": "noun",
+    "meaning": "소년",
+    "grammar_pattern": "원급비교",
+    "example": "The boy is as fast as a rabbit.",
+    "example_translation": "그 소년은 토끼만큼 빨라."
+  },
+  {
+    "id": 119,
+    "word": "brain",
+    "part_of_speech": "noun",
+    "meaning": "뇌",
+    "grammar_pattern": "명령문",
+    "example": "Use your brain to solve this puzzle.",
+    "example_translation": "이 퍼즐을 풀기 위해 머리를 써보렴."
+  },
+  {
+    "id": 120,
+    "word": "brake",
+    "part_of_speech": "noun",
+    "meaning": "브레이크",
+    "grammar_pattern": "명령문",
+    "example": "Push the bike brake now!",
+    "example_translation": "지금 자전거 브레이크를 잡아!"
+  },
+  {
+    "id": 121,
+    "word": "branch",
+    "part_of_speech": "noun",
+    "meaning": "가지",
+    "grammar_pattern": "동명사",
+    "example": "The small bird is sitting on the branch.",
+    "example_translation": "작은 새가 나뭇가지 위에 앉아 있어."
+  },
+  {
+    "id": 122,
+    "word": "brand",
+    "part_of_speech": "noun",
+    "meaning": "상표",
+    "grammar_pattern": "긍정문",
+    "example": "I am wearing a new brand of shoes.",
+    "example_translation": "나는 새 브랜드의 신발을 신고 있어."
+  },
+  {
+    "id": 123,
+    "word": "brave",
+    "part_of_speech": "adjective",
+    "meaning": "용감한",
+    "grammar_pattern": "원급비교",
+    "example": "He is as brave as a lion.",
+    "example_translation": "그는 사자만큼 용감해."
+  },
+  {
+    "id": 124,
+    "word": "bread",
+    "part_of_speech": "noun",
+    "meaning": "빵",
+    "grammar_pattern": "동명사",
+    "example": "Eating soft bread is my favorite.",
+    "example_translation": "부드러운 빵을 먹는 것은 내가 가장 좋아하는 거야."
+  },
+  {
+    "id": 125,
+    "word": "break",
+    "part_of_speech": "verb",
+    "meaning": "부수다",
+    "grammar_pattern": "의문문",
+    "example": "Do not break your precious toys!",
+    "example_translation": "너의 소중한 장난감들을 부수지 마!"
+  },
+  {
+    "id": 126,
+    "word": "breakfast",
+    "part_of_speech": "noun",
+    "meaning": "아침밥",
+    "grammar_pattern": "동명사",
+    "example": "We are eating a yummy breakfast.",
+    "example_translation": "우리는 맛있는 아침 식사를 먹고 있어."
+  },
+  {
+    "id": 127,
+    "word": "bridge",
+    "part_of_speech": "noun",
+    "meaning": "다리",
+    "grammar_pattern": "There is/are",
+    "example": "There is a long bridge over the river.",
+    "example_translation": "강 위에 긴 다리가 있어."
+  },
+  {
+    "id": 128,
+    "word": "bright",
+    "part_of_speech": "adjective",
+    "meaning": "밝은",
+    "grammar_pattern": "동명사",
+    "example": "The sun is shining so bright!",
+    "example_translation": "태양이 정말 밝게 빛나고 있어!"
+  },
+  {
+    "id": 129,
+    "word": "bring",
+    "part_of_speech": "verb",
+    "meaning": "가져오다",
+    "grammar_pattern": "명령문",
+    "example": "Please bring your drawing book.",
+    "example_translation": "네 그림책을 가져오렴."
+  },
+  {
+    "id": 130,
+    "word": "brother",
+    "part_of_speech": "noun",
+    "meaning": "형제",
+    "grammar_pattern": "동명사",
+    "example": "My brother is playing with a ball.",
+    "example_translation": "내 남동생은 공을 가지고 놀고 있어."
+  },
+  {
+    "id": 131,
+    "word": "brown",
+    "part_of_speech": "adjective",
+    "meaning": "갈색의",
+    "grammar_pattern": "원급비교",
+    "example": "The cute bear is as brown as chocolate.",
+    "example_translation": "귀여운 곰이 초콜릿만큼 갈색이구나."
+  },
+  {
+    "id": 132,
+    "word": "brush",
+    "part_of_speech": "noun",
+    "meaning": "솔",
+    "grammar_pattern": "to부정사",
+    "example": "I want to brush my hair.",
+    "example_translation": "나는 머리를 빗고 싶어."
+  },
+  {
+    "id": 133,
+    "word": "bubble",
+    "part_of_speech": "noun",
+    "meaning": "거품",
+    "grammar_pattern": "동명사",
+    "example": "Look! Many bubbles are floating in the air.",
+    "example_translation": "봐! 많은 비누방울들이 공중에 떠다니고 있어."
+  },
+  {
+    "id": 134,
+    "word": "bug",
+    "part_of_speech": "noun",
+    "meaning": "벌레",
+    "grammar_pattern": "There is/are",
+    "example": "There is a tiny bug on the leaf.",
+    "example_translation": "나뭇잎 위에 작은 벌레가 있어."
+  },
+  {
+    "id": 135,
+    "word": "build",
+    "part_of_speech": "verb",
+    "meaning": "짓다(만들다)",
+    "grammar_pattern": "청유문",
+    "example": "Let's build a tall sandcastle!",
+    "example_translation": "높은 모래성을 쌓자!"
+  },
+  {
+    "id": 136,
+    "word": "burn",
+    "part_of_speech": "verb",
+    "meaning": "시내(개울)",
+    "grammar_pattern": "동명사",
+    "example": "The campfire is burning softly.",
+    "example_translation": "캠프파이어가 부드럽게 타오르고 있어."
+  },
+  {
+    "id": 137,
+    "word": "business",
+    "part_of_speech": "noun",
+    "meaning": "직업(사업)",
+    "grammar_pattern": "명령문",
+    "example": "Mind your own business.",
+    "example_translation": "네 일에나 신경 쓰렴/간섭하지 마."
+  },
+  {
+    "id": 138,
+    "word": "busy",
+    "part_of_speech": "adjective",
+    "meaning": "바쁜",
+    "grammar_pattern": "동명사",
+    "example": "Mom is busy cleaning the kitchen.",
+    "example_translation": "엄마는 부엌을 청소하시느라 바빠."
+  },
+  {
+    "id": 139,
+    "word": "but",
+    "part_of_speech": "conjunction",
+    "meaning": "그러나",
+    "grammar_pattern": "부정문",
+    "example": "I like milk, but I do not like cheese.",
+    "example_translation": "나는 우유를 좋아하지만, 치즈는 좋아하지 않아."
+  },
+  {
+    "id": 140,
+    "word": "button",
+    "part_of_speech": "verb",
+    "meaning": "단추를 채우다",
+    "grammar_pattern": "의문문",
+    "example": "Do not push this red button.",
+    "example_translation": "이 빨간 버튼을 누르지 마라."
+  },
+  {
+    "id": 141,
+    "word": "buy",
+    "part_of_speech": "verb",
+    "meaning": "사다",
+    "grammar_pattern": "긍정문",
+    "example": "I am going to buy a sweet ice cream.",
+    "example_translation": "나는 달콤한 아이스크림을 사러 가는 중이야."
+  },
+  {
+    "id": 142,
+    "word": "by",
+    "part_of_speech": "preposition",
+    "meaning": "곁에",
+    "grammar_pattern": "동명사",
+    "example": "The puppy is sleeping by my side.",
+    "example_translation": "강아지가 내 옆에서 잠을 자고 있어."
+  },
+  {
+    "id": 143,
+    "word": "cage",
+    "part_of_speech": "noun",
+    "meaning": "새장(우리)",
+    "grammar_pattern": "There is/are",
+    "example": "There is a little bird in the cage.",
+    "example_translation": "새장 안에 작은 새가 있어."
+  },
+  {
+    "id": 144,
+    "word": "calendar",
+    "part_of_speech": "noun",
+    "meaning": "달력",
+    "grammar_pattern": "명령문",
+    "example": "Look at the colorful calendar.",
+    "example_translation": "알록달록한 달력을 보렴."
+  },
+  {
+    "id": 145,
+    "word": "call",
+    "part_of_speech": "verb",
+    "meaning": "부르다",
+    "grammar_pattern": "동명사",
+    "example": "My friend is calling my name.",
+    "example_translation": "내 친구가 내 이름을 부르고 있어."
+  },
+  {
+    "id": 146,
+    "word": "calm",
+    "part_of_speech": "adjective",
+    "meaning": "평온한(잔잔한)",
+    "grammar_pattern": "긍정문",
+    "example": "The blue sea is very calm today.",
+    "example_translation": "푸른 바다가 오늘 무척 잔잔하구나."
+  },
+  {
+    "id": 147,
+    "word": "can",
+    "part_of_speech": "modal verb",
+    "meaning": "~할 수 있다",
+    "grammar_pattern": "긍정문",
+    "example": "You can do it!",
+    "example_translation": "너는 할 수 있어!"
+  },
+  {
+    "id": 148,
+    "word": "candy",
+    "part_of_speech": "noun",
+    "meaning": "사탕과자",
+    "grammar_pattern": "동명사",
+    "example": "Eating too much candy is bad for your teeth.",
+    "example_translation": "사탕을 너무 많이 먹는 것은 치아에 나빠."
+  },
+  {
+    "id": 149,
+    "word": "cap",
+    "part_of_speech": "noun",
+    "meaning": "모자",
+    "grammar_pattern": "동명사",
+    "example": "He is wearing a cool red cap.",
+    "example_translation": "그는 멋진 빨간 모자를 쓰고 있어."
+  },
+  {
+    "id": 150,
+    "word": "captain",
+    "part_of_speech": "noun",
+    "meaning": "우두머리(선장)",
+    "grammar_pattern": "동명사",
+    "example": "The brave captain is sailing the ship.",
+    "example_translation": "용감한 선장님이 배를 항해하고 계셔."
+  },
+  {
+    "id": 151,
+    "word": "car",
+    "part_of_speech": "noun",
+    "meaning": "자동차",
+    "grammar_pattern": "원급비교",
+    "example": "My toy car is as fast as a real car.",
+    "example_translation": "내 장난감 차는 진짜 차만큼 빨라."
+  },
+  {
+    "id": 152,
+    "word": "care",
+    "part_of_speech": "noun",
+    "meaning": "걱정(돌봄)",
+    "grammar_pattern": "긍정문",
+    "example": "We must take care of pets.",
+    "example_translation": "우리는 반려동물들을 돌봐야 해."
+  },
+  {
+    "id": 153,
+    "word": "carrot",
+    "part_of_speech": "noun",
+    "meaning": "당근",
+    "grammar_pattern": "동명사",
+    "example": "The rabbit is chewing a sweet carrot.",
+    "example_translation": "토끼가 달콤한 당근을 씹고 있어."
+  },
+  {
+    "id": 154,
+    "word": "carry",
+    "part_of_speech": "verb",
+    "meaning": "나르다",
+    "grammar_pattern": "동명사",
+    "example": "The strong ants are carrying a leaf.",
+    "example_translation": "힘센 개미들이 나뭇잎을 나르고 있어."
+  },
+  {
+    "id": 155,
+    "word": "cart",
+    "part_of_speech": "noun",
+    "meaning": "짐마차(수레)",
+    "grammar_pattern": "There is/are",
+    "example": "There are many apples in the shopping cart.",
+    "example_translation": "쇼핑카트 안에 사과들이 많이 있어."
+  },
+  {
+    "id": 156,
+    "word": "case",
+    "part_of_speech": "noun",
+    "meaning": "경우(상자)",
+    "grammar_pattern": "명령문",
+    "example": "Put your pencils into the case.",
+    "example_translation": "필통 상자 안에 연필들을 넣으렴."
+  },
+  {
+    "id": 157,
+    "word": "cash",
+    "part_of_speech": "adjective",
+    "meaning": "현금의",
+    "grammar_pattern": "의문문",
+    "example": "Does he have any cash?",
+    "example_translation": "그는 현금을 좀 가지고 있니?"
+  },
+  {
+    "id": 158,
+    "word": "castle",
+    "part_of_speech": "noun",
+    "meaning": "성",
+    "grammar_pattern": "감탄문",
+    "example": "What a big and beautiful castle!",
+    "example_translation": "정말 크고 아름다운 성이구나!"
+  },
+  {
+    "id": 159,
+    "word": "cat",
+    "part_of_speech": "noun",
+    "meaning": "고양이",
+    "grammar_pattern": "동명사",
+    "example": "The white cat is sleeping on the sofa.",
+    "example_translation": "하얀 고양이가 소파 위에서 잠을 자고 있어."
+  },
+  {
+    "id": 160,
+    "word": "catch",
+    "part_of_speech": "verb",
+    "meaning": "붙잡다",
+    "grammar_pattern": "청유문",
+    "example": "Let's catch the yellow butterfly!",
+    "example_translation": "저 노란 나비를 잡자!"
+  },
+  {
+    "id": 161,
+    "word": "certain",
+    "part_of_speech": "adjective",
+    "meaning": "확실한",
+    "grammar_pattern": "긍정문",
+    "example": "I am certain of our success.",
+    "example_translation": "나는 우리의 성공을 확신해."
+  },
+  {
+    "id": 162,
+    "word": "chain",
+    "part_of_speech": "noun",
+    "meaning": "사술(사슬)",
+    "grammar_pattern": "동명사",
+    "example": "The bike chain is moving fast.",
+    "example_translation": "자전거 체인이 빠르게 움직이고 있어."
+  },
+  {
+    "id": 163,
+    "word": "chair",
+    "part_of_speech": "noun",
+    "meaning": "의장(의자)",
+    "grammar_pattern": "명령문",
+    "example": "Sit down on the wooden chair.",
+    "example_translation": "나무 의자에 앉으렴."
+  },
+  {
+    "id": 164,
+    "word": "chance",
+    "part_of_speech": "noun",
+    "meaning": "우연(기회)",
+    "grammar_pattern": "명령문",
+    "example": "Give me one more chance, please.",
+    "example_translation": "제게 기회를 한 번만 더 주세요."
+  },
+  {
+    "id": 165,
+    "word": "change",
+    "part_of_speech": "noun",
+    "meaning": "변화",
+    "grammar_pattern": "동명사",
+    "example": "The green leaves are changing color.",
+    "example_translation": "초록색 나뭇잎들이 색을 바꾸고 있어."
+  },
+  {
+    "id": 166,
+    "word": "cheap",
+    "part_of_speech": "adjective",
+    "meaning": "값싼",
+    "grammar_pattern": "긍정문",
+    "example": "This cute notebook is very cheap.",
+    "example_translation": "이 귀여운 공책은 아주 싸."
+  },
+  {
+    "id": 167,
+    "word": "check",
+    "part_of_speech": "noun",
+    "meaning": "방해(점검)",
+    "grammar_pattern": "명령문",
+    "example": "Please check your backpack before school.",
+    "example_translation": "학교 가기 전에 배낭을 확인하렴."
+  },
+  {
+    "id": 168,
+    "word": "child",
+    "part_of_speech": "noun",
+    "meaning": "아이",
+    "grammar_pattern": "동명사",
+    "example": "The happy child is laughing out loud.",
+    "example_translation": "행복한 아이가 크게 웃고 있어."
+  },
+  {
+    "id": 169,
+    "word": "choose",
+    "part_of_speech": "verb",
+    "meaning": "고르다",
+    "grammar_pattern": "to부정사",
+    "example": "I want to choose a pink balloon.",
+    "example_translation": "나는 분홍색 풍선을 고르고 싶어."
+  },
+  {
+    "id": 170,
+    "word": "church",
+    "part_of_speech": "noun",
+    "meaning": "교회",
+    "grammar_pattern": "긍정문",
+    "example": "We go to church on Sundays.",
+    "example_translation": "우리는 일요일마다 교회에 가."
+  },
+  {
+    "id": 171,
+    "word": "cinema",
+    "part_of_speech": "noun",
+    "meaning": "영화관",
+    "grammar_pattern": "의문문",
+    "example": "Are we going to the cinema today?",
+    "example_translation": "우리 오늘 영화관에 가나요?"
+  },
+  {
+    "id": 172,
+    "word": "circle",
+    "part_of_speech": "noun",
+    "meaning": "원",
+    "grammar_pattern": "명령문",
+    "example": "Draw a big circle on the paper.",
+    "example_translation": "종이에 큰 동그라미를 그리렴."
+  },
+  {
+    "id": 173,
+    "word": "city",
+    "part_of_speech": "noun",
+    "meaning": "도시",
+    "grammar_pattern": "동명사",
+    "example": "Living in a big city is exciting.",
+    "example_translation": "큰 도시에 사는 것은 흥미진진해."
+  },
+  {
+    "id": 174,
+    "word": "class",
+    "part_of_speech": "noun",
+    "meaning": "계급(수업)",
+    "grammar_pattern": "동명사",
+    "example": "The English class is starting now.",
+    "example_translation": "영어 수업이 지금 시작하고 있어."
+  },
+  {
+    "id": 175,
+    "word": "classroom",
+    "part_of_speech": "noun",
+    "meaning": "교실",
+    "grammar_pattern": "There is/are",
+    "example": "There are twenty desks in our classroom.",
+    "example_translation": "우리 교실에는 책상 20개가 있어."
+  },
+  {
+    "id": 176,
+    "word": "clean",
+    "part_of_speech": "adjective",
+    "meaning": "청결한",
+    "grammar_pattern": "긍정문",
+    "example": "I am cleaning my room now.",
+    "example_translation": "나는 지금 내 방을 청소하고 있어."
+  },
+  {
+    "id": 177,
+    "word": "clear",
+    "part_of_speech": "noun",
+    "meaning": "맑은(투명한)",
+    "grammar_pattern": "원급비교",
+    "example": "The river water is as clear as glass.",
+    "example_translation": "강물이 유리만큼 투명하구나."
+  },
+  {
+    "id": 178,
+    "word": "clerk",
+    "part_of_speech": "noun",
+    "meaning": "서기(점원)",
+    "grammar_pattern": "동명사",
+    "example": "The kind clerk is smiling at us.",
+    "example_translation": "친절한 점원분이 우리를 보고 미소 짓고 계셔."
+  },
+  {
+    "id": 179,
+    "word": "clever",
+    "part_of_speech": "adjective",
+    "meaning": "영리한",
+    "grammar_pattern": "감탄문",
+    "example": "What a clever dog you have!",
+    "example_translation": "너 정말 영리한 개를 가졌구나!"
+  },
+  {
+    "id": 180,
+    "word": "climb",
+    "part_of_speech": "verb",
+    "meaning": "기어오르다",
+    "grammar_pattern": "동명사",
+    "example": "The cute monkey is climbing the tree.",
+    "example_translation": "귀여운 원숭이가 나무를 오르고 있어."
+  },
+  {
+    "id": 181,
+    "word": "clip",
+    "part_of_speech": "verb",
+    "meaning": "가위로 자르다",
+    "grammar_pattern": "There is/are",
+    "example": "There is a blue clip on the papers.",
+    "example_translation": "종이들 위에 파란 클립이 있어."
+  },
+  {
+    "id": 182,
+    "word": "clock",
+    "part_of_speech": "noun",
+    "meaning": "시계",
+    "grammar_pattern": "동명사",
+    "example": "The wall clock is ticking loudly.",
+    "example_translation": "벽시계가 소리 내며 가고 있어."
+  },
+  {
+    "id": 183,
+    "word": "close",
+    "part_of_speech": "verb",
+    "meaning": "닫다",
+    "grammar_pattern": "명령문",
+    "example": "Please close the door quietly.",
+    "example_translation": "문을 조용히 닫아주렴."
+  },
+  {
+    "id": 184,
+    "word": "cloth",
+    "part_of_speech": "noun",
+    "meaning": "천",
+    "grammar_pattern": "동명사",
+    "example": "She is wiping the table with a soft cloth.",
+    "example_translation": "그녀는 부드러운 천으로 테이블을 닦고 있어."
+  },
+  {
+    "id": 185,
+    "word": "cloud",
+    "part_of_speech": "noun",
+    "meaning": "구름",
+    "grammar_pattern": "동명사",
+    "example": "A white cloud is floating in the sky.",
+    "example_translation": "하얀 구름이 하늘에 떠다니고 있어."
+  },
+  {
+    "id": 186,
+    "word": "club",
+    "part_of_speech": "noun",
+    "meaning": "클럽(동아리)",
+    "grammar_pattern": "to부정사",
+    "example": "I want to join the art club.",
+    "example_translation": "나는 미술 동아리에 가입하고 싶어."
+  },
+  {
+    "id": 187,
+    "word": "coin",
+    "part_of_speech": "noun",
+    "meaning": "화폐(동전)",
+    "grammar_pattern": "There is/are",
+    "example": "There are five silver coins in my pocket.",
+    "example_translation": "내 주머니 속에 은색 동전 다섯 개가 있어."
+  },
+  {
+    "id": 188,
+    "word": "cold",
+    "part_of_speech": "adjective",
+    "meaning": "추운",
+    "grammar_pattern": "긍정문",
+    "example": "The winter wind is very cold.",
+    "example_translation": "겨울 바람이 무척 춥구나."
+  },
+  {
+    "id": 189,
+    "word": "collect",
+    "part_of_speech": "verb",
+    "meaning": "모으다",
+    "grammar_pattern": "긍정문",
+    "example": "He loves collecting colorful stamps.",
+    "example_translation": "그는 알록달록한 우표를 모으는 것을 사랑해."
+  },
+  {
+    "id": 190,
+    "word": "college",
+    "part_of_speech": "noun",
+    "meaning": "단과대학",
+    "grammar_pattern": "긍정문",
+    "example": "My big sister goes to college.",
+    "example_translation": "우리 누나/언니는 대학에 다녀."
+  },
+  {
+    "id": 191,
+    "word": "color",
+    "part_of_speech": "verb",
+    "meaning": "착색하다(칠하다)",
+    "grammar_pattern": "의문문",
+    "example": "What color do you like?",
+    "example_translation": "너는 어떤 색깔을 좋아하니?"
+  },
+  {
+    "id": 192,
+    "word": "come",
+    "part_of_speech": "verb",
+    "meaning": "오다",
+    "grammar_pattern": "동명사",
+    "example": "The yellow school bus is coming.",
+    "example_translation": "노란색 스쿨버스가 오고 있어."
+  },
+  {
+    "id": 193,
+    "word": "comedy",
+    "part_of_speech": "noun",
+    "meaning": "희극",
+    "grammar_pattern": "동명사",
+    "example": "Watching a comedy makes me laugh.",
+    "example_translation": "코미디를 보는 것은 나를 웃게 만들어."
+  },
+  {
+    "id": 194,
+    "word": "company",
+    "part_of_speech": "noun",
+    "meaning": "교제(회사)",
+    "grammar_pattern": "긍정문",
+    "example": "My dad works at a big company.",
+    "example_translation": "우리 아빠는 큰 회사에서 일하셔."
+  },
+  {
+    "id": 195,
+    "word": "concert",
+    "part_of_speech": "noun",
+    "meaning": "연주회",
+    "grammar_pattern": "동명사",
+    "example": "They are playing music at the concert.",
+    "example_translation": "그들은 콘서트에서 음악을 연주하고 있어."
+  },
+  {
+    "id": 196,
+    "word": "condition",
+    "part_of_speech": "noun",
+    "meaning": "조건(상태)",
+    "grammar_pattern": "긍정문",
+    "example": "My bicycle is in good condition.",
+    "example_translation": "내 자전거는 상태가 아주 좋아."
+  },
+  {
+    "id": 197,
+    "word": "congratulate",
+    "part_of_speech": "verb",
+    "meaning": "축하하다",
+    "grammar_pattern": "긍정문",
+    "example": "We are here to congratulate your birthday.",
+    "example_translation": "우리는 네 생일을 축하하기 위해 여기 있어."
+  },
+  {
+    "id": 198,
+    "word": "contest",
+    "part_of_speech": "verb",
+    "meaning": "겨루다(경연)",
+    "grammar_pattern": "동명사",
+    "example": "She is practicing hard for the piano contest.",
+    "example_translation": "그녀는 피아노 대회를 위해 열심히 연습하고 있어."
+  },
+  {
+    "id": 199,
+    "word": "control",
+    "part_of_speech": "verb",
+    "meaning": "억제하다(조절하다)",
+    "grammar_pattern": "긍정문",
+    "example": "I am controlling the toy airplane.",
+    "example_translation": "나는 장난감 비행기를 조종하고 있어."
+  },
+  {
+    "id": 200,
+    "word": "cook",
+    "part_of_speech": "verb",
+    "meaning": "요리하다",
+    "grammar_pattern": "동명사",
+    "example": "Dad is cooking delicious spaghetti for us.",
+    "example_translation": "아빠가 우리를 위해 맛있는 스파게티를 요리하고 계셔."
+  },
+  {
+    "id": 201,
+    "word": "cookie",
+    "part_of_speech": "noun",
+    "meaning": "쿠키",
+    "grammar_pattern": "동명사",
+    "example": "Making sweet cookies with mom is fun.",
+    "example_translation": "엄마와 달콤한 쿠키를 만드는 것은 재미있어."
+  },
+  {
+    "id": 202,
+    "word": "cool",
+    "part_of_speech": "adjective",
+    "meaning": "서늘한(멋진)",
+    "grammar_pattern": "긍정문",
+    "example": "The autumn breeze is so cool!",
+    "example_translation": "가을 바람이 정말 시원하구나!"
+  },
+  {
+    "id": 203,
+    "word": "copy",
+    "part_of_speech": "noun",
+    "meaning": "사본(복사)",
+    "grammar_pattern": "동명사",
+    "example": "The cute parrot is copying my words.",
+    "example_translation": "귀여운 앵무새가 내 말을 따라 하고 있어."
+  },
+  {
+    "id": 204,
+    "word": "corner",
+    "part_of_speech": "noun",
+    "meaning": "모퉁이",
+    "grammar_pattern": "There is/are",
+    "example": "There is a big teddy bear in the corner.",
+    "example_translation": "구석에 큰 곰 인형이 있어."
+  },
+  {
+    "id": 205,
+    "word": "cost",
+    "part_of_speech": "noun",
+    "meaning": "가격(비용)",
+    "grammar_pattern": "의문문",
+    "example": "How much does this toy cost?",
+    "example_translation": "이 장난감은 가격이 얼마인가요?"
+  },
+  {
+    "id": 206,
+    "word": "cotton",
+    "part_of_speech": "noun",
+    "meaning": "목화(면)",
+    "grammar_pattern": "원급비교",
+    "example": "The white cloud looks as soft as cotton.",
+    "example_translation": "하얀 구름이 솜만큼 부드러워 보여."
+  },
+  {
+    "id": 207,
+    "word": "could",
+    "part_of_speech": "modal verb",
+    "meaning": "~할수있었다(can의과거)",
+    "grammar_pattern": "긍정문",
+    "example": "I wish I could fly like a bird.",
+    "example_translation": "새처럼 날 수 있다면 좋을 텐데."
+  },
+  {
+    "id": 208,
+    "word": "country",
+    "part_of_speech": "noun",
+    "meaning": "나라",
+    "grammar_pattern": "긍정문",
+    "example": "Korea is a beautiful country.",
+    "example_translation": "한국은 아름다운 나라야."
+  },
+  {
+    "id": 209,
+    "word": "countryside",
+    "part_of_speech": "noun",
+    "meaning": "시골",
+    "grammar_pattern": "긍정문",
+    "example": "My grandparents live in the countryside.",
+    "example_translation": "우리 할머니 할아버지는 시골에 사셔."
+  },
+  {
+    "id": 210,
+    "word": "couple",
+    "part_of_speech": "noun",
+    "meaning": "한 쌍",
+    "grammar_pattern": "There is/are",
+    "example": "There is a lovely couple on the bench.",
+    "example_translation": "벤치 위에 사랑스러운 커플이 있어."
+  },
+  {
+    "id": 211,
+    "word": "cousin",
+    "part_of_speech": "noun",
+    "meaning": "사촌",
+    "grammar_pattern": "동명사",
+    "example": "My cousin is visiting our home today.",
+    "example_translation": "내 사촌이 오늘 우리 집을 방문하고 있어."
+  },
+  {
+    "id": 212,
+    "word": "cover",
+    "part_of_speech": "verb",
+    "meaning": "덮다",
+    "grammar_pattern": "명령문",
+    "example": "Please cover the baby with a blanket.",
+    "example_translation": "아기를 담요로 덮어주렴."
+  },
+  {
+    "id": 213,
+    "word": "cow",
+    "part_of_speech": "verb",
+    "meaning": "위협하다(암소)",
+    "grammar_pattern": "동명사",
+    "example": "The big cow is eating green grass.",
+    "example_translation": "큰 소가 초록색 풀을 먹고 있어."
+  },
+  {
+    "id": 214,
+    "word": "crazy",
+    "part_of_speech": "adjective",
+    "meaning": "미친(열광적인)",
+    "grammar_pattern": "긍정문",
+    "example": "This weather is completely crazy!",
+    "example_translation": "이 날씨는 정말 말도 안 돼!"
+  },
+  {
+    "id": 215,
+    "word": "cross",
+    "part_of_speech": "noun",
+    "meaning": "십자형(건너다)",
+    "grammar_pattern": "동명사",
+    "example": "We are crossing the street safely.",
+    "example_translation": "우리는 안전하게 길을 건너고 있어."
+  },
+  {
+    "id": 216,
+    "word": "crowd",
+    "part_of_speech": "noun",
+    "meaning": "군중",
+    "grammar_pattern": "There is/are",
+    "example": "There is a big crowd at the park.",
+    "example_translation": "공원에 많은 인파가 모여 있어."
+  },
+  {
+    "id": 217,
+    "word": "crown",
+    "part_of_speech": "noun",
+    "meaning": "왕관",
+    "grammar_pattern": "동명사",
+    "example": "The beautiful princess is wearing a gold crown.",
+    "example_translation": "아름다운 공주님이 금왕관을 쓰고 계셔."
+  },
+  {
+    "id": 218,
+    "word": "cry",
+    "part_of_speech": "verb",
+    "meaning": "소리치다(울다)",
+    "grammar_pattern": "동명사",
+    "example": "The little baby is crying for milk.",
+    "example_translation": "작은 아기가 우유를 달라고 울고 있어."
+  },
+  {
+    "id": 219,
+    "word": "culture",
+    "part_of_speech": "noun",
+    "meaning": "문화",
+    "grammar_pattern": "동명사",
+    "example": "Learning about a new culture is fun.",
+    "example_translation": "새로운 문화에 대해 배우는 것은 재미있어."
+  },
+  {
+    "id": 220,
+    "word": "curious",
+    "part_of_speech": "adjective",
+    "meaning": "이상스러운(호기심이 많은)",
+    "grammar_pattern": "동명사",
+    "example": "The curious kitten is looking at the fish.",
+    "example_translation": "호기심 많은 새끼 고양이가 물고기를 바라보고 있어."
+  },
+  {
+    "id": 221,
+    "word": "curtain",
+    "part_of_speech": "noun",
+    "meaning": "커튼",
+    "grammar_pattern": "명령문",
+    "example": "Close the yellow curtain, please.",
+    "example_translation": "노란 커튼을 닫아주세요."
+  },
+  {
+    "id": 222,
+    "word": "customer",
+    "part_of_speech": "noun",
+    "meaning": "고객",
+    "grammar_pattern": "There is/are",
+    "example": "There are many customers in the bakery.",
+    "example_translation": "빵집 안에 많은 손님들이 있어."
+  },
+  {
+    "id": 223,
+    "word": "cut",
+    "part_of_speech": "verb",
+    "meaning": "베다(자르다)",
+    "grammar_pattern": "동명사",
+    "example": "He is cutting the colored paper.",
+    "example_translation": "그는 색종이를 자르고 있어."
+  },
+  {
+    "id": 224,
+    "word": "cute",
+    "part_of_speech": "adjective",
+    "meaning": "귀여운",
+    "grammar_pattern": "감탄문",
+    "example": "What a cute little puppy!",
+    "example_translation": "정말 귀여운 아기 강아지구나!"
+  },
+  {
+    "id": 225,
+    "word": "cycle",
+    "part_of_speech": "noun",
+    "meaning": "순환",
+    "grammar_pattern": "동명사",
+    "example": "My brother is cycling in the playground.",
+    "example_translation": "내 남동생은 운동장에서 자전거를 타고 있어."
+  },
+  {
+    "id": 226,
+    "word": "dad",
+    "part_of_speech": "noun",
+    "meaning": "아빠",
+    "grammar_pattern": "동명사",
+    "example": "My dad is washing his car.",
+    "example_translation": "우리 아빠는 차를 세차하고 계셔."
+  },
+  {
+    "id": 227,
+    "word": "dance",
+    "part_of_speech": "noun",
+    "meaning": "댄스(춤추다)",
+    "grammar_pattern": "청유문",
+    "example": "Let's dance together to the music!",
+    "example_translation": "음악에 맞춰 다 함께 춤추자!"
+  },
+  {
+    "id": 228,
+    "word": "danger",
+    "part_of_speech": "noun",
+    "meaning": "위험",
+    "grammar_pattern": "명령문",
+    "example": "Stay away from danger!",
+    "example_translation": "위험으로부터 멀리 떨어지렴!"
+  },
+  {
+    "id": 229,
+    "word": "dark",
+    "part_of_speech": "adjective",
+    "meaning": "어두운",
+    "grammar_pattern": "동명사",
+    "example": "The bedroom is getting very dark.",
+    "example_translation": "침실이 아주 어두워지고 있어."
+  },
+  {
+    "id": 230,
+    "word": "date",
+    "part_of_speech": "noun",
+    "meaning": "날짜",
+    "grammar_pattern": "의문문",
+    "example": "What is the date today?",
+    "example_translation": "오늘 날짜가 몇 일이지?"
+  },
+  {
+    "id": 231,
+    "word": "daughter",
+    "part_of_speech": "noun",
+    "meaning": "딸",
+    "grammar_pattern": "동명사",
+    "example": "The sweet daughter is helping her mom.",
+    "example_translation": "착한 딸이 엄마를 돕고 있어."
+  },
+  {
+    "id": 232,
+    "word": "day",
+    "part_of_speech": "noun",
+    "meaning": "낮(하루)",
+    "grammar_pattern": "긍정문",
+    "example": "Today is a very happy day!",
+    "example_translation": "오늘은 정말 행복한 날이야!"
+  },
+  {
+    "id": 233,
+    "word": "dead",
+    "part_of_speech": "adjective",
+    "meaning": "죽은",
+    "grammar_pattern": "긍정문",
+    "example": "The dried plant is dead.",
+    "example_translation": "말라버린 식물이 죽었어."
+  },
+  {
+    "id": 234,
+    "word": "death",
+    "part_of_speech": "noun",
+    "meaning": "죽음",
+    "grammar_pattern": "부정문",
+    "example": "I do not fear the death of winter leaves.",
+    "example_translation": "나는 겨울 나뭇잎들이 지는 것(죽음)이 두렵지 않아."
+  },
+  {
+    "id": 235,
+    "word": "decide",
+    "part_of_speech": "verb",
+    "meaning": "결정하다",
+    "grammar_pattern": "to부정사",
+    "example": "I want to decide my own game.",
+    "example_translation": "나는 나만의 게임을 결정하고 싶어."
+  },
+  {
+    "id": 236,
+    "word": "deep",
+    "part_of_speech": "adjective",
+    "meaning": "깊은",
+    "grammar_pattern": "원급비교",
+    "example": "The swimming pool is as deep as the sea.",
+    "example_translation": "이 수영장은 바다만큼 깊구나."
+  },
+  {
+    "id": 237,
+    "word": "delicious",
+    "part_of_speech": "adjective",
+    "meaning": "맛있는",
+    "grammar_pattern": "긍정문",
+    "example": "This strawberry cake is so delicious!",
+    "example_translation": "이 딸기 케이크는 정말 맛있다!"
+  },
+  {
+    "id": 238,
+    "word": "dentist",
+    "part_of_speech": "noun",
+    "meaning": "치과의사",
+    "grammar_pattern": "긍정문",
+    "example": "I am visiting the dentist today.",
+    "example_translation": "나는 오늘 치과 의사 선생님을 만나러 가고 있어."
+  },
+  {
+    "id": 239,
+    "word": "design",
+    "part_of_speech": "noun",
+    "meaning": "디자인",
+    "grammar_pattern": "동명사",
+    "example": "She is designing a beautiful dress.",
+    "example_translation": "그녀는 아름다운 드레스를 디자인하고 있어."
+  },
+  {
+    "id": 240,
+    "word": "desk",
+    "part_of_speech": "noun",
+    "meaning": "책상",
+    "grammar_pattern": "There is/are",
+    "example": "There is a storybook on my desk.",
+    "example_translation": "내 책상 위에 동화책이 한 권 있어."
+  },
+  {
+    "id": 241,
+    "word": "dialogue",
+    "part_of_speech": "noun",
+    "meaning": "대화",
+    "grammar_pattern": "긍정문",
+    "example": "The bright sun rose in the east.",
+    "example_translation": "밝은 태양이 동쪽에서 떠 올랐어."
+  },
+  {
+    "id": 242,
+    "word": "diary",
+    "part_of_speech": "adjective",
+    "meaning": "일기(의)",
+    "grammar_pattern": "긍정문",
+    "example": "The math puzzle was very easy.",
+    "example_translation": "그 수학 퍼즐은 무척 쉬웠어."
+  },
+  {
+    "id": 243,
+    "word": "die",
+    "part_of_speech": "verb",
+    "meaning": "죽다",
+    "grammar_pattern": "긍정문",
+    "example": "We ate delicious strawberry cake.",
+    "example_translation": "우리는 맛있는 딸기 케이크를 먹었어."
+  },
+  {
+    "id": 244,
+    "word": "different",
+    "part_of_speech": "adjective",
+    "meaning": "다른",
+    "grammar_pattern": "긍정문",
+    "example": "She dropped an egg on the floor.",
+    "example_translation": "그녀는 바닥에 달걀을 떨어뜨렸어."
+  },
+  {
+    "id": 245,
+    "word": "difficult",
+    "part_of_speech": "adjective",
+    "meaning": "곤란한(어려운)",
+    "grammar_pattern": "긍정문",
+    "example": "He found eight shiny coins.",
+    "example_translation": "그는 반짝이는 동전 8개를 발견했어."
+  },
+  {
+    "id": 246,
+    "word": "dinner",
+    "part_of_speech": "noun",
+    "meaning": "정찬(저녁 식사)",
+    "grammar_pattern": "긍정문",
+    "example": "The big elephant sprayed water.",
+    "example_translation": "큰 코끼리가 물을 뿌렸어."
+  },
+  {
+    "id": 247,
+    "word": "dirty",
+    "part_of_speech": "adjective",
+    "meaning": "더러운",
+    "grammar_pattern": "긍정문",
+    "example": "Eleven birds flew into the sky.",
+    "example_translation": "열한 마리의 새들이 하늘로 날아갔어."
+  },
+  {
+    "id": 248,
+    "word": "discuss",
+    "part_of_speech": "verb",
+    "meaning": "토론하다",
+    "grammar_pattern": "긍정문",
+    "example": "No one else came to the park.",
+    "example_translation": "그 누구도 공원에 오지 않았어."
+  },
+  {
+    "id": 249,
+    "word": "dish",
+    "part_of_speech": "noun",
+    "meaning": "접시",
+    "grammar_pattern": "긍정문",
+    "example": "The wooden box was completely empty.",
+    "example_translation": "그 나무 상자는 완전히 비어 있었어."
+  },
+  {
+    "id": 250,
+    "word": "divide",
+    "part_of_speech": "verb",
+    "meaning": "나누다",
+    "grammar_pattern": "긍정문",
+    "example": "The fun movie ended too fast.",
+    "example_translation": "재미있는 영화가 너무 빨리 끝났어."
+  },
+  {
+    "id": 251,
+    "word": "do",
+    "part_of_speech": "verb",
+    "meaning": "하다",
+    "grammar_pattern": "긍정문",
+    "example": "The toy train's engine worked well.",
+    "example_translation": "장난감 기차의 엔진이 잘 작동했어."
+  },
+  {
+    "id": 252,
+    "word": "doctor",
+    "part_of_speech": "noun",
+    "meaning": "박사(의사)",
+    "grammar_pattern": "긍정문",
+    "example": "They enjoyed playing soccer.",
+    "example_translation": "그들은 축구 하는 것을 즐겼어."
+  },
+  {
+    "id": 253,
+    "word": "dog",
+    "part_of_speech": "noun",
+    "meaning": "개",
+    "grammar_pattern": "긍정문",
+    "example": "We had enough time to play.",
+    "example_translation": "우리는 놀기에 충분한 시간을 가졌어."
+  },
+  {
+    "id": 254,
+    "word": "doll",
+    "part_of_speech": "noun",
+    "meaning": "인형",
+    "grammar_pattern": "긍정문",
+    "example": "He erased the mistake on paper.",
+    "example_translation": "그는 종이 위의 실수를 지웠어."
+  },
+  {
+    "id": 255,
+    "word": "dolphin",
+    "part_of_speech": "noun",
+    "meaning": "돌고래",
+    "grammar_pattern": "긍정문",
+    "example": "She borrowed a small pink eraser.",
+    "example_translation": "그녀는 작은 분홍색 지우개를 빌렸어."
+  },
+  {
+    "id": 256,
+    "word": "door",
+    "part_of_speech": "noun",
+    "meaning": "문",
+    "grammar_pattern": "긍정문",
+    "example": "They watched the stars in the evening.",
+    "example_translation": "그들은 저녁에 별을 바라보았어."
+  },
+  {
+    "id": 257,
+    "word": "double",
+    "part_of_speech": "noun",
+    "meaning": "2배의",
+    "grammar_pattern": "긍정문",
+    "example": "Every student liked the kind teacher.",
+    "example_translation": "모든 학생이 그 친절한 선생님을 좋아했어."
+  },
+  {
+    "id": 258,
+    "word": "down",
+    "part_of_speech": "noun",
+    "meaning": "아래로",
+    "grammar_pattern": "긍정문",
+    "example": "The teacher showed a clear example.",
+    "example_translation": "선생님은 명확한 예시를 보여주셨어."
+  },
+  {
+    "id": 259,
+    "word": "draw",
+    "part_of_speech": "verb",
+    "meaning": "당기다(그리다)",
+    "grammar_pattern": "동명사",
+    "example": "Your clever drawing was excellent!",
+    "example_translation": "너의 똑똑한 그림은 정말 훌륭했어!"
+  },
+  {
+    "id": 260,
+    "word": "dream",
+    "part_of_speech": "noun",
+    "meaning": "꿈",
+    "grammar_pattern": "긍정문",
+    "example": "The magic show excited the children.",
+    "example_translation": "마술 쇼가 아이들을 흥분시켰어."
+  },
+  {
+    "id": 261,
+    "word": "drink",
+    "part_of_speech": "verb",
+    "meaning": "마시다",
+    "grammar_pattern": "긍정문",
+    "example": "He made a silly excuse for being late.",
+    "example_translation": "그는 늦은 것에 대해 바보 같은 변명을 했어."
+  },
+  {
+    "id": 262,
+    "word": "drive",
+    "part_of_speech": "verb",
+    "meaning": "운전하다(몰다)",
+    "grammar_pattern": "긍정문",
+    "example": "We did morning exercise in the yard.",
+    "example_translation": "우리는 마당에서 아침 운동을 했어."
+  },
+  {
+    "id": 263,
+    "word": "drop",
+    "part_of_speech": "noun",
+    "meaning": "방울",
+    "grammar_pattern": "긍정문",
+    "example": "The cute puppy opened its eyes.",
+    "example_translation": "귀여운 강아지가 눈을 떴어."
+  },
+  {
+    "id": 264,
+    "word": "dry",
+    "part_of_speech": "noun",
+    "meaning": "마른(말리다)",
+    "grammar_pattern": "긍정문",
+    "example": "She washed her face with cold water.",
+    "example_translation": "그녀는 찬물로 얼굴을 씻었어."
+  },
+  {
+    "id": 265,
+    "word": "duck",
+    "part_of_speech": "noun",
+    "meaning": "머리를 물 속에 처박다",
+    "grammar_pattern": "긍정문",
+    "example": "He learned an interesting scientific fact.",
+    "example_translation": "그는 흥미로운 과학적 사실을 배웠어."
+  },
+  {
+    "id": 266,
+    "word": "during",
+    "part_of_speech": "preposition",
+    "meaning": "-동안에",
+    "grammar_pattern": "긍정문",
+    "example": "The chocolate factory looked huge.",
+    "example_translation": "그 초콜릿 공장은 거대해 보였어."
+  },
+  {
+    "id": 267,
+    "word": "ear",
+    "part_of_speech": "noun",
+    "meaning": "귀",
+    "grammar_pattern": "긍정문",
+    "example": "They failed to catch the last bus.",
+    "example_translation": "그들은 마지막 버스를 놓쳤어."
+  },
+  {
+    "id": 268,
+    "word": "early",
+    "part_of_speech": "adverb",
+    "meaning": "이른(일찍)",
+    "grammar_pattern": "부정문",
+    "example": "The game rule was not fair.",
+    "example_translation": "그 게임 규칙은 공평하지 않았어."
+  },
+  {
+    "id": 269,
+    "word": "earth",
+    "part_of_speech": "noun",
+    "meaning": "지구",
+    "grammar_pattern": "긍정문",
+    "example": "A red leaf fell from the tree.",
+    "example_translation": "빨간 나뭇잎이 나무에서 떨어졌어."
+  },
+  {
+    "id": 270,
+    "word": "east",
+    "part_of_speech": "adverb",
+    "meaning": "동쪽(으로)",
+    "grammar_pattern": "긍정문",
+    "example": "My family went to the warm beach.",
+    "example_translation": "우리 가족은 따뜻한 해변으로 갔어."
+  },
+  {
+    "id": 271,
+    "word": "easy",
+    "part_of_speech": "adjective",
+    "meaning": "쉬운",
+    "grammar_pattern": "긍정문",
+    "example": "The famous baker made a giant bread.",
+    "example_translation": "그 유명한 제빵사는 거대한 빵을 만들었어."
+  },
+  {
+    "id": 272,
+    "word": "eat",
+    "part_of_speech": "verb",
+    "meaning": "먹다",
+    "grammar_pattern": "긍정문",
+    "example": "She turned on the electric fan.",
+    "example_translation": "그녀는 선풍기를 켰어."
+  },
+  {
+    "id": 273,
+    "word": "egg",
+    "part_of_speech": "noun",
+    "meaning": "알",
+    "grammar_pattern": "긍정문",
+    "example": "The white bird flew far away.",
+    "example_translation": "흰 새가 멀리 날아갔어."
+  },
+  {
+    "id": 274,
+    "word": "elementary",
+    "part_of_speech": "adjective",
+    "meaning": "기본의(초등의)",
+    "grammar_pattern": "긍정문",
+    "example": "We visited a beautiful sheep farm.",
+    "example_translation": "우리는 아름다운 양 농장을 방문했어."
+  },
+  {
+    "id": 275,
+    "word": "elephant",
+    "part_of_speech": "noun",
+    "meaning": "코끼리",
+    "grammar_pattern": "긍정문",
+    "example": "The kind farmer gave us sweet apples.",
+    "example_translation": "친절한 농부님이 우리에게 달콤한 사과를 주셨어."
+  },
+  {
+    "id": 276,
+    "word": "end",
+    "part_of_speech": "noun",
+    "meaning": "끝(끝나다)",
+    "grammar_pattern": "긍정문",
+    "example": "The black horse ran very fast.",
+    "example_translation": "검은 말이 무척 빠르게 달렸어."
+  },
+  {
+    "id": 277,
+    "word": "engine",
+    "part_of_speech": "noun",
+    "meaning": "엔진",
+    "grammar_pattern": "긍정문",
+    "example": "A fat cat slept on the warm rug.",
+    "example_translation": "뚱뚱한 고양이가 따뜻한 양탄자 위에서 잤어."
+  },
+  {
+    "id": 278,
+    "word": "engineer",
+    "part_of_speech": "noun",
+    "meaning": "기사(엔지니어)",
+    "grammar_pattern": "긍정문",
+    "example": "My father built a pretty dog house.",
+    "example_translation": "우리 아버지는 예쁜 개집을 지으셨어."
+  },
+  {
+    "id": 279,
+    "word": "enjoy",
+    "part_of_speech": "verb",
+    "meaning": "즐기다",
+    "grammar_pattern": "긍정문",
+    "example": "Blue was her favorite color.",
+    "example_translation": "파란색은 그녀가 가장 좋아하는 색이었어."
+  },
+  {
+    "id": 280,
+    "word": "enough",
+    "part_of_speech": "adjective",
+    "meaning": "충분한",
+    "grammar_pattern": "긍정문",
+    "example": "The brave boy showed no fear.",
+    "example_translation": "용감한 소년은 두려움을 보이지 않았어."
+  },
+  {
+    "id": 281,
+    "word": "enter",
+    "part_of_speech": "verb",
+    "meaning": "들어가다",
+    "grammar_pattern": "긍정문",
+    "example": "He fed the small birds in the morning.",
+    "example_translation": "그는 아침에 작은 새들에게 먹이를 주었어."
+  },
+  {
+    "id": 282,
+    "word": "eraser",
+    "part_of_speech": "noun",
+    "meaning": "지우개",
+    "grammar_pattern": "긍정문",
+    "example": "We felt very happy at the party.",
+    "example_translation": "우리는 파티에서 무척 행복하게 느꼈어."
+  },
+  {
+    "id": 283,
+    "word": "error",
+    "part_of_speech": "noun",
+    "meaning": "잘못(오류)",
+    "grammar_pattern": "긍정문",
+    "example": "Only a few students stayed behind.",
+    "example_translation": "오직 소수의 학생들만 뒤에 남았어."
+  },
+  {
+    "id": 284,
+    "word": "evening",
+    "part_of_speech": "noun",
+    "meaning": "저녁",
+    "grammar_pattern": "긍정문",
+    "example": "They ran around the green field.",
+    "example_translation": "그들은 초록빛 들판을 뛰어다녔어."
+  },
+  {
+    "id": 285,
+    "word": "every",
+    "part_of_speech": "noun",
+    "meaning": "모든",
+    "grammar_pattern": "긍정문",
+    "example": "The two little puppies fought over a toy.",
+    "example_translation": "그 두 작은 강아지는 장난감을 두고 싸웠어."
+  },
+  {
+    "id": 286,
+    "word": "exam",
+    "part_of_speech": "noun",
+    "meaning": "시험",
+    "grammar_pattern": "긍정문",
+    "example": "She filled the glass with orange juice.",
+    "example_translation": "그녀는 유리잔을 오렌지 주스로 채웠어."
+  },
+  {
+    "id": 287,
+    "word": "example",
+    "part_of_speech": "noun",
+    "meaning": "보기(예시)",
+    "grammar_pattern": "긍정문",
+    "example": "We watched an exciting animal film.",
+    "example_translation": "우리는 흥미진진한 동물 영화를 보았어."
+  },
+  {
+    "id": 288,
+    "word": "exercise",
+    "part_of_speech": "verb",
+    "meaning": "운동하다",
+    "grammar_pattern": "긍정문",
+    "example": "He found a shiny gold key.",
+    "example_translation": "그는 반짝이는 금열쇠를 발견했어."
+  },
+  {
+    "id": 289,
+    "word": "exit",
+    "part_of_speech": "noun",
+    "meaning": "출구",
+    "grammar_pattern": "긍정문",
+    "example": "The weather was completely fine yesterday.",
+    "example_translation": "어제 날씨는 완전히 맑았어."
+  },
+  {
+    "id": 290,
+    "word": "eye",
+    "part_of_speech": "noun",
+    "meaning": "눈",
+    "grammar_pattern": "긍정문",
+    "example": "She pointed with her little finger.",
+    "example_translation": "그녀는 작은 손가락으로 가리켰어."
+  },
+  {
+    "id": 291,
+    "word": "face",
+    "part_of_speech": "noun",
+    "meaning": "얼굴(직면하다)",
+    "grammar_pattern": "긍정문",
+    "example": "I finished my homework before dinner.",
+    "example_translation": "나는 저녁 식사 전에 숙제를 끝냈어."
+  },
+  {
+    "id": 292,
+    "word": "fact",
+    "part_of_speech": "noun",
+    "meaning": "사실",
+    "grammar_pattern": "긍정문",
+    "example": "The bright fire kept us warm.",
+    "example_translation": "밝은 불이 우리를 따뜻하게 지켜주었어."
+  },
+  {
+    "id": 293,
+    "word": "factory",
+    "part_of_speech": "adjective",
+    "meaning": "공장(의)",
+    "grammar_pattern": "긍정문",
+    "example": "They caught a big silver fish.",
+    "example_translation": "그들은 큰 은색 물고기를 잡았어."
+  },
+  {
+    "id": 294,
+    "word": "fail",
+    "part_of_speech": "verb",
+    "meaning": "실패하다",
+    "grammar_pattern": "긍정문",
+    "example": "He held five colorful balloons.",
+    "example_translation": "그는 다섯 개의 알록달록한 풍선을 들고 있었어."
+  },
+  {
+    "id": 295,
+    "word": "fall",
+    "part_of_speech": "verb",
+    "meaning": "떨어지다",
+    "grammar_pattern": "긍정문",
+    "example": "Dad fixed my broken toy bicycle.",
+    "example_translation": "아빠가 나의 고장 난 장난감 자전거를 고쳐주셨어."
+  },
+  {
+    "id": 296,
+    "word": "family",
+    "part_of_speech": "adverb",
+    "meaning": "가족",
+    "grammar_pattern": "긍정문",
+    "example": "The national flag waved in the wind.",
+    "example_translation": "국기가 바람에 펄럭였어."
+  },
+  {
+    "id": 297,
+    "word": "famous",
+    "part_of_speech": "adjective",
+    "meaning": "유명한",
+    "grammar_pattern": "긍정문",
+    "example": "The wet floor was very slippery.",
+    "example_translation": "젖은 바닥은 무척 미끄러웠어."
+  },
+  {
+    "id": 298,
+    "word": "fan",
+    "part_of_speech": "noun",
+    "meaning": "선풍기(팬)",
+    "grammar_pattern": "긍정문",
+    "example": "She picked a beautiful red flower.",
+    "example_translation": "그녀는 아름다운 빨간 꽃을 꺾었어."
+  },
+  {
+    "id": 299,
+    "word": "fantastic",
+    "part_of_speech": "adjective",
+    "meaning": "환상적인",
+    "grammar_pattern": "긍정문",
+    "example": "A little bird flew over the roof.",
+    "example_translation": "작은 새가 지붕 위로 날아갔어."
+  },
+  {
+    "id": 300,
+    "word": "far",
+    "part_of_speech": "noun",
+    "meaning": "멀리",
+    "grammar_pattern": "긍정문",
+    "example": "The puppy followed me to the school.",
+    "example_translation": "강아지가 학교까지 나를 따라왔어."
+  },
+  {
+    "id": 301,
+    "word": "farm",
+    "part_of_speech": "noun",
+    "meaning": "농장",
+    "grammar_pattern": "긍정문",
+    "example": "Mom cooked delicious food for us.",
+    "example_translation": "엄마는 우리를 위해 맛있는 음식을 요리해주셨어."
+  },
+  {
+    "id": 302,
+    "word": "fast",
+    "part_of_speech": "adjective",
+    "meaning": "빠른",
+    "grammar_pattern": "긍정문",
+    "example": "He acted like a silly fool.",
+    "example_translation": "그는 바보처럼 행동했어."
+  },
+  {
+    "id": 303,
+    "word": "fat",
+    "part_of_speech": "adjective",
+    "meaning": "살찐(지방)",
+    "grammar_pattern": "긍정문",
+    "example": "She stepped on my foot by mistake.",
+    "example_translation": "그녀는 실수로 내 발을 밟았어."
+  },
+  {
+    "id": 304,
+    "word": "father",
+    "part_of_speech": "noun",
+    "meaning": "아버지",
+    "grammar_pattern": "긍정문",
+    "example": "This special gift was for you.",
+    "example_translation": "이 특별한 선물은 너를 위한 것이었어."
+  },
+  {
+    "id": 305,
+    "word": "favorite",
+    "part_of_speech": "noun",
+    "meaning": "좋아하는 것",
+    "grammar_pattern": "긍정문",
+    "example": "I forgot to bring my crayon.",
+    "example_translation": "나는 크레파스 가져오는 것을 잊었어."
+  },
+  {
+    "id": 306,
+    "word": "feel",
+    "part_of_speech": "verb",
+    "meaning": "느끼다(만져보다)",
+    "grammar_pattern": "긍정문",
+    "example": "He ate noodle with a small fork.",
+    "example_translation": "그는 작은 포크로 국수를 먹었어."
+  },
+  {
+    "id": 307,
+    "word": "fever",
+    "part_of_speech": "noun",
+    "meaning": "열",
+    "grammar_pattern": "긍정문",
+    "example": "Four children built a sand castle.",
+    "example_translation": "네 명의 아이들이 모래 성을 쌓았어."
+  },
+  {
+    "id": 308,
+    "word": "field",
+    "part_of_speech": "noun",
+    "meaning": "들(밭)",
+    "grammar_pattern": "긍정문",
+    "example": "A clever fox hid behind the bush.",
+    "example_translation": "영리한 여우가 덤불 뒤에 숨었어."
+  },
+  {
+    "id": 309,
+    "word": "fight",
+    "part_of_speech": "noun",
+    "meaning": "싸움(싸우다)",
+    "grammar_pattern": "긍정문",
+    "example": "The birds were completely free in the sky.",
+    "example_translation": "새들은 하늘에서 완전히 자유로웠어."
+  },
+  {
+    "id": 310,
+    "word": "file",
+    "part_of_speech": "noun",
+    "meaning": "파일(종이끼우개)",
+    "grammar_pattern": "긍정문",
+    "example": "We drank fresh milk this morning.",
+    "example_translation": "우리는 오늘 아침 신선한 우유를 마셨어."
+  },
+  {
+    "id": 311,
+    "word": "fill",
+    "part_of_speech": "verb",
+    "meaning": "가득 채우다",
+    "grammar_pattern": "긍정문",
+    "example": "My best friend gave me a sticker.",
+    "example_translation": "내 베스트 프렌드가 나에게 스티커를 주었어."
+  },
+  {
+    "id": 312,
+    "word": "find",
+    "part_of_speech": "verb",
+    "meaning": "발견하다",
+    "grammar_pattern": "긍정문",
+    "example": "The new student was very friendly.",
+    "example_translation": "그 전학생은 무척 친절했어."
+  },
+  {
+    "id": 313,
+    "word": "fine",
+    "part_of_speech": "adjective",
+    "meaning": "미세한(훌륭한)",
+    "grammar_pattern": "긍정문",
+    "example": "A green frog jumped into the pond.",
+    "example_translation": "초록 개구리가 연못 안으로 뛰어들었어."
+  },
+  {
+    "id": 314,
+    "word": "finger",
+    "part_of_speech": "noun",
+    "meaning": "손가락을 대다",
+    "grammar_pattern": "긍정문",
+    "example": "This cute letter came from my cousin.",
+    "example_translation": "이 귀여운 편지는 내 사촌으로부터 왔어."
+  },
+  {
+    "id": 315,
+    "word": "finish",
+    "part_of_speech": "verb",
+    "meaning": "끝내다",
+    "grammar_pattern": "긍정문",
+    "example": "The black car parked in front of the house.",
+    "example_translation": "검은 차가 집 앞에 주차했어."
+  },
+  {
+    "id": 316,
+    "word": "fire",
+    "part_of_speech": "noun",
+    "meaning": "불(화재)",
+    "grammar_pattern": "긍정문",
+    "example": "Eating sweet fruit made me happy.",
+    "example_translation": "달콤한 과일을 먹는 것은 나를 행복하게 만들었어."
+  },
+  {
+    "id": 317,
+    "word": "fish",
+    "part_of_speech": "noun",
+    "meaning": "물고기",
+    "grammar_pattern": "긍정문",
+    "example": "The round basket was full of apples.",
+    "example_translation": "둥근 바구니가 사과로 가득 차 있었어."
+  },
+  {
+    "id": 318,
+    "word": "fix",
+    "part_of_speech": "verb",
+    "meaning": "고치다(고정하다)",
+    "grammar_pattern": "동명사",
+    "example": "Playing block games was great fun.",
+    "example_translation": "블록 게임을 하는 것은 큰 재미였어."
+  },
+  {
+    "id": 319,
+    "word": "flag",
+    "part_of_speech": "noun",
+    "meaning": "기(깃발)",
+    "grammar_pattern": "긍정문",
+    "example": "The funny clown made everyone laugh.",
+    "example_translation": "웃긴 광대가 모두를 웃게 만들었어."
+  },
+  {
+    "id": 320,
+    "word": "floor",
+    "part_of_speech": "noun",
+    "meaning": "마룻바닥",
+    "grammar_pattern": "긍정문",
+    "example": "He dreamed about his bright future.",
+    "example_translation": "그는 자신의 밝은 미래에 대해 꿈꿨어."
+  },
+  {
+    "id": 321,
+    "word": "flower",
+    "part_of_speech": "noun",
+    "meaning": "꽃",
+    "grammar_pattern": "긍정문",
+    "example": "Our team won the soccer game.",
+    "example_translation": "우리 팀이 축구 게임에서 이겼어."
+  },
+  {
+    "id": 322,
+    "word": "fly",
+    "part_of_speech": "verb",
+    "meaning": "날다",
+    "grammar_pattern": "긍정문",
+    "example": "Pretty yellow roses grew in the garden.",
+    "example_translation": "정원에 예쁜 노란 장미들이 자랐어."
+  },
+  {
+    "id": 323,
+    "word": "focus",
+    "part_of_speech": "noun",
+    "meaning": "초점(집중하다)",
+    "grammar_pattern": "긍정문",
+    "example": "The kitchen stove used natural gas.",
+    "example_translation": "부엌 가스레인지는 천연가스를 사용했어."
+  },
+  {
+    "id": 324,
+    "word": "fog",
+    "part_of_speech": "noun",
+    "meaning": "안개",
+    "grammar_pattern": "긍정문",
+    "example": "Grandpa opened the big wooden gate.",
+    "example_translation": "할아버지가 큰 나무 대문을 여셨어."
+  },
+  {
+    "id": 325,
+    "word": "food",
+    "part_of_speech": "noun",
+    "meaning": "음식",
+    "grammar_pattern": "긍정문",
+    "example": "The children gathered colorful leaves.",
+    "example_translation": "아이들이 알록달록한 나뭇잎들을 모았어."
+  },
+  {
+    "id": 326,
+    "word": "fool",
+    "part_of_speech": "noun",
+    "meaning": "바보(속이다)",
+    "grammar_pattern": "긍정문",
+    "example": "The gentle breeze blew softly.",
+    "example_translation": "온화한 산들바람이 부드럽게 불었어."
+  },
+  {
+    "id": 327,
+    "word": "foot",
+    "part_of_speech": "noun",
+    "meaning": "발",
+    "grammar_pattern": "긍정문",
+    "example": "I got a nice bicycle for my birthday.",
+    "example_translation": "나는 생일 선물로 멋진 자전거를 받았어."
+  },
+  {
+    "id": 328,
+    "word": "football",
+    "part_of_speech": "noun",
+    "meaning": "축구",
+    "grammar_pattern": "긍정문",
+    "example": "The friendly giant helped the village.",
+    "example_translation": "친절한 거인이 마을을 도와주었어."
+  },
+  {
+    "id": 329,
+    "word": "for",
+    "part_of_speech": "preposition",
+    "meaning": "~를 대신해",
+    "grammar_pattern": "긍정문",
+    "example": "She received a beautiful gift box.",
+    "example_translation": "그녀는 아름다운 선물 상자를 받았어."
+  },
+  {
+    "id": 330,
+    "word": "forest",
+    "part_of_speech": "noun",
+    "meaning": "숲",
+    "grammar_pattern": "긍정문",
+    "example": "The little girl skipped rope fast.",
+    "example_translation": "그 어린 소녀는 줄넘기를 빠르게 넘었어."
+  },
+  {
+    "id": 331,
+    "word": "forever",
+    "part_of_speech": "noun",
+    "meaning": "영원히",
+    "grammar_pattern": "긍정문",
+    "example": "He gave his orange to his sister.",
+    "example_translation": "그는 그의 오렌지를 여동생에게 주었어."
+  },
+  {
+    "id": 332,
+    "word": "forget",
+    "part_of_speech": "verb",
+    "meaning": "잊다",
+    "grammar_pattern": "긍정문",
+    "example": "We were so glad to meet you.",
+    "example_translation": "우리는 너를 만나서 정말 기뻤어."
+  },
+  {
+    "id": 333,
+    "word": "form",
+    "part_of_speech": "noun",
+    "meaning": "모양(형성하다)",
+    "grammar_pattern": "긍정문",
+    "example": "She broke a small glass by mistake.",
+    "example_translation": "그녀는 실수로 작은 유리잔을 깨뜨렸어."
+  },
+  {
+    "id": 334,
+    "word": "fox",
+    "part_of_speech": "noun",
+    "meaning": "여우",
+    "grammar_pattern": "긍정문",
+    "example": "He wore warm gloves in winter.",
+    "example_translation": "그는 겨울에 따뜻한 장갑을 꼈어."
+  },
+  {
+    "id": 335,
+    "word": "free",
+    "part_of_speech": "adjective",
+    "meaning": "자유로운",
+    "grammar_pattern": "긍정문",
+    "example": "They went to the library together.",
+    "example_translation": "그들은 함께 도서관에 갔어."
+  },
+  {
+    "id": 336,
+    "word": "fresh",
+    "part_of_speech": "adjective",
+    "meaning": "신선한(새로운)",
+    "grammar_pattern": "긍정문",
+    "example": "He ran fast to touch the goal.",
+    "example_translation": "그는 결승점을 터치하기 위해 빠르게 달렸어."
+  },
+  {
+    "id": 337,
+    "word": "friend",
+    "part_of_speech": "noun",
+    "meaning": "친구",
+    "grammar_pattern": "긍정문",
+    "example": "The old story was about a powerful god.",
+    "example_translation": "그 옛날이야기는 힘센 신에 대한 것이었어."
+  },
+  {
+    "id": 338,
+    "word": "frog",
+    "part_of_speech": "noun",
+    "meaning": "개구리",
+    "grammar_pattern": "긍정문",
+    "example": "She found a shiny gold ring in the sand.",
+    "example_translation": "그녀는 모래 속에서 반짝이는 금반지를 발견했어."
+  },
+  {
+    "id": 339,
+    "word": "from",
+    "part_of_speech": "preposition",
+    "meaning": "~로부터",
+    "grammar_pattern": "긍정문",
+    "example": "Yesterday was a very good day!",
+    "example_translation": "어제는 정말 좋은 하루였어!"
+  },
+  {
+    "id": 340,
+    "word": "front",
+    "part_of_speech": "noun",
+    "meaning": "정면",
+    "grammar_pattern": "긍정문",
+    "example": "We said goodbye to our teacher.",
+    "example_translation": "우리는 선생님께 작별 인사를 드렸어."
+  },
+  {
+    "id": 341,
+    "word": "fruit",
+    "part_of_speech": "noun",
+    "meaning": "과일",
+    "grammar_pattern": "긍정문",
+    "example": "My grandfather built this cute toy house.",
+    "example_translation": "우리 할아버지가 이 귀여운 장난감 집을 지으셨어."
+  },
+  {
+    "id": 342,
+    "word": "fry",
+    "part_of_speech": "verb",
+    "meaning": "기름으로 튀기다",
+    "grammar_pattern": "긍정문",
+    "example": "Grandmother baked sweet cookies.",
+    "example_translation": "할머니께서 달콤한 쿠키를 구워주셨어."
+  },
+  {
+    "id": 343,
+    "word": "full",
+    "part_of_speech": "adjective",
+    "meaning": "가득 찬",
+    "grammar_pattern": "동명사",
+    "example": "Eating sweet grapes was so fun.",
+    "example_translation": "달콤한 포도를 먹는 것은 정말 재미있었어."
+  },
+  {
+    "id": 344,
+    "word": "fun",
+    "part_of_speech": "noun",
+    "meaning": "즐거움",
+    "grammar_pattern": "긍정문",
+    "example": "The puppy slept softly on the green grass.",
+    "example_translation": "강아지가 초록 풀밭 위에서 부드럽게 잠을 잤어."
+  },
+  {
+    "id": 345,
+    "word": "future",
+    "part_of_speech": "noun",
+    "meaning": "미래",
+    "grammar_pattern": "감탄문",
+    "example": "What a great castle we made!",
+    "example_translation": "우리가 정말 커다란 성을 만들었었구나!"
+  },
+  {
+    "id": 346,
+    "word": "garden",
+    "part_of_speech": "noun",
+    "meaning": "뜰(정원)",
+    "grammar_pattern": "긍정문",
+    "example": "The tree became green in spring.",
+    "example_translation": "그 나무는 봄에 초록색이 되었어."
+  },
+  {
+    "id": 347,
+    "word": "gate",
+    "part_of_speech": "noun",
+    "meaning": "문",
+    "grammar_pattern": "긍정문",
+    "example": "A grey cloud hid the bright sun.",
+    "example_translation": "회색 구름이 밝은 태양을 숨겼어."
+  },
+  {
+    "id": 348,
+    "word": "gentleman",
+    "part_of_speech": "noun",
+    "meaning": "신사",
+    "grammar_pattern": "긍정문",
+    "example": "He sat down on the warm ground.",
+    "example_translation": "그는 따뜻한 땅 위에 앉았어."
+  },
+  {
+    "id": 349,
+    "word": "gesture",
+    "part_of_speech": "noun",
+    "meaning": "몸짓",
+    "grammar_pattern": "긍정문",
+    "example": "A group of children played tag.",
+    "example_translation": "한 무리의 아이들이 술래잡기를 했어."
+  },
+  {
+    "id": 350,
+    "word": "get",
+    "part_of_speech": "verb",
+    "meaning": "얻다(받다)",
+    "grammar_pattern": "원급비교",
+    "example": "The little plant grew as tall as me!",
+    "example_translation": "그 작은 식물은 나만큼 크게 자랐어!"
+  },
+  {
+    "id": 351,
+    "word": "ghost",
+    "part_of_speech": "noun",
+    "meaning": "유령",
+    "grammar_pattern": "의문문",
+    "example": "Did you guess the magic trick?",
+    "example_translation": "너 그 마술 비밀을 맞췄었니?"
+  },
+  {
+    "id": 352,
+    "word": "giant",
+    "part_of_speech": "noun",
+    "meaning": "거인(거대한)",
+    "grammar_pattern": "긍정문",
+    "example": "The kind guide showed us the lions.",
+    "example_translation": "친절한 안내원분이 우리에게 사자들을 보여주셨어."
+  },
+  {
+    "id": 353,
+    "word": "gift",
+    "part_of_speech": "noun",
+    "meaning": "선물",
+    "grammar_pattern": "긍정문",
+    "example": "She played the guitar beautifully.",
+    "example_translation": "그녀는 기타를 아름답게 연주했어."
+  },
+  {
+    "id": 354,
+    "word": "giraffe",
+    "part_of_speech": "noun",
+    "meaning": "기린",
+    "grammar_pattern": "긍정문",
+    "example": "He chewed sweet strawberry gum.",
+    "example_translation": "그는 달콤한 딸기 껌을 씹었어."
+  },
+  {
+    "id": 355,
+    "word": "girl",
+    "part_of_speech": "noun",
+    "meaning": "소녀",
+    "grammar_pattern": "긍정문",
+    "example": "The soldier held a heavy gun.",
+    "example_translation": "군인은 무거운 총을 들고 있었어."
+  },
+  {
+    "id": 356,
+    "word": "give",
+    "part_of_speech": "verb",
+    "meaning": "주다",
+    "grammar_pattern": "긍정문",
+    "example": "That funny guy made me laugh loud.",
+    "example_translation": "그 웃긴 녀석이 나를 크게 웃겼어."
+  },
+  {
+    "id": 357,
+    "word": "glad",
+    "part_of_speech": "adjective",
+    "meaning": "기쁜",
+    "grammar_pattern": "동명사",
+    "example": "Washing hands was a good habit.",
+    "example_translation": "손을 씻는 것은 좋은 습관이었어."
+  },
+  {
+    "id": 358,
+    "word": "glass",
+    "part_of_speech": "noun",
+    "meaning": "유리",
+    "grammar_pattern": "긍정문",
+    "example": "The white bear had soft hair.",
+    "example_translation": "그 흰 곰은 부드러운 털을 가지고 있었어."
+  },
+  {
+    "id": 359,
+    "word": "glove",
+    "part_of_speech": "noun",
+    "meaning": "장갑",
+    "grammar_pattern": "긍정문",
+    "example": "He cut the big apple in half.",
+    "example_translation": "그는 큰 사과를 절반으로 잘랐어."
+  },
+  {
+    "id": 360,
+    "word": "glue",
+    "part_of_speech": "noun",
+    "meaning": "풀",
+    "grammar_pattern": "긍정문",
+    "example": "We walked down the long school hall.",
+    "example_translation": "우리는 학교의 긴 복도를 따라 걸었어."
+  },
+  {
+    "id": 361,
+    "word": "go",
+    "part_of_speech": "verb",
+    "meaning": "가다",
+    "grammar_pattern": "긍정문",
+    "example": "He ran fast to touch the goal.",
+    "example_translation": "그는 결승점을 터치하기 위해 빠르게 달렸어."
+  },
+  {
+    "id": 362,
+    "word": "goal",
+    "part_of_speech": "noun",
+    "meaning": "결승점",
+    "grammar_pattern": "긍정문",
+    "example": "The old story was about a powerful god.",
+    "example_translation": "그 옛날이야기는 힘센 신에 대한 것이었어."
+  },
+  {
+    "id": 363,
+    "word": "god",
+    "part_of_speech": "noun",
+    "meaning": "신",
+    "grammar_pattern": "긍정문",
+    "example": "She found a shiny gold ring in the sand.",
+    "example_translation": "그녀는 모래 속에서 반짝이는 금반지를 발견했어."
+  },
+  {
+    "id": 364,
+    "word": "gold",
+    "part_of_speech": "noun",
+    "meaning": "금",
+    "grammar_pattern": "긍정문",
+    "example": "Yesterday was a very good day!",
+    "example_translation": "어제는 정말 좋은 하루였어!"
+  },
+  {
+    "id": 365,
+    "word": "good",
+    "part_of_speech": "adjective",
+    "meaning": "좋은",
+    "grammar_pattern": "긍정문",
+    "example": "We said goodbye to our teacher.",
+    "example_translation": "우리는 선생님께 작별 인사를 드렸어."
+  },
+  {
+    "id": 366,
+    "word": "goodbye",
+    "part_of_speech": "interjection",
+    "meaning": "안녕히 가세요",
+    "grammar_pattern": "긍정문",
+    "example": "My grandfather built this cute toy house.",
+    "example_translation": "우리 할아버지가 이 귀여운 장난감 집을 지으셨어."
+  },
+  {
+    "id": 367,
+    "word": "grandfather",
+    "part_of_speech": "noun",
+    "meaning": "할아버지",
+    "grammar_pattern": "동명사",
+    "example": "Eating sweet grapes was so fun.",
+    "example_translation": "달콤한 포도를 먹는 것은 정말 재미있었어."
+  },
+  {
+    "id": 368,
+    "word": "grape",
+    "part_of_speech": "noun",
+    "meaning": "포도",
+    "grammar_pattern": "긍정문",
+    "example": "The puppy slept softly on the green grass.",
+    "example_translation": "강아지가 초록 풀밭 위에서 부드럽게 잠을 잤어."
+  },
+  {
+    "id": 369,
+    "word": "grass",
+    "part_of_speech": "noun",
+    "meaning": "풀밭",
+    "grammar_pattern": "감탄문",
+    "example": "What a great castle we made!",
+    "example_translation": "우리가 정말 커다란 성을 만들었었구나!"
+  },
+  {
+    "id": 370,
+    "word": "great",
+    "part_of_speech": "adjective",
+    "meaning": "커다란",
+    "grammar_pattern": "긍정문",
+    "example": "The tree became green in spring.",
+    "example_translation": "그 나무는 봄에 초록색이 되었어."
+  },
+  {
+    "id": 371,
+    "word": "green",
+    "part_of_speech": "noun",
+    "meaning": "초록색",
+    "grammar_pattern": "긍정문",
+    "example": "A grey cloud hid the bright sun.",
+    "example_translation": "회색 구름이 밝은 태양을 숨겼어."
+  },
+  {
+    "id": 372,
+    "word": "grey",
+    "part_of_speech": "adjective",
+    "meaning": "회색의",
+    "grammar_pattern": "긍정문",
+    "example": "He sat down on the warm ground.",
+    "example_translation": "그는 따뜻한 땅 위에 앉았어."
+  },
+  {
+    "id": 373,
+    "word": "ground",
+    "part_of_speech": "noun",
+    "meaning": "땅",
+    "grammar_pattern": "긍정문",
+    "example": "A group of children played tag.",
+    "example_translation": "한 무리의 아이들이 술래잡기를 했어."
+  },
+  {
+    "id": 374,
+    "word": "group",
+    "part_of_speech": "noun",
+    "meaning": "집단",
+    "grammar_pattern": "원급비교",
+    "example": "The little plant grew as tall as me!",
+    "example_translation": "그 작은 식물은 나만큼 크게 자랐어!"
+  },
+  {
+    "id": 375,
+    "word": "grow",
+    "part_of_speech": "verb",
+    "meaning": "성장하다",
+    "grammar_pattern": "의문문",
+    "example": "Did you guess the magic trick?",
+    "example_translation": "너 그 마술 비밀을 맞췄었니?"
+  },
+  {
+    "id": 376,
+    "word": "guess",
+    "part_of_speech": "verb",
+    "meaning": "추측(짐작)하다",
+    "grammar_pattern": "긍정문",
+    "example": "The kind guide showed us the lions.",
+    "example_translation": "친절한 안내원분이 우리에게 사자들을 보여주셨어."
+  },
+  {
+    "id": 377,
+    "word": "guide",
+    "part_of_speech": "verb",
+    "meaning": "이끌다",
+    "grammar_pattern": "긍정문",
+    "example": "That funny guy made me laugh loud.",
+    "example_translation": "그 웃긴 녀석이 나를 크게 웃겼어."
+  },
+  {
+    "id": 378,
+    "word": "guy",
+    "part_of_speech": "noun",
+    "meaning": "녀석",
+    "grammar_pattern": "동명사",
+    "example": "Washing hands was a good habit.",
+    "example_translation": "손을 씻는 것은 좋은 습관이었어."
+  },
+  {
+    "id": 379,
+    "word": "habit",
+    "part_of_speech": "noun",
+    "meaning": "습관",
+    "grammar_pattern": "긍정문",
+    "example": "The white bear had soft hair.",
+    "example_translation": "그 흰 곰은 부드러운 털을 가지고 있었어."
+  },
+  {
+    "id": 380,
+    "word": "hair",
+    "part_of_speech": "noun",
+    "meaning": "털",
+    "grammar_pattern": "긍정문",
+    "example": "She held my hand to cross the street.",
+    "example_translation": "그녀는 길을 건너기 위해 내 손을 잡았어."
+  },
+  {
+    "id": 381,
+    "word": "hand",
+    "part_of_speech": "noun",
+    "meaning": "손",
+    "grammar_pattern": "원급비교",
+    "example": "The prince was as handsome as a king.",
+    "example_translation": "그 왕자님은 왕만큼 잘생겼었어."
+  },
+  {
+    "id": 382,
+    "word": "handsome",
+    "part_of_speech": "adjective",
+    "meaning": "얼굴(자태)이 잘생긴",
+    "grammar_pattern": "긍정문",
+    "example": "Dad hung a pretty picture on the wall.",
+    "example_translation": "아빠가 벽에 예쁜 그림을 걸었어."
+  },
+  {
+    "id": 383,
+    "word": "hang",
+    "part_of_speech": "verb",
+    "meaning": "걸다",
+    "grammar_pattern": "긍정문",
+    "example": "We felt so happy at the birthday party!",
+    "example_translation": "우리는 생일 파티에서 정말 행복했어!"
+  },
+  {
+    "id": 384,
+    "word": "happy",
+    "part_of_speech": "adjective",
+    "meaning": "행운의",
+    "grammar_pattern": "원급비교",
+    "example": "The stone was as hard as ice.",
+    "example_translation": "그 돌은 얼음만큼 단단했어."
+  },
+  {
+    "id": 385,
+    "word": "hard",
+    "part_of_speech": "adjective",
+    "meaning": "단단한",
+    "grammar_pattern": "긍정문",
+    "example": "He wore a big yellow hat.",
+    "example_translation": "그는 큰 노란 모자를 썼어."
+  },
+  {
+    "id": 386,
+    "word": "hat",
+    "part_of_speech": "verb",
+    "meaning": "(테있는)모자 모자를 씌우다",
+    "grammar_pattern": "긍정문",
+    "example": "The little cat hated taking a bath.",
+    "example_translation": "그 작은 고양이는 목욕하는 것을 싫어했어."
+  },
+  {
+    "id": 387,
+    "word": "hate",
+    "part_of_speech": "verb",
+    "meaning": "미워하다",
+    "grammar_pattern": "긍정문",
+    "example": "I had a cute teddy bear.",
+    "example_translation": "나는 귀여운 곰 인형을 가지고 있었어."
+  },
+  {
+    "id": 388,
+    "word": "have",
+    "part_of_speech": "verb",
+    "meaning": "가지다",
+    "grammar_pattern": "긍정문",
+    "example": "He loved to eat sweet chocolate.",
+    "example_translation": "그는 달콤한 초콜릿 먹는 것을 좋아했어."
+  },
+  {
+    "id": 389,
+    "word": "he",
+    "part_of_speech": "pronoun",
+    "meaning": "그",
+    "grammar_pattern": "긍정문",
+    "example": "The smart bird shook its head.",
+    "example_translation": "그 똑똑한 새가 머리를 흔들었어."
+  },
+  {
+    "id": 390,
+    "word": "head",
+    "part_of_speech": "noun",
+    "meaning": "머리",
+    "grammar_pattern": "긍정문",
+    "example": "Mom had a little headache yesterday.",
+    "example_translation": "엄마는 어제 약간의 두통이 있으셨어."
+  },
+  {
+    "id": 391,
+    "word": "headache",
+    "part_of_speech": "noun",
+    "meaning": "두통",
+    "grammar_pattern": "긍정문",
+    "example": "My heart beat fast during the race.",
+    "example_translation": "달리기 시합 동안 내 심장이 빠르게 뛰었어."
+  },
+  {
+    "id": 392,
+    "word": "heart",
+    "part_of_speech": "noun",
+    "meaning": "심장",
+    "grammar_pattern": "긍정문",
+    "example": "We felt the warm heat from the fire.",
+    "example_translation": "우리는 불로부터 따뜻한 온기를 느꼈어."
+  },
+  {
+    "id": 393,
+    "word": "heat",
+    "part_of_speech": "noun",
+    "meaning": "열",
+    "grammar_pattern": "긍정문",
+    "example": "The beautiful stars filled the heaven.",
+    "example_translation": "아름다운 별들이 하늘을 가득 채웠어."
+  },
+  {
+    "id": 394,
+    "word": "heaven",
+    "part_of_speech": "noun",
+    "meaning": "하늘",
+    "grammar_pattern": "긍정문",
+    "example": "The box was too heavy to lift.",
+    "example_translation": "그 상자는 들어 올리기에 너무 무거웠어."
+  },
+  {
+    "id": 395,
+    "word": "heavy",
+    "part_of_speech": "adjective",
+    "meaning": "무거운",
+    "grammar_pattern": "긍정문",
+    "example": "A loud helicopter flew over the tree.",
+    "example_translation": "큰 소리를 내는 헬리콥터가 나무 위로 날아가 버렸어."
+  },
+  {
+    "id": 396,
+    "word": "helicopter",
+    "part_of_speech": "noun",
+    "meaning": "헬리콥터",
+    "grammar_pattern": "긍정문",
+    "example": "The friendly boy said hello to me.",
+    "example_translation": "친절한 소년이 나에게 안녕이라고 말했어."
+  },
+  {
+    "id": 397,
+    "word": "hello",
+    "part_of_speech": "interjection",
+    "meaning": "안녕",
+    "grammar_pattern": "긍정문",
+    "example": "She helped me to find my crayon.",
+    "example_translation": "그녀는 내가 크레파스 찾는 것을 도와줬어."
+  },
+  {
+    "id": 398,
+    "word": "help",
+    "part_of_speech": "verb",
+    "meaning": "돕다",
+    "grammar_pattern": "긍정문",
+    "example": "There was a little kitten here.",
+    "example_translation": "여기에 작은 새끼 고양이가 한 마리 있었어."
+  },
+  {
+    "id": 399,
+    "word": "here",
+    "part_of_speech": "noun",
+    "meaning": "adverb / 여기",
+    "grammar_pattern": "긍정문",
+    "example": "The brave dog became a true hero.",
+    "example_translation": "그 용감한 개는 진짜 영웅이 되었어."
+  },
+  {
+    "id": 400,
+    "word": "hero",
+    "part_of_speech": "noun",
+    "meaning": "영웅",
+    "grammar_pattern": "긍정문",
+    "example": "The bird flew up to a high branch.",
+    "example_translation": "새가 높은 나뭇가지 위로 날올랐어."
+  },
+  {
+    "id": 401,
+    "word": "high",
+    "part_of_speech": "adjective",
+    "meaning": "높은",
+    "grammar_pattern": "긍정문",
+    "example": "We ran up the green hill.",
+    "example_translation": "우리는 초록색 언덕을 뛰어 올라갔어."
+  },
+  {
+    "id": 402,
+    "word": "hill",
+    "part_of_speech": "noun",
+    "meaning": "언덕",
+    "grammar_pattern": "긍정문",
+    "example": "Grandpa told a fun history story.",
+    "example_translation": "할아버지가 재미있는 역사 이야기를 해주셨어."
+  },
+  {
+    "id": 403,
+    "word": "history",
+    "part_of_speech": "noun",
+    "meaning": "역사(옛날이야기)",
+    "grammar_pattern": "긍정문",
+    "example": "He hit the baseball with the bat.",
+    "example_translation": "그는 배트로 야구공을 쳤어."
+  },
+  {
+    "id": 404,
+    "word": "hit",
+    "part_of_speech": "verb",
+    "meaning": "치다",
+    "grammar_pattern": "동명사",
+    "example": "Collecting stamps was his favorite hobby.",
+    "example_translation": "우표를 모으는 것은 그가 가장 좋아하는 취미였어."
+  },
+  {
+    "id": 405,
+    "word": "hobby",
+    "part_of_speech": "noun",
+    "meaning": "취미",
+    "grammar_pattern": "긍정문",
+    "example": "The baby held the milk bottle tight.",
+    "example_translation": "아기가 우유병을 꽉 잡았어."
+  },
+  {
+    "id": 406,
+    "word": "hold",
+    "part_of_speech": "verb",
+    "meaning": "잡다",
+    "grammar_pattern": "긍정문",
+    "example": "We visited the beautiful beach on holiday.",
+    "example_translation": "우리는 휴일에 아름다운 해변을 방문했어."
+  },
+  {
+    "id": 407,
+    "word": "holiday",
+    "part_of_speech": "noun",
+    "meaning": "휴일",
+    "grammar_pattern": "긍정문",
+    "example": "They went home after the sunset.",
+    "example_translation": "그들은 해가 진 후에 집으로 갔어."
+  },
+  {
+    "id": 408,
+    "word": "home",
+    "part_of_speech": "noun",
+    "meaning": "집",
+    "grammar_pattern": "긍정문",
+    "example": "I finished my homework before dinner.",
+    "example_translation": "나는 저녁 식사 전에 숙제를 끝냈어."
+  },
+  {
+    "id": 409,
+    "word": "homework",
+    "part_of_speech": "noun",
+    "meaning": "숙제",
+    "grammar_pattern": "부정문",
+    "example": "The honest girl did not tell a lie.",
+    "example_translation": "정직한 소녀는 거짓말을 하지 않았어."
+  },
+  {
+    "id": 410,
+    "word": "honest",
+    "part_of_speech": "adjective",
+    "meaning": "정직한",
+    "grammar_pattern": "원급비교",
+    "example": "The sweet honey tasted as good as sugar.",
+    "example_translation": "달콤한 벌꿀은 설탕만큼 맛이 좋았어."
+  },
+  {
+    "id": 411,
+    "word": "honey",
+    "part_of_speech": "noun",
+    "meaning": "벌꿀",
+    "grammar_pattern": "긍정문",
+    "example": "I hoped to get a new bicycle.",
+    "example_translation": "나는 새 자전거를 받기를 바랐어."
+  },
+  {
+    "id": 412,
+    "word": "hope",
+    "part_of_speech": "noun",
+    "meaning": "verb / 희망(바람)",
+    "grammar_pattern": "원급비교",
+    "example": "The big horse ran as fast as the wind.",
+    "example_translation": "큰 말이 바람만큼 빠르게 달렸어."
+  },
+  {
+    "id": 413,
+    "word": "horse",
+    "part_of_speech": "noun",
+    "meaning": "말",
+    "grammar_pattern": "긍정문",
+    "example": "We went to the hospital to see the doctor.",
+    "example_translation": "우리는 의사 선생님을 만나러 병원에 갔었어."
+  },
+  {
+    "id": 414,
+    "word": "hospital",
+    "part_of_speech": "noun",
+    "meaning": "병원",
+    "grammar_pattern": "긍정문",
+    "example": "The summer sun was very hot.",
+    "example_translation": "여름 태양은 무척 뜨거웠어."
+  },
+  {
+    "id": 415,
+    "word": "hot",
+    "part_of_speech": "adjective",
+    "meaning": "뜨거운",
+    "grammar_pattern": "긍정문",
+    "example": "We played block games for an hour.",
+    "example_translation": "우리는 한 시간 동안 블록 게임을 했어."
+  },
+  {
+    "id": 416,
+    "word": "hour",
+    "part_of_speech": "noun",
+    "meaning": "시간",
+    "grammar_pattern": "긍정문",
+    "example": "There was a pretty dog house in the yard.",
+    "example_translation": "마당에 예쁜 개집이 하나 있었어."
+  },
+  {
+    "id": 417,
+    "word": "house",
+    "part_of_speech": "noun",
+    "meaning": "집",
+    "grammar_pattern": "의문문",
+    "example": "Did you learn how to swim?",
+    "example_translation": "너는 어떻게 수영하는지 배웠었니?"
+  },
+  {
+    "id": 418,
+    "word": "how",
+    "part_of_speech": "adverb",
+    "meaning": "어떻게",
+    "grammar_pattern": "긍정문",
+    "example": "The puzzle was small; however, it was hard.",
+    "example_translation": "그 퍼즐은 작았어; 하지만 그것은 어려웠지."
+  },
+  {
+    "id": 419,
+    "word": "however",
+    "part_of_speech": "adverb",
+    "meaning": "아무리 ~해도",
+    "grammar_pattern": "긍정문",
+    "example": "The robot looked like a real human.",
+    "example_translation": "그 로봇은 진짜 사람처럼 보였어."
+  },
+  {
+    "id": 420,
+    "word": "human",
+    "part_of_speech": "noun",
+    "meaning": "adjective / 사람",
+    "grammar_pattern": "긍정문",
+    "example": "The teacher’s humor made us smile.",
+    "example_translation": "선생님의 유머는 우리를 미소 짓게 만들었어."
+  },
+  {
+    "id": 421,
+    "word": "humor",
+    "part_of_speech": "noun",
+    "meaning": "유머(웃음)",
+    "grammar_pattern": "긍정문",
+    "example": "There were a hundred balloons in the air.",
+    "example_translation": "공중에 100개의 풍선들이 있었어."
+  },
+  {
+    "id": 422,
+    "word": "hundred",
+    "part_of_speech": "noun",
+    "meaning": "number / 100",
+    "grammar_pattern": "긍정문",
+    "example": "The hungry caterpillar ate many leaves.",
+    "example_translation": "배고픈 애벌레가 많은 나뭇잎을 먹었어."
+  },
+  {
+    "id": 423,
+    "word": "hungry",
+    "part_of_speech": "adjective",
+    "meaning": "배고픈",
+    "grammar_pattern": "긍정문",
+    "example": "The cat hunted for a hidden toy.",
+    "example_translation": "고양이가 숨겨진 장난감을 찾아 다녔어."
+  },
+  {
+    "id": 424,
+    "word": "hunt",
+    "part_of_speech": "verb",
+    "meaning": "사냥하다(찾다)",
+    "grammar_pattern": "긍정문",
+    "example": "We hurried to catch the school bus.",
+    "example_translation": "우리는 스쿨버스를 잡기 위해 서둘렀어."
+  },
+  {
+    "id": 425,
+    "word": "hurry",
+    "part_of_speech": "noun",
+    "meaning": "verb / 서두름",
+    "grammar_pattern": "긍정문",
+    "example": "The kind husband cooked a delicious meal.",
+    "example_translation": "친절한 남편은 맛있는 식사를 요리했어."
+  },
+  {
+    "id": 426,
+    "word": "husband",
+    "part_of_speech": "verb",
+    "meaning": "noun / 아껴 쓰다 / 남편",
+    "grammar_pattern": "긍정문",
+    "example": "I drew a beautiful flower yesterday.",
+    "example_translation": "나는 어제 아름다운 꽃을 그렸어."
+  },
+  {
+    "id": 427,
+    "word": "I",
+    "part_of_speech": "pronoun",
+    "meaning": "나는, 내가",
+    "grammar_pattern": "긍정문",
+    "example": "The cold ice melted in my hand.",
+    "example_translation": "차가운 얼음이 내 손에서 녹았어."
+  },
+  {
+    "id": 428,
+    "word": "ice",
+    "part_of_speech": "noun",
+    "meaning": "얼음",
+    "grammar_pattern": "긍정문",
+    "example": "She had a fantastic idea for the game.",
+    "example_translation": "그녀는 게임을 위한 환상적인 생각을 가졌어."
+  },
+  {
+    "id": 429,
+    "word": "idea",
+    "part_of_speech": "noun",
+    "meaning": "생각",
+    "grammar_pattern": "긍정문",
+    "example": "I asked if he liked the apple juice.",
+    "example_translation": "나는 그가 사과 주스를 좋아하는지 물어봤어."
+  },
+  {
+    "id": 430,
+    "word": "if",
+    "part_of_speech": "conjunction",
+    "meaning": "~인지 아닌지",
+    "grammar_pattern": "동명사",
+    "example": "Remembering rules was very important.",
+    "example_translation": "규칙을 기억하는 것은 무척 중요했어."
+  },
+  {
+    "id": 431,
+    "word": "important",
+    "part_of_speech": "adjective",
+    "meaning": "중요한",
+    "grammar_pattern": "긍정문",
+    "example": "The yellow ball was in the basket.",
+    "example_translation": "노란 공은 바구니 안에 있었어."
+  },
+  {
+    "id": 432,
+    "word": "in",
+    "part_of_speech": "preposition",
+    "meaning": "~안에",
+    "grammar_pattern": "긍정문",
+    "example": "We ran inside to avoid the rain.",
+    "example_translation": "우리는 비를 피하려고 안으로 뛰어 들어갔어."
+  },
+  {
+    "id": 433,
+    "word": "inside",
+    "part_of_speech": "preposition",
+    "meaning": "안쪽",
+    "grammar_pattern": "긍정문",
+    "example": "The cute frog jumped into the pond.",
+    "example_translation": "귀여운 개구리가 연못 안으로 뛰어들었어."
+  },
+  {
+    "id": 434,
+    "word": "into",
+    "part_of_speech": "preposition",
+    "meaning": "~안으로",
+    "grammar_pattern": "긍정문",
+    "example": "She introduced her new friend to me.",
+    "example_translation": "그녀는 나에게 그녀의 새 친구를 소개해 주었어."
+  },
+  {
+    "id": 435,
+    "word": "introduce",
+    "part_of_speech": "verb",
+    "meaning": "들여오다(소개하다)",
+    "grammar_pattern": "긍정문",
+    "example": "They invited me to join the party.",
+    "example_translation": "그들은 내가 파티에 함께하도록 초대해 주었어."
+  },
+  {
+    "id": 436,
+    "word": "invite",
+    "part_of_speech": "verb",
+    "meaning": "초대하다",
+    "grammar_pattern": "원급비교",
+    "example": "It was as soft as a cloud.",
+    "example_translation": "그것은 구름만큼 부드럽게 느껴졌어."
+  },
+  {
+    "id": 437,
+    "word": "it",
+    "part_of_speech": "pronoun",
+    "meaning": "그것은",
+    "grammar_pattern": "긍정문",
+    "example": "He wore blue jeans to school.",
+    "example_translation": "그는 학교에 청바지를 입고 갔어."
+  },
+  {
+    "id": 438,
+    "word": "jeans",
+    "part_of_speech": "noun",
+    "meaning": "청바지",
+    "grammar_pattern": "동명사",
+    "example": "Cleaning my room was my first job.",
+    "example_translation": "내 방을 청소하는 것은 나의 첫 번째 일이었어."
+  },
+  {
+    "id": 439,
+    "word": "job",
+    "part_of_speech": "noun",
+    "meaning": "일",
+    "grammar_pattern": "긍정문",
+    "example": "We joined hands to make a circle.",
+    "example_translation": "우리는 원을 만들기 위해 손을 맞잡았어."
+  },
+  {
+    "id": 440,
+    "word": "join",
+    "part_of_speech": "verb",
+    "meaning": "붙이다(함께하다)",
+    "grammar_pattern": "긍정문",
+    "example": "The jumping puppy brought much joy.",
+    "example_translation": "점프하는 강아지는 큰 즐거움을 가져다주었어."
+  },
+  {
+    "id": 441,
+    "word": "joy",
+    "part_of_speech": "noun",
+    "meaning": "즐거움",
+    "grammar_pattern": "긍정문",
+    "example": "The rain just stopped a minute ago.",
+    "example_translation": "비가 방금 1분 전에 멈췄었어."
+  },
+  {
+    "id": 442,
+    "word": "just",
+    "part_of_speech": "adjective",
+    "meaning": "올바른(공평한)",
+    "grammar_pattern": "긍정문",
+    "example": "She kept running to win the race.",
+    "example_translation": "그녀는 경주에서 이기기 위해 계속 달렸어."
+  },
+  {
+    "id": 443,
+    "word": "keep",
+    "part_of_speech": "verb",
+    "meaning": "계속하다",
+    "grammar_pattern": "긍정문",
+    "example": "There was a gold key on the floor.",
+    "example_translation": "바닥에 금열쇠가 하나 있었어."
+  },
+  {
+    "id": 444,
+    "word": "key",
+    "part_of_speech": "noun",
+    "meaning": "열쇠",
+    "grammar_pattern": "긍정문",
+    "example": "The boy kicked the soccer ball high.",
+    "example_translation": "그 소년은 축구공을 높이 찼어."
+  },
+  {
+    "id": 445,
+    "word": "kick",
+    "part_of_speech": "verb",
+    "meaning": "차다",
+    "grammar_pattern": "긍정문",
+    "example": "The little kid loved to slide down.",
+    "example_translation": "그 어린 아이는 미끄럼틀 타는 것을 좋아했어."
+  },
+  {
+    "id": 446,
+    "word": "kid",
+    "part_of_speech": "noun",
+    "meaning": "아이",
+    "grammar_pattern": "긍정문",
+    "example": "The winter cold killed the green leaves.",
+    "example_translation": "겨울 추위가 초록 나뭇잎들을 떨어뜨려 없촴어."
+  },
+  {
+    "id": 447,
+    "word": "kill",
+    "part_of_speech": "verb",
+    "meaning": "죽이다(없애다)",
+    "grammar_pattern": "긍정문",
+    "example": "The kind teacher gave me a sticker.",
+    "example_translation": "친절한 선생님이 나에게 스티커를 주셨어."
+  },
+  {
+    "id": 448,
+    "word": "kind",
+    "part_of_speech": "adjective",
+    "meaning": "친절한",
+    "grammar_pattern": "긍정문",
+    "example": "The king lived in a huge castle.",
+    "example_translation": "그 왕은 거대한 성에 살았어."
+  },
+  {
+    "id": 449,
+    "word": "king",
+    "part_of_speech": "noun",
+    "meaning": "왕",
+    "grammar_pattern": "긍정문",
+    "example": "There was a sweet smell in the kitchen.",
+    "example_translation": "부엌에 달콤한 냄새가 가득했었어."
+  },
+  {
+    "id": 450,
+    "word": "kitchen",
+    "part_of_speech": "noun",
+    "meaning": "부엌",
+    "grammar_pattern": "긍정문",
+    "example": "Dad used a safe knife to cut the cake.",
+    "example_translation": "아빠는 케이크를 자르기 위해 안전한 칼을 사용하셨어."
+  },
+  {
+    "id": 451,
+    "word": "knife",
+    "part_of_speech": "noun",
+    "meaning": "칼",
+    "grammar_pattern": "긍정문",
+    "example": "I knew how to solve the puzzle.",
+    "example_translation": "나는 그 퍼즐을 어떻게 푸는지 알고 있었어."
+  },
+  {
+    "id": 452,
+    "word": "know",
+    "part_of_speech": "verb",
+    "meaning": "알다",
+    "grammar_pattern": "긍정문",
+    "example": "The kind lady smiled at the children.",
+    "example_translation": "친절한 아주머니가 아이들을 보고 미소 지으셨어."
+  },
+  {
+    "id": 453,
+    "word": "lady",
+    "part_of_speech": "noun",
+    "meaning": "아주머니(여성)",
+    "grammar_pattern": "긍정문",
+    "example": "There were three boats on the lake.",
+    "example_translation": "호수 위에 배 세 척이 있었어."
+  },
+  {
+    "id": 454,
+    "word": "lake",
+    "part_of_speech": "noun",
+    "meaning": "호수",
+    "grammar_pattern": "긍정문",
+    "example": "The big airplane landed safely.",
+    "example_translation": "큰 비행기가 땅에 안전하게 착륙했어."
+  },
+  {
+    "id": 455,
+    "word": "land",
+    "part_of_speech": "noun",
+    "meaning": "땅",
+    "grammar_pattern": "원급비교",
+    "example": "The elephant was as large as a house!",
+    "example_translation": "그 코끼리는 집만큼 컸었어!"
+  },
+  {
+    "id": 456,
+    "word": "large",
+    "part_of_speech": "adjective",
+    "meaning": "큰",
+    "grammar_pattern": "긍정문",
+    "example": "The fun movie lasted for two hours.",
+    "example_translation": "재미있는 영화는 두 시간 동안 계속되었어."
+  },
+  {
+    "id": 457,
+    "word": "last",
+    "part_of_speech": "verb",
+    "meaning": "계속되다",
+    "grammar_pattern": "동명사",
+    "example": "He was late for the morning bus.",
+    "example_translation": "그는 아침 버스에 늦었었어."
+  },
+  {
+    "id": 458,
+    "word": "late",
+    "part_of_speech": "adjective",
+    "meaning": "늦은",
+    "grammar_pattern": "부정문",
+    "example": "The lazy bear did not want to wake up.",
+    "example_translation": "게으른 곰은 깨어나고 싶어 하지 않았어."
+  },
+  {
+    "id": 459,
+    "word": "lazy",
+    "part_of_speech": "adjective",
+    "meaning": "게으른",
+    "grammar_pattern": "긍정문",
+    "example": "A beautiful red leaf fell on my lap.",
+    "example_translation": "아름다운 빨간 나뭇잎이 내 무릎 위로 떨어졌어."
+  },
+  {
+    "id": 460,
+    "word": "leaf",
+    "part_of_speech": "noun",
+    "meaning": "나뭇잎",
+    "grammar_pattern": "긍정문",
+    "example": "We learned to sing a sweet song.",
+    "example_translation": "우리는 달콤한 노래 부르는 것을 배웠어."
+  },
+  {
+    "id": 461,
+    "word": "learn",
+    "part_of_speech": "verb",
+    "meaning": "배우다",
+    "grammar_pattern": "긍정문",
+    "example": "She held the yellow crayon in her left hand.",
+    "example_translation": "그녀는 왼손에 노란 크레파스를 쥐었어."
+  },
+  {
+    "id": 462,
+    "word": "left",
+    "part_of_speech": "adjective",
+    "meaning": "왼쪽의",
+    "grammar_pattern": "원급비교",
+    "example": "My leg became as strong as a player's.",
+    "example_translation": "내 다리는 운동선수 다리만큼 튼튼해졌어."
+  },
+  {
+    "id": 463,
+    "word": "leg",
+    "part_of_speech": "noun",
+    "meaning": "다리",
+    "grammar_pattern": "동명사",
+    "example": "The drawing lesson was very exciting.",
+    "example_translation": "그림 그리기 수업은 무척 흥미진진했어."
+  },
+  {
+    "id": 464,
+    "word": "lesson",
+    "part_of_speech": "noun",
+    "meaning": "수업(이야기)",
+    "grammar_pattern": "긍정문",
+    "example": "I wrote a nice letter to my friend.",
+    "example_translation": "나는 친구에게 멋진 편지를 썼어."
+  },
+  {
+    "id": 465,
+    "word": "letter",
+    "part_of_speech": "noun",
+    "meaning": "편지",
+    "grammar_pattern": "긍정문",
+    "example": "There were many storybooks in the library.",
+    "example_translation": "도서관에 많은 동화책들이 있었어."
+  },
+  {
+    "id": 466,
+    "word": "library",
+    "part_of_speech": "noun",
+    "meaning": "도서관",
+    "grammar_pattern": "긍정문",
+    "example": "The lazy cat lay down on the rug.",
+    "example_translation": "게으른 고양이가 양탄자 위에 누웠어."
+  },
+  {
+    "id": 467,
+    "word": "lie",
+    "part_of_speech": "verb",
+    "meaning": "눕다",
+    "grammar_pattern": "원급비교",
+    "example": "The feather was as light as air.",
+    "example_translation": "그 깃털은 공기만큼 가벼웠어."
+  },
+  {
+    "id": 468,
+    "word": "light",
+    "part_of_speech": "adjective",
+    "meaning": "가벼운 / 빛",
+    "grammar_pattern": "긍정문",
+    "example": "The little girl skipped like a rabbit.",
+    "example_translation": "그 어린 소녀는 토끼처럼 깡충깡충 뛰었어."
+  },
+  {
+    "id": 469,
+    "word": "like",
+    "part_of_speech": "preposition",
+    "meaning": "~처럼",
+    "grammar_pattern": "긍정문",
+    "example": "We stood in a straight line.",
+    "example_translation": "우리는 곧은 선으로 줄을 섰어."
+  },
+  {
+    "id": 470,
+    "word": "line",
+    "part_of_speech": "noun",
+    "meaning": "선",
+    "grammar_pattern": "긍정문",
+    "example": "The big lion roared very loud.",
+    "example_translation": "큰 사자가 아주 크게 으르렁거렸어."
+  },
+  {
+    "id": 471,
+    "word": "lion",
+    "part_of_speech": "noun",
+    "meaning": "사자",
+    "grammar_pattern": "긍정문",
+    "example": "She put sweet strawberry jam on her lip.",
+    "example_translation": "그녀는 입술에 달콤한 딸기잼을 발랐어."
+  },
+  {
+    "id": 472,
+    "word": "lip",
+    "part_of_speech": "noun",
+    "meaning": "입술",
+    "grammar_pattern": "긍정문",
+    "example": "We listened to the birds singing.",
+    "example_translation": "우리는 새들이 노래하는 것을 들었어."
+  },
+  {
+    "id": 473,
+    "word": "listen",
+    "part_of_speech": "verb",
+    "meaning": "듣다",
+    "grammar_pattern": "감탄문",
+    "example": "What a cute little puppy we saw!",
+    "example_translation": "우리가 정말 귀여운 작은 강아지를 보았었구나!"
+  },
+  {
+    "id": 474,
+    "word": "little",
+    "part_of_speech": "adjective",
+    "meaning": "작은",
+    "grammar_pattern": "긍정문",
+    "example": "A friendly giant lived in the deep forest.",
+    "example_translation": "친절한 거인이 깊은 숲속에 살았어."
+  },
+  {
+    "id": 475,
+    "word": "live",
+    "part_of_speech": "verb",
+    "meaning": "살다",
+    "grammar_pattern": "긍정문",
+    "example": "We gathered in the living room to watch TV.",
+    "example_translation": "우리는 TV를 보기 위해 거실에 모였었어."
+  },
+  {
+    "id": 476,
+    "word": "livingroom",
+    "part_of_speech": "noun",
+    "meaning": "거실",
+    "grammar_pattern": "원급비교",
+    "example": "The train was as long as a street.",
+    "example_translation": "그 기차는 거리만큼 길었어."
+  },
+  {
+    "id": 477,
+    "word": "long",
+    "part_of_speech": "adjective",
+    "meaning": "긴",
+    "grammar_pattern": "긍정문",
+    "example": "The birthday cake looked so delicious!",
+    "example_translation": "그 생일 케이크는 정말 맛나 보였어!"
+  },
+  {
+    "id": 478,
+    "word": "look",
+    "part_of_speech": "verb",
+    "meaning": "보이다",
+    "grammar_pattern": "긍정문",
+    "example": "They loved playing with colorful blocks.",
+    "example_translation": "그들은 알록달록한 블록을 가지고 노는 것을 사랑했어."
+  },
+  {
+    "id": 479,
+    "word": "love",
+    "part_of_speech": "noun",
+    "meaning": "사랑",
+    "grammar_pattern": "긍정문",
+    "example": "The little bird flew over a low wall.",
+    "example_translation": "작은 새가 낮은 담장 위로 날아가 버렸어."
+  },
+  {
+    "id": 480,
+    "word": "low",
+    "part_of_speech": "adjective",
+    "meaning": "낮은",
+    "grammar_pattern": "긍정문",
+    "example": "Eating a yummy lunch made everyone happy.",
+    "example_translation": "맛있는 점심을 먹는 것은 모두를 행복하게 만들었어."
+  },
+  {
+    "id": 481,
+    "word": "luck",
+    "part_of_speech": "noun",
+    "meaning": "운",
+    "grammar_pattern": "긍정문",
+    "example": "I had good luck yesterday!",
+    "example_translation": "나는 어제 운이 좋았어!"
+  },
+  {
+    "id": 482,
+    "word": "lunch",
+    "part_of_speech": "noun",
+    "meaning": "점심",
+    "grammar_pattern": "동명사",
+    "example": "Eating lunch was so much fun.",
+    "example_translation": "점심을 먹는 것은 정말 재미있었어."
+  },
+  {
+    "id": 483,
+    "word": "mad",
+    "part_of_speech": "adjective",
+    "meaning": "미친",
+    "grammar_pattern": "부정문",
+    "example": "The tiny bird was not mad.",
+    "example_translation": "그 작은 새는 화가 나지 않았어."
+  },
+  {
+    "id": 484,
+    "word": "mail",
+    "part_of_speech": "noun",
+    "meaning": "우편물",
+    "grammar_pattern": "의문문",
+    "example": "Was he bringing the mail?",
+    "example_translation": "그가 우편물을 가져오는 중이었니?"
+  },
+  {
+    "id": 485,
+    "word": "make",
+    "part_of_speech": "verb",
+    "meaning": "만들다",
+    "grammar_pattern": "긍정문",
+    "example": "Let’s make a sweet cake!",
+    "example_translation": "우리 달콤한 케이크를 만들자!"
+  },
+  {
+    "id": 486,
+    "word": "man",
+    "part_of_speech": "noun",
+    "meaning": "남자",
+    "grammar_pattern": "동명사",
+    "example": "The kind man was walking fast.",
+    "example_translation": "그 친절한 아저씨는 빠르게 걷고 있었어."
+  },
+  {
+    "id": 487,
+    "word": "many",
+    "part_of_speech": "adjective",
+    "meaning": "많은",
+    "grammar_pattern": "긍정문",
+    "example": "There were many cute puppies.",
+    "example_translation": "거기에 많은 귀여운 강아지들이 있었어."
+  },
+  {
+    "id": 488,
+    "word": "map",
+    "part_of_speech": "noun",
+    "meaning": "지도",
+    "grammar_pattern": "명령문",
+    "example": "Look at this secret map!",
+    "example_translation": "이 비밀 지도를 봐봐!"
+  },
+  {
+    "id": 489,
+    "word": "marry",
+    "part_of_speech": "verb",
+    "meaning": "결혼하다",
+    "grammar_pattern": "긍정문",
+    "example": "The happy prince married the girl.",
+    "example_translation": "행복한 왕자님은 그 소녀와 결혼했어."
+  },
+  {
+    "id": 490,
+    "word": "mathematics",
+    "part_of_speech": "noun",
+    "meaning": "수학",
+    "grammar_pattern": "동명사",
+    "example": "Learning mathematics was too hard.",
+    "example_translation": "수학을 배우는 것은 너무 어려웠어."
+  },
+  {
+    "id": 491,
+    "word": "may",
+    "part_of_speech": "noun",
+    "meaning": "5월",
+    "grammar_pattern": "긍정문",
+    "example": "It was a warm day in May.",
+    "example_translation": "5월의 따뜻한 날이었어."
+  },
+  {
+    "id": 492,
+    "word": "meat",
+    "part_of_speech": "noun",
+    "meaning": "고기",
+    "grammar_pattern": "긍정문",
+    "example": "The hungry cat wanted to eat meat.",
+    "example_translation": "배고픈 고양이는 고기를 먹고 싶어 했어."
+  },
+  {
+    "id": 493,
+    "word": "meet",
+    "part_of_speech": "verb",
+    "meaning": "만나다",
+    "grammar_pattern": "긍정문",
+    "example": "We met a big bear in the woods!",
+    "example_translation": "우리는 숲속에서 큰 곰을 만났어!"
+  },
+  {
+    "id": 494,
+    "word": "memory",
+    "part_of_speech": "adjective",
+    "meaning": "기억",
+    "grammar_pattern": "감탄문",
+    "example": "What a beautiful memory it was!",
+    "example_translation": "정말 아름다운 기억이었어!"
+  },
+  {
+    "id": 495,
+    "word": "middle",
+    "part_of_speech": "adjective",
+    "meaning": "한복판의",
+    "grammar_pattern": "긍정문",
+    "example": "A star was in the middle of the sky.",
+    "example_translation": "하늘 한복판에 별이 하나 있었어."
+  },
+  {
+    "id": 496,
+    "word": "might",
+    "part_of_speech": "noun",
+    "meaning": "힘",
+    "grammar_pattern": "긍정문",
+    "example": "The little ant had strong might.",
+    "example_translation": "그 작은 개미는 강한 힘을 가졌었어."
+  },
+  {
+    "id": 497,
+    "word": "milk",
+    "part_of_speech": "noun",
+    "meaning": "젖",
+    "grammar_pattern": "긍정문",
+    "example": "Drinking milk made me strong.",
+    "example_translation": "우유를 마시는 것은 나를 튼튼하게 만들었어."
+  },
+  {
+    "id": 498,
+    "word": "mind",
+    "part_of_speech": "noun",
+    "meaning": "마음",
+    "grammar_pattern": "의문문",
+    "example": "Did you mind opening the door?",
+    "example_translation": "문을 열어주는 게 싫었었니?"
+  },
+  {
+    "id": 499,
+    "word": "mirror",
+    "part_of_speech": "noun",
+    "meaning": "거울",
+    "grammar_pattern": "긍정문",
+    "example": "She loved to look in the mirror.",
+    "example_translation": "그녀는 거울 속을 보는 것을 좋아했어."
+  },
+  {
+    "id": 500,
+    "word": "miss",
+    "part_of_speech": "verb",
+    "meaning": "실수하다",
+    "grammar_pattern": "긍정문",
+    "example": "I missed my mom yesterday.",
+    "example_translation": "나는 어제 엄마가 그리웠어."
+  },
+  {
+    "id": 501,
+    "word": "money",
+    "part_of_speech": "noun",
+    "meaning": "금전",
+    "grammar_pattern": "부정문",
+    "example": "He did not have any money.",
+    "example_translation": "그는 돈을 하나도 가지고 있지 않았어."
+  },
+  {
+    "id": 502,
+    "word": "monkey",
+    "part_of_speech": "noun",
+    "meaning": "원숭이",
+    "grammar_pattern": "동명사",
+    "example": "The monkey was jumping higher than me!",
+    "example_translation": "그 원숭이는 나보다 더 높이 뛰고 있었어!"
+  },
+  {
+    "id": 503,
+    "word": "month",
+    "part_of_speech": "noun",
+    "meaning": "월",
+    "grammar_pattern": "긍정문",
+    "example": "Last month was very cold.",
+    "example_translation": "지난달은 무척 추웠어."
+  },
+  {
+    "id": 504,
+    "word": "moon",
+    "part_of_speech": "noun",
+    "meaning": "달",
+    "grammar_pattern": "명령문",
+    "example": "Look at the bright moon tonight!",
+    "example_translation": "오늘 밤 저 밝은 달을 봐봐!"
+  },
+  {
+    "id": 505,
+    "word": "morning",
+    "part_of_speech": "noun",
+    "meaning": "아침",
+    "grammar_pattern": "동명사",
+    "example": "She was singing in the morning.",
+    "example_translation": "그녀는 아침에 노래를 부르는 중이었어."
+  },
+  {
+    "id": 506,
+    "word": "mother",
+    "part_of_speech": "noun",
+    "meaning": "어머니",
+    "grammar_pattern": "긍정문",
+    "example": "My mother loved to bake cookies.",
+    "example_translation": "우리 엄마는 쿠키 굽는 것을 좋아하셨어."
+  },
+  {
+    "id": 507,
+    "word": "mountain",
+    "part_of_speech": "noun",
+    "meaning": "산",
+    "grammar_pattern": "긍정문",
+    "example": "This mountain was bigger than that hill.",
+    "example_translation": "이 산은 저 언덕보다 더 컸어."
+  },
+  {
+    "id": 508,
+    "word": "mouse",
+    "part_of_speech": "noun",
+    "meaning": "새앙쥐",
+    "grammar_pattern": "동명사",
+    "example": "A tiny mouse was running fast.",
+    "example_translation": "작은 새앙쥐가 빠르게 달리고 있었어."
+  },
+  {
+    "id": 509,
+    "word": "mouth",
+    "part_of_speech": "noun",
+    "meaning": "입",
+    "grammar_pattern": "명령문",
+    "example": "Open your mouth big!",
+    "example_translation": "입을 크게 벌려봐!"
+  },
+  {
+    "id": 510,
+    "word": "move",
+    "part_of_speech": "verb",
+    "meaning": "움직이다",
+    "grammar_pattern": "부정문",
+    "example": "The big box did not move at all.",
+    "example_translation": "그 큰 상자는 전혀 움직이지 않았어."
+  },
+  {
+    "id": 511,
+    "word": "movie",
+    "part_of_speech": "noun",
+    "meaning": "영화",
+    "grammar_pattern": "동명사",
+    "example": "Watching a movie was so exciting.",
+    "example_translation": "영화를 보는 것은 정말 신나는 일이었어."
+  },
+  {
+    "id": 512,
+    "word": "much",
+    "part_of_speech": "adjective",
+    "meaning": "많은",
+    "grammar_pattern": "긍정문",
+    "example": "I loved my dad so much!",
+    "example_translation": "나는 우리 아빠를 정말 많이 사랑했어!"
+  },
+  {
+    "id": 513,
+    "word": "museum",
+    "part_of_speech": "noun",
+    "meaning": "박물관",
+    "grammar_pattern": "긍정문",
+    "example": "Let’s go to the dinosaur museum!",
+    "example_translation": "우리 공룡 박물관에 가자!"
+  },
+  {
+    "id": 514,
+    "word": "music",
+    "part_of_speech": "adjective",
+    "meaning": "음악",
+    "grammar_pattern": "동명사",
+    "example": "The sweet music was playing softly.",
+    "example_translation": "달콤한 음악이 부드럽게 흘러나오고 있었어."
+  },
+  {
+    "id": 515,
+    "word": "must",
+    "part_of_speech": "modal verb",
+    "meaning": "-해야 한다",
+    "grammar_pattern": "긍정문",
+    "example": "You must listen to the teacher.",
+    "example_translation": "너는 선생님 말씀을 들어야 해."
+  },
+  {
+    "id": 516,
+    "word": "name",
+    "part_of_speech": "noun",
+    "meaning": "이름",
+    "grammar_pattern": "감탄문",
+    "example": "What a cute name you had!",
+    "example_translation": "너 정말 귀여운 이름을 가졌었구나!"
+  },
+  {
+    "id": 517,
+    "word": "nation",
+    "part_of_speech": "noun",
+    "meaning": "국가",
+    "grammar_pattern": "긍정문",
+    "example": "There was a beautiful small nation.",
+    "example_translation": "거기에 아름답고 작은 나라가 있었어."
+  },
+  {
+    "id": 518,
+    "word": "nature",
+    "part_of_speech": "noun",
+    "meaning": "자연",
+    "grammar_pattern": "동명사",
+    "example": "Enjoying nature was very peaceful.",
+    "example_translation": "자연을 즐기는 것은 무척 평화로웠어."
+  },
+  {
+    "id": 519,
+    "word": "near",
+    "part_of_speech": "preposition",
+    "meaning": "가까이",
+    "grammar_pattern": "동명사",
+    "example": "A fluffy rabbit was sitting near me.",
+    "example_translation": "털이 몽실몽실한 토끼가 내 가까이에 앉아 있었어."
+  },
+  {
+    "id": 520,
+    "word": "neck",
+    "part_of_speech": "noun",
+    "meaning": "목",
+    "grammar_pattern": "긍정문",
+    "example": "The giraffe had a longer neck than a deer.",
+    "example_translation": "기린은 사슴보다 더 긴 목을 가졌어."
+  },
+  {
+    "id": 521,
+    "word": "need",
+    "part_of_speech": "noun",
+    "meaning": "필요",
+    "grammar_pattern": "긍정문",
+    "example": "I needed to find my yellow crayon.",
+    "example_translation": "나는 내 노란 크레파스를 찾아야 했어."
+  },
+  {
+    "id": 522,
+    "word": "never",
+    "part_of_speech": "adverb",
+    "meaning": "결코 -아니다",
+    "grammar_pattern": "긍정문",
+    "example": "The brave boy never cried.",
+    "example_translation": "용감한 소년은 결코 울지 않았어."
+  },
+  {
+    "id": 523,
+    "word": "new",
+    "part_of_speech": "adjective",
+    "meaning": "새로운",
+    "grammar_pattern": "긍정문",
+    "example": "She showed me her new shoes.",
+    "example_translation": "그녀는 나에게 그녀의 새 신발을 보여주었어."
+  },
+  {
+    "id": 524,
+    "word": "newspaper",
+    "part_of_speech": "noun",
+    "meaning": "신문",
+    "grammar_pattern": "동명사",
+    "example": "Dad was reading a big newspaper.",
+    "example_translation": "아빠는 큰 신문을 읽고 계시는 중이었어."
+  },
+  {
+    "id": 525,
+    "word": "next",
+    "part_of_speech": "adjective",
+    "meaning": "다음의",
+    "grammar_pattern": "청유문",
+    "example": "Let's sit next to each other!",
+    "example_translation": "우리 서로 옆에 앉자!"
+  },
+  {
+    "id": 526,
+    "word": "nice",
+    "part_of_speech": "adjective",
+    "meaning": "니스",
+    "grammar_pattern": "긍정문",
+    "example": "The weather was nicer than yesterday.",
+    "example_translation": "날씨가 어제보다 더 좋았어."
+  },
+  {
+    "id": 527,
+    "word": "night",
+    "part_of_speech": "noun",
+    "meaning": "밤",
+    "grammar_pattern": "긍정문",
+    "example": "There were bright stars at night.",
+    "example_translation": "밤에 반짝이는 별들이 있었어."
+  },
+  {
+    "id": 528,
+    "word": "no",
+    "part_of_speech": "interjection",
+    "meaning": "무의",
+    "grammar_pattern": "긍정문",
+    "example": "There was no candy in the box.",
+    "example_translation": "상자 안에 사탕이 하나도 없었어."
+  },
+  {
+    "id": 529,
+    "word": "noon",
+    "part_of_speech": "noun",
+    "meaning": "정오",
+    "grammar_pattern": "긍정문",
+    "example": "The bright sun rose at noon.",
+    "example_translation": "밝은 태양이 정오에 떠올랐어."
+  },
+  {
+    "id": 530,
+    "word": "north",
+    "part_of_speech": "noun",
+    "meaning": "북, 북쪽",
+    "grammar_pattern": "긍정문",
+    "example": "The cold wind blew from the north.",
+    "example_translation": "차가운 바람이 북쪽에서 불어왔어."
+  },
+  {
+    "id": 531,
+    "word": "nose",
+    "part_of_speech": "noun",
+    "meaning": "코",
+    "grammar_pattern": "명령문",
+    "example": "Touch your cute nose right now!",
+    "example_translation": "지금 바로 너의 귀여운 코를 만져봐!"
+  },
+  {
+    "id": 532,
+    "word": "not",
+    "part_of_speech": "adverb",
+    "meaning": "아니다",
+    "grammar_pattern": "부정문",
+    "example": "The warm soup was not hot.",
+    "example_translation": "따뜻한 수프는 뜨겁지 않았어."
+  },
+  {
+    "id": 533,
+    "word": "note",
+    "part_of_speech": "noun",
+    "meaning": "기록",
+    "grammar_pattern": "긍정문",
+    "example": "She wanted to write a short note.",
+    "example_translation": "그녀는 짧은 기록을 적고 싶어 했어."
+  },
+  {
+    "id": 534,
+    "word": "nothing",
+    "part_of_speech": "pronoun",
+    "meaning": "아무것도 ...없다",
+    "grammar_pattern": "동명사",
+    "example": "There was nothing in my backpack.",
+    "example_translation": "내 배낭 속에는 아무것도 없었어."
+  },
+  {
+    "id": 535,
+    "word": "now",
+    "part_of_speech": "adverb",
+    "meaning": "지금",
+    "grammar_pattern": "명령문",
+    "example": "Eat your yummy lunch right now!",
+    "example_translation": "지금 바로 너의 맛있는 점심을 먹으렴!"
+  },
+  {
+    "id": 536,
+    "word": "number",
+    "part_of_speech": "noun",
+    "meaning": "수",
+    "grammar_pattern": "동명사",
+    "example": "Singing the number song was fun.",
+    "example_translation": "숫자 노래를 부르는 것은 재미있었어."
+  },
+  {
+    "id": 537,
+    "word": "nurse",
+    "part_of_speech": "noun",
+    "meaning": "유모",
+    "grammar_pattern": "동명사",
+    "example": "The kind nurse was helping the baby.",
+    "example_translation": "친절한 간호사 이모가 아기를 돕고 계셨어."
+  },
+  {
+    "id": 538,
+    "word": "ocean",
+    "part_of_speech": "noun",
+    "meaning": "대양",
+    "grammar_pattern": "긍정문",
+    "example": "The blue ocean was bigger than a lake.",
+    "example_translation": "푸른 대양은 호수보다 더 컸어."
+  },
+  {
+    "id": 539,
+    "word": "of",
+    "part_of_speech": "preposition",
+    "meaning": "출신의",
+    "grammar_pattern": "동명사",
+    "example": "She was dreaming of a pretty fairy.",
+    "example_translation": "그녀는 예쁜 요정의 꿈을 꾸고 있었어."
+  },
+  {
+    "id": 540,
+    "word": "off",
+    "part_of_speech": "preposition",
+    "meaning": "떨어져",
+    "grammar_pattern": "긍정문",
+    "example": "He jumped off the small bed.",
+    "example_translation": "그는 작은 침대 위에서 뛰어내렸어."
+  },
+  {
+    "id": 541,
+    "word": "office",
+    "part_of_speech": "noun",
+    "meaning": "임무",
+    "grammar_pattern": "의문문",
+    "example": "Was Mom working in the office?",
+    "example_translation": "엄마는 사무실에서 일하고 계셨니?"
+  },
+  {
+    "id": 542,
+    "word": "often",
+    "part_of_speech": "adverb",
+    "meaning": "자주",
+    "grammar_pattern": "긍정문",
+    "example": "The cute puppy often barked at night.",
+    "example_translation": "귀여운 강아지는 밤에 자주 짖었어."
+  },
+  {
+    "id": 543,
+    "word": "oil",
+    "part_of_speech": "noun",
+    "meaning": "기름",
+    "grammar_pattern": "부정문",
+    "example": "Don't touch the slippery oil!",
+    "example_translation": "미끄러운 기름을 만지지 마!"
+  },
+  {
+    "id": 544,
+    "word": "old",
+    "part_of_speech": "adjective",
+    "meaning": "늙은",
+    "grammar_pattern": "긍정문",
+    "example": "This toy car was older than that one.",
+    "example_translation": "이 장난감 자동차는 저것보다 더 낡았어."
+  },
+  {
+    "id": 545,
+    "word": "on",
+    "part_of_speech": "preposition",
+    "meaning": "위에",
+    "grammar_pattern": "동명사",
+    "example": "A tiny bug was sitting on the leaf.",
+    "example_translation": "작은 벌레가 나뭇잎 위에 앉아 있었어."
+  },
+  {
+    "id": 546,
+    "word": "one",
+    "part_of_speech": "pronoun",
+    "meaning": "하나의",
+    "grammar_pattern": "긍정문",
+    "example": "There was only one sweet strawberry.",
+    "example_translation": "거기에 딱 하나의 달콤한 딸기가 있었어."
+  },
+  {
+    "id": 547,
+    "word": "only",
+    "part_of_speech": "adjective",
+    "meaning": "유일한",
+    "grammar_pattern": "긍정문",
+    "example": "He wanted to play only with you.",
+    "example_translation": "그는 오직 너하고만 놀고 싶어 했어."
+  },
+  {
+    "id": 548,
+    "word": "open",
+    "part_of_speech": "verb",
+    "meaning": "열다",
+    "grammar_pattern": "명령문",
+    "example": "Please open the heavy door.",
+    "example_translation": "제발 그 무거운 문을 열어줘."
+  },
+  {
+    "id": 549,
+    "word": "or",
+    "part_of_speech": "conjunction",
+    "meaning": "혹은",
+    "grammar_pattern": "의문문",
+    "example": "Do you like a dog or a cat?",
+    "example_translation": "너는 강아지가 좋니 아니면 고양이가 좋니?"
+  },
+  {
+    "id": 550,
+    "word": "out",
+    "part_of_speech": "preposition",
+    "meaning": "밖으로",
+    "grammar_pattern": "긍정문",
+    "example": "The red ball rolled out of the room.",
+    "example_translation": "빨간 공이 방 밖으로 굴러갔어."
+  },
+  {
+    "id": 551,
+    "word": "over",
+    "part_of_speech": "preposition",
+    "meaning": "위쪽",
+    "grammar_pattern": "긍정문",
+    "example": "A beautiful bird flew over my head!",
+    "example_translation": "아름다운 새가 내 머리 위로 날아갔어!"
+  },
+  {
+    "id": 552,
+    "word": "P.M.",
+    "part_of_speech": "abbreviation",
+    "meaning": "오후",
+    "grammar_pattern": "긍정문",
+    "example": "The fun party ended at 4:00 P.M.",
+    "example_translation": "재미있는 파티가 오후 4시에 끝났어."
+  },
+  {
+    "id": 553,
+    "word": "paint",
+    "part_of_speech": "noun",
+    "meaning": "도료",
+    "grammar_pattern": "동명사",
+    "example": "Playing with red paint was messy.",
+    "example_translation": "빨간 도료(물감)로 노는 것은 엉망진창이었어."
+  },
+  {
+    "id": 554,
+    "word": "palace",
+    "part_of_speech": "noun",
+    "meaning": "궁전",
+    "grammar_pattern": "감탄문",
+    "example": "What a giant palace it was!",
+    "example_translation": "정말 거대한 궁전이었구나!"
+  },
+  {
+    "id": 555,
+    "word": "pants",
+    "part_of_speech": "noun",
+    "meaning": "바지",
+    "grammar_pattern": "동명사",
+    "example": "Wearing blue pants was very comfortable.",
+    "example_translation": "파란 바지를 입는 것은 무척 편했어."
+  },
+  {
+    "id": 556,
+    "word": "paper",
+    "part_of_speech": "noun",
+    "meaning": "종이",
+    "grammar_pattern": "청유문",
+    "example": "Let's fold a pretty paper boat!",
+    "example_translation": "우리 예쁜 종이배를 접자!"
+  },
+  {
+    "id": 557,
+    "word": "parent",
+    "part_of_speech": "noun",
+    "meaning": "어버이",
+    "grammar_pattern": "동명사",
+    "example": "My parents were smiling at me.",
+    "example_translation": "나의 어버이(부모님)는 나를 보고 미소 짓고 계셨어."
+  },
+  {
+    "id": 558,
+    "word": "park",
+    "part_of_speech": "noun",
+    "meaning": "공원",
+    "grammar_pattern": "긍정문",
+    "example": "Running in the park made me happy.",
+    "example_translation": "공원에서 달리는 것은 나를 행복하게 만들었어."
+  },
+  {
+    "id": 559,
+    "word": "part",
+    "part_of_speech": "noun",
+    "meaning": "부분",
+    "grammar_pattern": "긍정문",
+    "example": "This part of the cake was sweeter.",
+    "example_translation": "케이크의 이 부분이 더 달콤했어."
+  },
+  {
+    "id": 560,
+    "word": "pass",
+    "part_of_speech": "verb",
+    "meaning": "지나가다",
+    "grammar_pattern": "긍정문",
+    "example": "A yellow bus passed by the house.",
+    "example_translation": "노란 버스가 집 옆을 지나갔어."
+  },
+  {
+    "id": 561,
+    "word": "pay",
+    "part_of_speech": "verb",
+    "meaning": "지불하다",
+    "grammar_pattern": "긍정문",
+    "example": "Dad paid money to buy a toy.",
+    "example_translation": "아빠는 장난감을 사기 위해 돈을 지불하셨어."
+  },
+  {
+    "id": 562,
+    "word": "peace",
+    "part_of_speech": "noun",
+    "meaning": "평화",
+    "grammar_pattern": "긍정문",
+    "example": "There was a soft peace in the room.",
+    "example_translation": "방안에 부드러운 평화가 있었어."
+  },
+  {
+    "id": 563,
+    "word": "pear",
+    "part_of_speech": "noun",
+    "meaning": "서양배",
+    "grammar_pattern": "긍정문",
+    "example": "The green pear was sweeter than an apple.",
+    "example_translation": "초록 서양배는 사과보다 더 달콤했어."
+  },
+  {
+    "id": 564,
+    "word": "pencil",
+    "part_of_speech": "verb",
+    "meaning": "연필 연필로 쓰다",
+    "grammar_pattern": "동명사",
+    "example": "Writing with a pencil was easy.",
+    "example_translation": "연필로 쓰는 것은 쉬웠어."
+  },
+  {
+    "id": 565,
+    "word": "people",
+    "part_of_speech": "noun",
+    "meaning": "사람들",
+    "grammar_pattern": "동명사",
+    "example": "Many people were clapping hands.",
+    "example_translation": "많은 사람들이 박수를 치고 있었어."
+  },
+  {
+    "id": 566,
+    "word": "pick",
+    "part_of_speech": "verb",
+    "meaning": "따다",
+    "grammar_pattern": "청유문",
+    "example": "Let's pick the pretty red flower!",
+    "example_translation": "우리 예쁜 빨간 꽃을 따자!"
+  },
+  {
+    "id": 567,
+    "word": "picnic",
+    "part_of_speech": "adjective",
+    "meaning": "소풍",
+    "grammar_pattern": "동명사",
+    "example": "Going on a picnic was wonderful.",
+    "example_translation": "소풍을 가는 것은 멋진 일이었어."
+  },
+  {
+    "id": 568,
+    "word": "picture",
+    "part_of_speech": "noun",
+    "meaning": "그림",
+    "grammar_pattern": "명령문",
+    "example": "Look at this beautiful picture!",
+    "example_translation": "이 아름다운 그림을 봐봐!"
+  },
+  {
+    "id": 569,
+    "word": "pig",
+    "part_of_speech": "noun",
+    "meaning": "돼지",
+    "grammar_pattern": "동명사",
+    "example": "The pink pig was sleeping softly.",
+    "example_translation": "분홍 돼지가 부드럽게 잠을 자고 있었어."
+  },
+  {
+    "id": 570,
+    "word": "pink",
+    "part_of_speech": "noun",
+    "meaning": "연분홍색",
+    "grammar_pattern": "감탄문",
+    "example": "What a pretty pink balloon it was!",
+    "example_translation": "정말 예쁜 분홍색 풍선이었구나!"
+  },
+  {
+    "id": 571,
+    "word": "place",
+    "part_of_speech": "noun",
+    "meaning": "장소",
+    "grammar_pattern": "긍정문",
+    "example": "This place was warmer than the playground.",
+    "example_translation": "이 장소는 놀이터보다 더 따뜻했어."
+  },
+  {
+    "id": 572,
+    "word": "plan",
+    "part_of_speech": "noun",
+    "meaning": "계획",
+    "grammar_pattern": "긍정문",
+    "example": "We planned to build a sand castle.",
+    "example_translation": "우리는 모래 성을 쌓을 계획을 세웠어."
+  },
+  {
+    "id": 573,
+    "word": "play",
+    "part_of_speech": "verb",
+    "meaning": "놀다",
+    "grammar_pattern": "동명사",
+    "example": "Playing together was the best thing.",
+    "example_translation": "함께 노는 것은 가장 좋은 일이었어."
+  },
+  {
+    "id": 574,
+    "word": "please",
+    "part_of_speech": "verb",
+    "meaning": "기쁘게 하다",
+    "grammar_pattern": "명령문",
+    "example": "Please give me the sweet cookie.",
+    "example_translation": "제발 저에게 달콤한 쿠키를 주세요."
+  },
+  {
+    "id": 575,
+    "word": "pocket",
+    "part_of_speech": "noun",
+    "meaning": "포켓",
+    "grammar_pattern": "긍정문",
+    "example": "There was a small star in my pocket.",
+    "example_translation": "내 포켓(주머니) 속에 작은 별이 있었어."
+  },
+  {
+    "id": 576,
+    "word": "point",
+    "part_of_speech": "noun",
+    "meaning": "점",
+    "grammar_pattern": "긍정문",
+    "example": "He pointed to the shiny moon.",
+    "example_translation": "그는 반짝이는 달을 손가락으로 가리켰어."
+  },
+  {
+    "id": 577,
+    "word": "police",
+    "part_of_speech": "verb",
+    "meaning": "경찰 경비하다",
+    "grammar_pattern": "동명사",
+    "example": "The brave police dog was running fast.",
+    "example_translation": "용감한 경찰견이 빠르게 달리고 있었어."
+  },
+  {
+    "id": 578,
+    "word": "poor",
+    "part_of_speech": "adjective",
+    "meaning": "가난한한",
+    "grammar_pattern": "긍정문",
+    "example": "The poor little kitten was wet.",
+    "example_translation": "그 가여운(가난한) 아기 고양이는 젖어 있었어."
+  },
+  {
+    "id": 579,
+    "word": "potato",
+    "part_of_speech": "noun",
+    "meaning": "감자",
+    "grammar_pattern": "동명사",
+    "example": "Eating a hot potato was yummy.",
+    "example_translation": "뜨거운 감자를 먹는 것은 맛있었어."
+  },
+  {
+    "id": 580,
+    "word": "power",
+    "part_of_speech": "noun",
+    "meaning": "힘",
+    "grammar_pattern": "긍정문",
+    "example": "The superhero had a stronger power than me.",
+    "example_translation": "슈퍼히어로는 나보다 더 강한 힘을 가졌어."
+  },
+  {
+    "id": 581,
+    "word": "present",
+    "part_of_speech": "adjective",
+    "meaning": "있는, 존재하는",
+    "grammar_pattern": "긍정문",
+    "example": "A big gift was present under the tree.",
+    "example_translation": "큰 선물이 나무 아래에 존재하고(놓여) 있었어."
+  },
+  {
+    "id": 582,
+    "word": "pretty",
+    "part_of_speech": "adjective",
+    "meaning": "예쁜",
+    "grammar_pattern": "긍정문",
+    "example": "The yellow butterfly was so pretty!",
+    "example_translation": "노란 나비가 정말 예뻤어!"
+  },
+  {
+    "id": 583,
+    "word": "prince",
+    "part_of_speech": "noun",
+    "meaning": "왕자",
+    "grammar_pattern": "긍정문",
+    "example": "The young prince wanted to ride a horse.",
+    "example_translation": "어린 왕자님은 말을 타고 싶어 했어."
+  },
+  {
+    "id": 584,
+    "word": "print",
+    "part_of_speech": "verb",
+    "meaning": "인쇄하다",
+    "grammar_pattern": "긍정문",
+    "example": "He loved to print colorful stickers.",
+    "example_translation": "그는 알록달록한 스티커를 인쇄하는 것을 좋아했어."
+  },
+  {
+    "id": 585,
+    "word": "prize",
+    "part_of_speech": "verb",
+    "meaning": "상",
+    "grammar_pattern": "긍정문",
+    "example": "Winning the first prize made her jump.",
+    "example_translation": "1등 상을 받는 것은 그녀를 뛰게 만들었어."
+  },
+  {
+    "id": 586,
+    "word": "problem",
+    "part_of_speech": "noun",
+    "meaning": "문제",
+    "grammar_pattern": "동명사",
+    "example": "Solving the puzzle problem was hard.",
+    "example_translation": "퍼즐 문제를 푸는 것은 어려웠어."
+  },
+  {
+    "id": 587,
+    "word": "puppy",
+    "part_of_speech": "noun",
+    "meaning": "강아지",
+    "grammar_pattern": "동명사",
+    "example": "A tiny puppy was wagging its tail.",
+    "example_translation": "작은 강아지가 꼬리를 흔들고 있었어."
+  },
+  {
+    "id": 588,
+    "word": "push",
+    "part_of_speech": "verb",
+    "meaning": "밀다",
+    "grammar_pattern": "부정문",
+    "example": "Don't push the blue button!",
+    "example_translation": "파란 단추를 밀지(누르지) 마!"
+  },
+  {
+    "id": 589,
+    "word": "put",
+    "part_of_speech": "verb",
+    "meaning": "놓다",
+    "grammar_pattern": "긍정문",
+    "example": "She put the cute teddy bear on the bed.",
+    "example_translation": "그녀는 귀여운 곰 인형을 침대 위에 놓았어."
+  },
+  {
+    "id": 590,
+    "word": "puzzle",
+    "part_of_speech": "noun",
+    "meaning": "당황",
+    "grammar_pattern": "긍정문",
+    "example": "This puzzle was smaller than that one.",
+    "example_translation": "이 퍼즐은 저것보다 더 작았어."
+  },
+  {
+    "id": 591,
+    "word": "queen",
+    "part_of_speech": "noun",
+    "meaning": "여왕",
+    "grammar_pattern": "동명사",
+    "example": "The beautiful queen was waving her hand.",
+    "example_translation": "아름다운 여왕님이 손을 흔들고 계시는 중이었어."
+  },
+  {
+    "id": 592,
+    "word": "question",
+    "part_of_speech": "noun",
+    "meaning": "물음",
+    "grammar_pattern": "동명사",
+    "example": "Asking a question was very easy.",
+    "example_translation": "물음(질문)을 하는 것은 무척 쉬웠어."
+  },
+  {
+    "id": 593,
+    "word": "quick",
+    "part_of_speech": "adjective",
+    "meaning": "빠른",
+    "grammar_pattern": "긍정문",
+    "example": "The little frog was quicker than the cat.",
+    "example_translation": "작은 개구리가 고양이보다 더 빨랐어."
+  },
+  {
+    "id": 594,
+    "word": "quiet",
+    "part_of_speech": "adjective",
+    "meaning": "조용한",
+    "grammar_pattern": "명령문",
+    "example": "Please be quiet in the library.",
+    "example_translation": "도서관에서는 제발 조용히 해주렴."
+  },
+  {
+    "id": 595,
+    "word": "rabbit",
+    "part_of_speech": "noun",
+    "meaning": "집토끼",
+    "grammar_pattern": "동명사",
+    "example": "A white rabbit was eating a carrot.",
+    "example_translation": "흰 집토끼가 당근을 먹고 있는 중이었어."
+  },
+  {
+    "id": 596,
+    "word": "race",
+    "part_of_speech": "noun",
+    "meaning": "인종",
+    "grammar_pattern": "동명사",
+    "example": "Running a race was very exciting!",
+    "example_translation": "달리기 경주를 하는 것은 정말 신났어!"
+  },
+  {
+    "id": 597,
+    "word": "rain",
+    "part_of_speech": "noun",
+    "meaning": "비",
+    "grammar_pattern": "동명사",
+    "example": "The cold rain was falling from the sky.",
+    "example_translation": "차가운 비가 하늘에서 내리고 있었어."
+  },
+  {
+    "id": 598,
+    "word": "rainbow",
+    "part_of_speech": "noun",
+    "meaning": "무지개",
+    "grammar_pattern": "감탄문",
+    "example": "What a beautiful rainbow it was!",
+    "example_translation": "정말 아름다운 무지개였구나!"
+  },
+  {
+    "id": 599,
+    "word": "read",
+    "part_of_speech": "verb",
+    "meaning": "읽다",
+    "grammar_pattern": "긍정문",
+    "example": "I read a funny storybook last night.",
+    "example_translation": "나는 어제만 한밤중에 재미있는 동화책을 읽었어."
+  },
+  {
+    "id": 600,
+    "word": "ready",
+    "part_of_speech": "adjective",
+    "meaning": "준비가 된",
+    "grammar_pattern": "긍정문",
+    "example": "We were ready to play soccer!",
+    "example_translation": "우리는 축구 할 준비가 되어 있었어!"
+  },
+  {
+    "id": 601,
+    "word": "red",
+    "part_of_speech": "noun",
+    "meaning": "붉은",
+    "grammar_pattern": "동명사",
+    "example": "He was painting a big red apple.",
+    "example_translation": "그는 큰 빨간 사과를 그리는 중이었어."
+  },
+  {
+    "id": 602,
+    "word": "remember",
+    "part_of_speech": "verb",
+    "meaning": "기억하고 있다",
+    "grammar_pattern": "동명사",
+    "example": "I was trying to remember your name.",
+    "example_translation": "나는 너의 이름을 기억하려고 노력하는 중이었어."
+  },
+  {
+    "id": 603,
+    "word": "restaurant",
+    "part_of_speech": "noun",
+    "meaning": "요리점",
+    "grammar_pattern": "동명사",
+    "example": "They were eating yummy pizza at the restaurant.",
+    "example_translation": "그들은 요리점(레스토랑)에서 맛있는 피자를 먹는 중이었어."
+  },
+  {
+    "id": 604,
+    "word": "restroom",
+    "part_of_speech": "noun",
+    "meaning": "화장실",
+    "grammar_pattern": "의문문",
+    "example": "Was she washing her hands in the restroom?",
+    "example_translation": "그녀는 화장실에서 손을 씻는 중이었니?"
+  },
+  {
+    "id": 605,
+    "word": "return",
+    "part_of_speech": "verb",
+    "meaning": "돌아가다",
+    "grammar_pattern": "동명사",
+    "example": "The little bird was returning to its mom.",
+    "example_translation": "작은 새가 엄마에게 돌아가는 중이었어."
+  },
+  {
+    "id": 606,
+    "word": "rich",
+    "part_of_speech": "adjective",
+    "meaning": "부자인",
+    "grammar_pattern": "동명사",
+    "example": "He was dreaming of becoming a rich king.",
+    "example_translation": "그는 부자인 왕이 되는 꿈을 꾸고 있었어."
+  },
+  {
+    "id": 607,
+    "word": "right",
+    "part_of_speech": "noun",
+    "meaning": "올바른",
+    "grammar_pattern": "명령문",
+    "example": "Turn right at the next corner!",
+    "example_translation": "다음 모퉁이에서 오른쪽으로 돌으렴!"
+  },
+  {
+    "id": 608,
+    "word": "ring",
+    "part_of_speech": "noun",
+    "meaning": "고리",
+    "grammar_pattern": "동명사",
+    "example": "She was wearing the prettiest gold ring.",
+    "example_translation": "그녀는 가장 예쁜 금반지를 끼고 있었어."
+  },
+  {
+    "id": 609,
+    "word": "river",
+    "part_of_speech": "noun",
+    "meaning": "강",
+    "grammar_pattern": "동명사",
+    "example": "We were swimming in the coolest river.",
+    "example_translation": "우리는 가장 시원한 강에서 수영하는 중이었어."
+  },
+  {
+    "id": 610,
+    "word": "road",
+    "part_of_speech": "noun",
+    "meaning": "길",
+    "grammar_pattern": "부정문",
+    "example": "A yellow bus was not driving on the road.",
+    "example_translation": "노란 버스는 길 위를 달리는 중이 아니었어."
+  },
+  {
+    "id": 611,
+    "word": "rock",
+    "part_of_speech": "noun",
+    "meaning": "바위",
+    "grammar_pattern": "동명사",
+    "example": "They were sitting on a huge rock.",
+    "example_translation": "그들은 거대한 바위 위에 앉아 있는 중이었어."
+  },
+  {
+    "id": 612,
+    "word": "roof",
+    "part_of_speech": "noun",
+    "meaning": "지봉",
+    "grammar_pattern": "동명사",
+    "example": "A cute cat was walking on the roof.",
+    "example_translation": "귀여운 고양이가 지붕 위를 걷고 있었어."
+  },
+  {
+    "id": 613,
+    "word": "room",
+    "part_of_speech": "noun",
+    "meaning": "방",
+    "grammar_pattern": "동명사",
+    "example": "There was a tiny puppy sleeping in the room.",
+    "example_translation": "방안에 작은 강아지가 자고 있었어."
+  },
+  {
+    "id": 614,
+    "word": "run",
+    "part_of_speech": "verb",
+    "meaning": "달리다",
+    "grammar_pattern": "동명사",
+    "example": "Running fast in the playground was fun.",
+    "example_translation": "운동장에서 빠르게 달리는 것은 재미있었어."
+  },
+  {
+    "id": 615,
+    "word": "sad",
+    "part_of_speech": "adjective",
+    "meaning": "슬픈",
+    "grammar_pattern": "부정문",
+    "example": "The little boy was not crying because he was sad.",
+    "example_translation": "그 어린 소년은 슬픈 마음 때문에 울고 있던 게 아니었어."
+  },
+  {
+    "id": 616,
+    "word": "safe",
+    "part_of_speech": "adjective",
+    "meaning": "안전한",
+    "grammar_pattern": "동명사",
+    "example": "We were staying in the safest house.",
+    "example_translation": "우리는 가장 안전한 집에서 머무는 중이었어."
+  },
+  {
+    "id": 617,
+    "word": "sale",
+    "part_of_speech": "noun",
+    "meaning": "판매",
+    "grammar_pattern": "동명사",
+    "example": "Toys were selling on a big sale!",
+    "example_translation": "장난감들이 큰 판매(할인) 중으로 팔리고 있었어!"
+  },
+  {
+    "id": 618,
+    "word": "salt",
+    "part_of_speech": "noun",
+    "meaning": "소금",
+    "grammar_pattern": "부정문",
+    "example": "Don't put too much salt in the soup!",
+    "example_translation": "수프에 소금을 너무 많이 넣지 마!"
+  },
+  {
+    "id": 619,
+    "word": "same",
+    "part_of_speech": "noun",
+    "meaning": "같은",
+    "grammar_pattern": "동명사",
+    "example": "They were wearing the same blue hats.",
+    "example_translation": "그들은 똑같은 파란 모자를 쓰고 있는 중이었어."
+  },
+  {
+    "id": 620,
+    "word": "sand",
+    "part_of_speech": "noun",
+    "meaning": "모래사장",
+    "grammar_pattern": "동명사",
+    "example": "We were making the biggest sand castle.",
+    "example_translation": "우리는 가장 큰 모래 성을 만드는 중이었어."
+  },
+  {
+    "id": 621,
+    "word": "save",
+    "part_of_speech": "verb",
+    "meaning": "위험에서 구하다",
+    "grammar_pattern": "동명사",
+    "example": "The brave dog was trying to save the kitty.",
+    "example_translation": "용감한 개는 새끼 고양이를 구하려고 노력하는 중이었어."
+  },
+  {
+    "id": 622,
+    "word": "say",
+    "part_of_speech": "verb",
+    "meaning": "말하다",
+    "grammar_pattern": "의문문",
+    "example": "What was the kind teacher saying to you?",
+    "example_translation": "친절한 선생님이 너에게 무슨 말을 하는 중이셨니?"
+  },
+  {
+    "id": 623,
+    "word": "school",
+    "part_of_speech": "noun",
+    "meaning": "학교",
+    "grammar_pattern": "청유문",
+    "example": "Let's walk to school together!",
+    "example_translation": "우리 함께 학교로 걸어가자!"
+  },
+  {
+    "id": 624,
+    "word": "science",
+    "part_of_speech": "noun",
+    "meaning": "과학",
+    "grammar_pattern": "동명사",
+    "example": "Learning science was so much fun!",
+    "example_translation": "과학을 배우는 것은 정말 대단히 재미있었어!"
+  },
+  {
+    "id": 625,
+    "word": "scissors",
+    "part_of_speech": "noun",
+    "meaning": "가위",
+    "grammar_pattern": "동명사",
+    "example": "He was cutting paper with small scissors.",
+    "example_translation": "그는 작은 가위로 종이를 자르는 중이었어."
+  },
+  {
+    "id": 626,
+    "word": "score",
+    "part_of_speech": "noun",
+    "meaning": "득점",
+    "grammar_pattern": "동명사",
+    "example": "Our team was winning with the highest score!",
+    "example_translation": "우리 팀이 가장 높은 득점으로 이기는 중이었어!"
+  },
+  {
+    "id": 627,
+    "word": "sea",
+    "part_of_speech": "noun",
+    "meaning": "바다",
+    "grammar_pattern": "동명사",
+    "example": "A big ship was sailing on the blue sea.",
+    "example_translation": "큰 배가 푸른 바다 위를 항해하는 중이었어."
+  },
+  {
+    "id": 628,
+    "word": "season",
+    "part_of_speech": "noun",
+    "meaning": "계절",
+    "grammar_pattern": "동명사",
+    "example": "Spring was changing into the warmest season.",
+    "example_translation": "봄은 가장 따뜻한 계절로 변하는 중이었어."
+  },
+  {
+    "id": 629,
+    "word": "see",
+    "part_of_speech": "verb",
+    "meaning": "보다",
+    "grammar_pattern": "동명사",
+    "example": "I was running to see the cute panda.",
+    "example_translation": "나는 귀여운 판다를 보기 위해 달리는 중이었어."
+  },
+  {
+    "id": 630,
+    "word": "sell",
+    "part_of_speech": "verb",
+    "meaning": "팔다",
+    "grammar_pattern": "동명사",
+    "example": "The sweet lady was selling colorful balloons.",
+    "example_translation": "친절한 아주머니가 알록달록한 풍선을 파는 중이셨어."
+  },
+  {
+    "id": 631,
+    "word": "send",
+    "part_of_speech": "verb",
+    "meaning": "보내다",
+    "grammar_pattern": "의문문",
+    "example": "Was she sending a nice letter to her grandma?",
+    "example_translation": "그녀는 할머니께 멋진 편지를 보내는 중이었니?"
+  },
+  {
+    "id": 632,
+    "word": "she",
+    "part_of_speech": "pronoun",
+    "meaning": "그녀는",
+    "grammar_pattern": "동명사",
+    "example": "She was jumping higher and higher.",
+    "example_translation": "그녀는 점점 더 높이 점프하는 중이었어."
+  },
+  {
+    "id": 633,
+    "word": "ship",
+    "part_of_speech": "noun",
+    "meaning": "배",
+    "grammar_pattern": "감탄문",
+    "example": "What a giant ship it was!",
+    "example_translation": "정말 거대한 배였구나!"
+  },
+  {
+    "id": 634,
+    "word": "shock",
+    "part_of_speech": "noun",
+    "meaning": "격돌",
+    "grammar_pattern": "동명사",
+    "example": "The loud sound was shocking the baby.",
+    "example_translation": "큰 소리가 아기를 깜짝 놀라게(격돌/충격) 하는 중이었어."
+  },
+  {
+    "id": 635,
+    "word": "shoe",
+    "part_of_speech": "noun",
+    "meaning": "구두",
+    "grammar_pattern": "동명사",
+    "example": "He was looking for his smallest shoe.",
+    "example_translation": "그는 그의 가장 작은 구두(신발)를 찾는 중이었어."
+  },
+  {
+    "id": 636,
+    "word": "shop",
+    "part_of_speech": "noun",
+    "meaning": "상점",
+    "grammar_pattern": "긍정문",
+    "example": "Let’s go to the candy shop!",
+    "example_translation": "우리 사탕 상점에 가자!"
+  },
+  {
+    "id": 637,
+    "word": "short",
+    "part_of_speech": "adjective",
+    "meaning": "짧은",
+    "grammar_pattern": "동명사",
+    "example": "The short pencil was rolling on the floor.",
+    "example_translation": "짧은 연필이 바닥 위로 구르는 중이었어."
+  },
+  {
+    "id": 638,
+    "word": "should",
+    "part_of_speech": "noun",
+    "meaning": "aushall의 과거",
+    "grammar_pattern": "긍정문",
+    "example": "You should finish your yummy milk.",
+    "example_translation": "너는 맛있는 우유를 다 마셔야 해."
+  },
+  {
+    "id": 639,
+    "word": "show",
+    "part_of_speech": "verb",
+    "meaning": "보이다",
+    "grammar_pattern": "동명사",
+    "example": "She was showing me her newest doll.",
+    "example_translation": "그녀는 나에게 그녀의 가장 새롭고 예쁜 인형을 보여주는 중이었어."
+  },
+  {
+    "id": 640,
+    "word": "shy",
+    "part_of_speech": "adjective",
+    "meaning": "수줍은",
+    "grammar_pattern": "동명사",
+    "example": "The shy girl was hiding behind her mom.",
+    "example_translation": "수줍은 소녀는 엄마 뒤에 숨어 있는 중이었어."
+  },
+  {
+    "id": 641,
+    "word": "sick",
+    "part_of_speech": "adjective",
+    "meaning": "병난",
+    "grammar_pattern": "동명사",
+    "example": "The sick puppy was sleeping all day.",
+    "example_translation": "아픈(병난) 강아지는 하루 종일 잠을 자는 중이었어."
+  },
+  {
+    "id": 642,
+    "word": "side",
+    "part_of_speech": "noun",
+    "meaning": "쪽",
+    "grammar_pattern": "긍정문",
+    "example": "There were pretty flowers on the side of the road.",
+    "example_translation": "길가 쪽에 예쁜 꽃들이 있었어."
+  },
+  {
+    "id": 643,
+    "word": "sing",
+    "part_of_speech": "verb",
+    "meaning": "노래하다",
+    "grammar_pattern": "긍정문",
+    "example": "Singing songs made the children happy.",
+    "example_translation": "노래를 부르는 것은 아이들을 행복하게 만들었어."
+  },
+  {
+    "id": 644,
+    "word": "sister",
+    "part_of_speech": "noun",
+    "meaning": "여자형제",
+    "grammar_pattern": "동명사",
+    "example": "My sister was playing with the softest teddy bear.",
+    "example_translation": "내 여자형제(누나/동생)는 가장 부드러운 곰 인형과 노는 중이었어."
+  },
+  {
+    "id": 645,
+    "word": "sit",
+    "part_of_speech": "verb",
+    "meaning": "앉다",
+    "grammar_pattern": "명령문",
+    "example": "Sit down on this cozy chair, please.",
+    "example_translation": "제발 이 안락한 의자에 앉으렴."
+  },
+  {
+    "id": 646,
+    "word": "size",
+    "part_of_speech": "noun",
+    "meaning": "크기",
+    "grammar_pattern": "긍정문",
+    "example": "This ball was the biggest size of all.",
+    "example_translation": "이 공은 모든 것 중에서 가장 큰 크기였어."
+  },
+  {
+    "id": 647,
+    "word": "skin",
+    "part_of_speech": "noun",
+    "meaning": "피부",
+    "grammar_pattern": "긍정문",
+    "example": "The baby bear had the softest skin.",
+    "example_translation": "아기 곰은 가장 부드러운 피부(털)를 가지고 있었어."
+  },
+  {
+    "id": 648,
+    "word": "skirt",
+    "part_of_speech": "noun",
+    "meaning": "스커어트",
+    "grammar_pattern": "동명사",
+    "example": "She was wearing the prettiest pink skirt.",
+    "example_translation": "그녀는 가장 예쁜 분홍색 스커트를 입고 있는 중이었어."
+  },
+  {
+    "id": 649,
+    "word": "sky",
+    "part_of_speech": "noun",
+    "meaning": "하늘",
+    "grammar_pattern": "동명사",
+    "example": "A white cloud was floating in the sky.",
+    "example_translation": "하얀 구름이 하늘에 떠다니는 중이었어."
+  },
+  {
+    "id": 650,
+    "word": "sleep",
+    "part_of_speech": "verb",
+    "meaning": "잠자다",
+    "grammar_pattern": "동명사",
+    "example": "Sleeping early was a very good habit.",
+    "example_translation": "일찍 잠을 자는 것은 무척 좋은 습관이었어."
+  },
+  {
+    "id": 651,
+    "word": "slow",
+    "part_of_speech": "adjective",
+    "meaning": "느린",
+    "grammar_pattern": "동명사",
+    "example": "The slow turtle was walking to the pond.",
+    "example_translation": "느린 거북이가 연못으로 걸어가는 중이었어."
+  },
+  {
+    "id": 652,
+    "word": "small",
+    "part_of_speech": "adjective",
+    "meaning": "작은 작은 부분 적게",
+    "grammar_pattern": "동명사",
+    "example": "He was holding the smallest ladybug.",
+    "example_translation": "그는 가장 작은 무당벌레를 손에 쥐고 있는 중이었어."
+  },
+  {
+    "id": 653,
+    "word": "smart",
+    "part_of_speech": "adjective",
+    "meaning": "재치있는",
+    "grammar_pattern": "긍정문",
+    "example": "She was the smartest student in the class!",
+    "example_translation": "그녀는 반에서 가장 재치 있는(똑똑한) 학생이었어!"
+  },
+  {
+    "id": 654,
+    "word": "smell",
+    "part_of_speech": "noun",
+    "meaning": "냄새",
+    "grammar_pattern": "감탄문",
+    "example": "What a sweet smell it was!",
+    "example_translation": "정말 달콤한 냄새였구나!"
+  },
+  {
+    "id": 655,
+    "word": "smile",
+    "part_of_speech": "verb",
+    "meaning": "미소짓다 미소",
+    "grammar_pattern": "동명사",
+    "example": "The kind grandpa was smiling at me.",
+    "example_translation": "친절한 할아버지께서 나를 보고 미소 짓고 계셨어."
+  },
+  {
+    "id": 656,
+    "word": "snow",
+    "part_of_speech": "noun",
+    "meaning": "눈 눈이 내리다",
+    "grammar_pattern": "동명사",
+    "example": "Cold snow was falling from the sky.",
+    "example_translation": "차가운 눈이 하늘에서 내리는 중이었어."
+  },
+  {
+    "id": 657,
+    "word": "so",
+    "part_of_speech": "conjunction",
+    "meaning": "그와 같이",
+    "grammar_pattern": "긍정문",
+    "example": "The puppy was so cute and fluffy!",
+    "example_translation": "그 강아지는 그와 같이(정말) 귀엽고 폭신폭신했어!"
+  },
+  {
+    "id": 658,
+    "word": "soccer",
+    "part_of_speech": "noun",
+    "meaning": "축구",
+    "grammar_pattern": "동명사",
+    "example": "We were playing soccer in the yard.",
+    "example_translation": "우리는 마당에서 축구를 하는 중이었어."
+  },
+  {
+    "id": 659,
+    "word": "sock",
+    "part_of_speech": "noun",
+    "meaning": "짧은 양말",
+    "grammar_pattern": "동명사",
+    "example": "He was looking for his warmest socks.",
+    "example_translation": "그는 그의 가장 따뜻한 짧은 양말을 찾는 중이었어."
+  },
+  {
+    "id": 660,
+    "word": "soft",
+    "part_of_speech": "adjective",
+    "meaning": "부드러운",
+    "grammar_pattern": "동명사",
+    "example": "The cat’s fur was the softest thing.",
+    "example_translation": "고양이의 털은 세상에서 가장 부드러운 것이었어."
+  },
+  {
+    "id": 661,
+    "word": "some",
+    "part_of_speech": "adjective",
+    "meaning": "얼마간의",
+    "grammar_pattern": "긍정문",
+    "example": "There were some delicious cookies on the plate.",
+    "example_translation": "접시 위에 얼마간의(몇 개의) 맛있는 쿠키가 있었어."
+  },
+  {
+    "id": 662,
+    "word": "son",
+    "part_of_speech": "noun",
+    "meaning": "아들",
+    "grammar_pattern": "동명사",
+    "example": "The king loved his youngest son the most.",
+    "example_translation": "왕은 그의 가장 어린 아들을 가장 사랑했어."
+  },
+  {
+    "id": 663,
+    "word": "song",
+    "part_of_speech": "noun",
+    "meaning": "노래",
+    "grammar_pattern": "동명사",
+    "example": "We were listening to the most beautiful song.",
+    "example_translation": "우리는 가장 아름다운 노래를 듣고 있는 중이었어."
+  },
+  {
+    "id": 664,
+    "word": "sorry",
+    "part_of_speech": "interjection",
+    "meaning": "가엾은",
+    "grammar_pattern": "동명사",
+    "example": "The sorry little puppy was hanging its head.",
+    "example_translation": "가여운 작은 강아지가 머리를 숙이고 있었어."
+  },
+  {
+    "id": 665,
+    "word": "sound",
+    "part_of_speech": "noun",
+    "meaning": "소리",
+    "grammar_pattern": "동명사",
+    "example": "A strange sound was coming from the box.",
+    "example_translation": "상자 안에서 이상한 소리가 들려오는 중이었어."
+  },
+  {
+    "id": 666,
+    "word": "sour",
+    "part_of_speech": "verb",
+    "meaning": "시큼한 시어지다 시큼한 것",
+    "grammar_pattern": "동명사",
+    "example": "I was eating the most sour lemon.",
+    "example_translation": "나는 가장 시큼한 레몬을 먹고 있는 중이었어."
+  },
+  {
+    "id": 667,
+    "word": "south",
+    "part_of_speech": "adverb",
+    "meaning": "남쪽 남쪽의 남으로",
+    "grammar_pattern": "동명사",
+    "example": "The birds were flying to the warm south.",
+    "example_translation": "새들이 따뜻한 남쪽으로 날아가는 중이었어."
+  },
+  {
+    "id": 668,
+    "word": "space",
+    "part_of_speech": "noun",
+    "meaning": "공간",
+    "grammar_pattern": "긍정문",
+    "example": "There was enough space for the toys.",
+    "example_translation": "장난감들을 놓을 충분한 공간이 있었어."
+  },
+  {
+    "id": 669,
+    "word": "speak",
+    "part_of_speech": "verb",
+    "meaning": "이야기하다",
+    "grammar_pattern": "의문문",
+    "example": "Who was speaking so loudly?",
+    "example_translation": "누가 그렇게 크게 이야기하는 중이었니?"
+  },
+  {
+    "id": 670,
+    "word": "speed",
+    "part_of_speech": "noun",
+    "meaning": "속도",
+    "grammar_pattern": "동명사",
+    "example": "The toy car was running at the fastest speed.",
+    "example_translation": "장난감 자동차가 가장 빠른 속도로 달리는 중이었어."
+  },
+  {
+    "id": 671,
+    "word": "spoon",
+    "part_of_speech": "noun",
+    "meaning": "손가락 (숟가락 오기 반영)",
+    "grammar_pattern": "동명사",
+    "example": "She was eating sweet pudding with a small spoon.",
+    "example_translation": "그녀는 작은 숟가락으로 달콤한 푸딩을 먹는 중이었어."
+  },
+  {
+    "id": 672,
+    "word": "stand",
+    "part_of_speech": "verb",
+    "meaning": "서다",
+    "grammar_pattern": "명령문",
+    "example": "Stand in a straight line, please!",
+    "example_translation": "곧은 선으로 줄을 서 주렴!"
+  },
+  {
+    "id": 673,
+    "word": "start",
+    "part_of_speech": "verb",
+    "meaning": "시작하다",
+    "grammar_pattern": "동명사",
+    "example": "The rain was starting to fall softly.",
+    "example_translation": "비가 부드럽게 내리기 시작하는 중이었어."
+  },
+  {
+    "id": 674,
+    "word": "stay",
+    "part_of_speech": "verb",
+    "meaning": "머무르다",
+    "grammar_pattern": "동명사",
+    "example": "We were staying at the most beautiful hotel.",
+    "example_translation": "우리는 가장 아름다운 호텔에서 머무는 중이었어."
+  },
+  {
+    "id": 675,
+    "word": "stone",
+    "part_of_speech": "noun",
+    "meaning": "돌",
+    "grammar_pattern": "동명사",
+    "example": "He was throwing a tiny stone into the water.",
+    "example_translation": "그는 물속으로 작은 돌을 던지는 중이었어."
+  },
+  {
+    "id": 676,
+    "word": "stop",
+    "part_of_speech": "verb",
+    "meaning": "멈추다",
+    "grammar_pattern": "명령문",
+    "example": "Please stop crying right now.",
+    "example_translation": "제발 지금 바로 울음을 멈추렴."
+  },
+  {
+    "id": 677,
+    "word": "store",
+    "part_of_speech": "noun",
+    "meaning": "가게",
+    "grammar_pattern": "동명사",
+    "example": "Mom was buying sweet fruit at the store.",
+    "example_translation": "엄마는 가게에서 달콤한 과일을 사는 중이셨어."
+  },
+  {
+    "id": 678,
+    "word": "story",
+    "part_of_speech": "adjective",
+    "meaning": "층 (명사 오기 반영)",
+    "grammar_pattern": "동명사",
+    "example": "Listening to a fun story was exciting.",
+    "example_translation": "재미있는 이야기(층/동화)를 듣는 것은 신나는 일이었어."
+  },
+  {
+    "id": 679,
+    "word": "strawberry",
+    "part_of_speech": "noun",
+    "meaning": "딸기",
+    "grammar_pattern": "동명사",
+    "example": "I was picking the biggest strawberry.",
+    "example_translation": "나는 가장 큰 딸기를 따는 중이었어."
+  },
+  {
+    "id": 680,
+    "word": "street",
+    "part_of_speech": "noun",
+    "meaning": "거리",
+    "grammar_pattern": "동명사",
+    "example": "Many people were walking on the street.",
+    "example_translation": "많은 사람들이 거리 위를 걷고 있는 중이었어."
+  },
+  {
+    "id": 681,
+    "word": "stress",
+    "part_of_speech": "noun",
+    "meaning": "압박",
+    "grammar_pattern": "긍정문",
+    "example": "There was a lot of traffic on the busy street.",
+    "example_translation": "바쁜 거리 위에는 많은 차들이 밀려 있었어."
+  },
+  {
+    "id": 682,
+    "word": "strong",
+    "part_of_speech": "adjective",
+    "meaning": "강한",
+    "grammar_pattern": "긍정문",
+    "example": "The ant was the strongest bug in the garden.",
+    "example_translation": "개미는 정원에서 가장 강한 벌레였어."
+  },
+  {
+    "id": 683,
+    "word": "student",
+    "part_of_speech": "noun",
+    "meaning": "학생",
+    "grammar_pattern": "동명사",
+    "example": "The smart student was reading a big book.",
+    "example_translation": "똑똑한 학생은 큰 책을 읽고 있는 중이었어."
+  },
+  {
+    "id": 684,
+    "word": "study",
+    "part_of_speech": "noun",
+    "meaning": "학문",
+    "grammar_pattern": "부정문",
+    "example": "Studying English was not hard at all!",
+    "example_translation": "영어 학문(공부)을 하는 것은 전혀 어렵지 않았어!"
+  },
+  {
+    "id": 685,
+    "word": "subway",
+    "part_of_speech": "noun",
+    "meaning": "지하도",
+    "grammar_pattern": "동명사",
+    "example": "We were riding the fastest subway.",
+    "example_translation": "우리는 가장 빠른 지하철을 타고 있는 중이었어."
+  },
+  {
+    "id": 686,
+    "word": "sugar",
+    "part_of_speech": "noun",
+    "meaning": "설탕",
+    "grammar_pattern": "긍정문",
+    "example": "Don’t put too much sugar in your milk!",
+    "example_translation": "네 우유에 설탕을 너무 많이 넣지 마!"
+  },
+  {
+    "id": 687,
+    "word": "sun",
+    "part_of_speech": "noun",
+    "meaning": "태양",
+    "grammar_pattern": "동명사",
+    "example": "The bright sun was shining beautifully.",
+    "example_translation": "밝은 태양이 아름답게 빛나고 있는 중이었어."
+  },
+  {
+    "id": 688,
+    "word": "supper",
+    "part_of_speech": "noun",
+    "meaning": "저녁식사",
+    "grammar_pattern": "긍정문",
+    "example": "Eating a yummy supper made me full.",
+    "example_translation": "맛있는 저녁 식사를 먹는 것은 나를 배부르게 만들었어."
+  },
+  {
+    "id": 689,
+    "word": "swim",
+    "part_of_speech": "verb",
+    "meaning": "헤엄치다",
+    "grammar_pattern": "동명사",
+    "example": "The little fish were swimming fast.",
+    "example_translation": "작은 물고기들이 빠르게 헤엄치는 중이었어."
+  },
+  {
+    "id": 690,
+    "word": "table",
+    "part_of_speech": "adjective",
+    "meaning": "테이블 (명사 오기 반영)",
+    "grammar_pattern": "명령문",
+    "example": "Put your colorful crayons on the table!",
+    "example_translation": "너의 알록달록한 크레파스를 테이블 위에 놓으렴!"
+  },
+  {
+    "id": 691,
+    "word": "tail",
+    "part_of_speech": "noun",
+    "meaning": "꼬리",
+    "grammar_pattern": "동명사",
+    "example": "The puppy was wagging its cute tail.",
+    "example_translation": "강아지는 귀여운 꼬리를 흔들고 있는 중이었어."
+  },
+  {
+    "id": 692,
+    "word": "take",
+    "part_of_speech": "verb",
+    "meaning": "잡다",
+    "grammar_pattern": "동명사",
+    "example": "She was taking the biggest piece of cake.",
+    "example_translation": "그녀는 가장 큰 케이크 조각을 잡는(가져가는) 중이었어."
+  },
+  {
+    "id": 693,
+    "word": "talk",
+    "part_of_speech": "verb",
+    "meaning": "말하다",
+    "grammar_pattern": "의문문",
+    "example": "Were they talking about the magic show?",
+    "example_translation": "그들은 마술 쇼에 대해 이야기하는 중이었니?"
+  },
+  {
+    "id": 694,
+    "word": "tall",
+    "part_of_speech": "adjective",
+    "meaning": "키큰",
+    "grammar_pattern": "긍정문",
+    "example": "He was the tallest boy in our school.",
+    "example_translation": "그는 우리 학교에서 키가 가장 큰 소년이었어."
+  },
+  {
+    "id": 695,
+    "word": "tape",
+    "part_of_speech": "noun",
+    "meaning": "테이프",
+    "grammar_pattern": "동명사",
+    "example": "He was fixing the toy with sticky tape.",
+    "example_translation": "그는 끈적끈적한 테이프로 장난감을 고치는 중이었어."
+  },
+  {
+    "id": 696,
+    "word": "taste",
+    "part_of_speech": "noun",
+    "meaning": "맛",
+    "grammar_pattern": "긍정문",
+    "example": "The cake had the sweetest taste!",
+    "example_translation": "그 케이크는 가장 달콤한 맛을 가졌었어!"
+  },
+  {
+    "id": 697,
+    "word": "teach",
+    "part_of_speech": "verb",
+    "meaning": "가르치다",
+    "grammar_pattern": "동명사",
+    "example": "Dad was teaching me how to ride a bike.",
+    "example_translation": "아빠는 나에게 자전거 타는 법을 가르쳐주시는 중이었어."
+  },
+  {
+    "id": 698,
+    "word": "teen",
+    "part_of_speech": "noun",
+    "meaning": "슬픔 (단어 표기 존수: 십대/비애)",
+    "grammar_pattern": "동명사",
+    "example": "The kind teen was helping the little kid.",
+    "example_translation": "친절한 십대 형(누나)이 어린아이를 돕고 있는 중이었어."
+  },
+  {
+    "id": 699,
+    "word": "telephone",
+    "part_of_speech": "noun",
+    "meaning": "전화",
+    "grammar_pattern": "동명사",
+    "example": "The telephone was ringing loudly in the room.",
+    "example_translation": "방안에서 전화가 크게 울리는 중이었어."
+  },
+  {
+    "id": 700,
+    "word": "tell",
+    "part_of_speech": "verb",
+    "meaning": "말하다",
+    "grammar_pattern": "동명사",
+    "example": "Grandma was telling the best storybook tale.",
+    "example_translation": "할머니는 가장 최고인 동화책 이야기를 말해주시는 중이었어."
+  },
+  {
+    "id": 701,
+    "word": "test",
+    "part_of_speech": "noun",
+    "meaning": "시험",
+    "grammar_pattern": "긍정문",
+    "example": "Passing the easy test made him happy.",
+    "example_translation": "쉬운 시험을 통과하는 것은 그를 행복하게 만들었어."
+  },
+  {
+    "id": 702,
+    "word": "textbook",
+    "part_of_speech": "noun",
+    "meaning": "교과서",
+    "grammar_pattern": "부정문",
+    "example": "The textbook was not lying on the desk.",
+    "example_translation": "교과서는 책상 위에 놓여 있는 중이 아니었어."
+  },
+  {
+    "id": 703,
+    "word": "than",
+    "part_of_speech": "conjunction",
+    "meaning": "-보다도",
+    "grammar_pattern": "긍정문",
+    "example": "The sun is much bigger than the moon.",
+    "example_translation": "태양은 달보다도 훨씬 더 크단다."
+  },
+  {
+    "id": 704,
+    "word": "thank",
+    "part_of_speech": "verb",
+    "meaning": "감사하다 감사",
+    "grammar_pattern": "동명사",
+    "example": "Running to thank my mom was wonderful.",
+    "example_translation": "엄마에게 감사하다고 말하기 위해 달리는 것은 멋진 일이었어."
+  },
+  {
+    "id": 705,
+    "word": "that",
+    "part_of_speech": "pronoun",
+    "meaning": "저",
+    "grammar_pattern": "의문문",
+    "example": "What was inside that big box?",
+    "example_translation": "저 큰 상자 안에는 무엇이 들어 있었니?"
+  },
+  {
+    "id": 706,
+    "word": "the",
+    "part_of_speech": "article",
+    "meaning": "art. 저",
+    "grammar_pattern": "동명사",
+    "example": "The butterfly was flying over the flower.",
+    "example_translation": "저 나비가 꽃 위로 날아가는 중이었어."
+  },
+  {
+    "id": 707,
+    "word": "there",
+    "part_of_speech": "adverb",
+    "meaning": "거기에",
+    "grammar_pattern": "동명사",
+    "example": "There were five cute chicks chirping there.",
+    "example_translation": "거기에 삐약거리는 다섯 마리의 귀여운 병아리들이 있었어."
+  },
+  {
+    "id": 708,
+    "word": "they",
+    "part_of_speech": "pronoun",
+    "meaning": "그들",
+    "grammar_pattern": "동명사",
+    "example": "They were playing tag in the park.",
+    "example_translation": "그들은 공원에서 술래잡기를 하고 있는 중이었어."
+  },
+  {
+    "id": 709,
+    "word": "thing",
+    "part_of_speech": "noun",
+    "meaning": "물건",
+    "grammar_pattern": "동명사",
+    "example": "This cute doll was my favorite thing.",
+    "example_translation": "이 귀여운 인형은 내가 가장 좋아하는 물건이었어."
+  },
+  {
+    "id": 710,
+    "word": "think",
+    "part_of_speech": "verb",
+    "meaning": "생각하다",
+    "grammar_pattern": "동명사",
+    "example": "I was thinking about the sweetest candy.",
+    "example_translation": "나는 가장 달콤한 사탕에 대해 생각하는 중이었어."
+  },
+  {
+    "id": 711,
+    "word": "thirst",
+    "part_of_speech": "noun",
+    "meaning": "갈증",
+    "grammar_pattern": "긍정문",
+    "example": "Drinking fresh water stopped my thirst.",
+    "example_translation": "신선한 물을 마시는 것은 나의 갈증을 멈추게 했어."
+  },
+  {
+    "id": 712,
+    "word": "this",
+    "part_of_speech": "pronoun",
+    "meaning": "이",
+    "grammar_pattern": "명령문",
+    "example": "Look at this beautiful rainbow!",
+    "example_translation": "이 아름다운 무지개를 보렴!"
+  },
+  {
+    "id": 713,
+    "word": "tiger",
+    "part_of_speech": "noun",
+    "meaning": "호랑이",
+    "grammar_pattern": "동명사",
+    "example": "The big tiger was sleeping under the tree.",
+    "example_translation": "큰 호랑이가 나무 아래에서 잠을 자고 있는 중이었어."
+  },
+  {
+    "id": 714,
+    "word": "time",
+    "part_of_speech": "noun",
+    "meaning": "때",
+    "grammar_pattern": "감탄문",
+    "example": "What a wonderful time we were having!",
+    "example_translation": "우리가 정말 멋진 시간을 보내고 있었구나!"
+  },
+  {
+    "id": 715,
+    "word": "to",
+    "part_of_speech": "preposition",
+    "meaning": "-로",
+    "grammar_pattern": "동명사",
+    "example": "We were walking to the beautiful zoo.",
+    "example_translation": "우리는 아름다운 동물원으로 걸어가는 중이었어."
+  },
+  {
+    "id": 716,
+    "word": "today",
+    "part_of_speech": "adverb",
+    "meaning": "오늘은",
+    "grammar_pattern": "긍정문",
+    "example": "Today was the happiest day of all!",
+    "example_translation": "오늘은 모든 날 중 가장 행복한 날이었어!"
+  },
+  {
+    "id": 717,
+    "word": "together",
+    "part_of_speech": "adverb",
+    "meaning": "같이",
+    "grammar_pattern": "청유문",
+    "example": "Let's build a giant block tower together!",
+    "example_translation": "우리 함께 거대한 블록 탑을 쌓자!"
+  },
+  {
+    "id": 718,
+    "word": "tomorrow",
+    "part_of_speech": "adverb",
+    "meaning": "내일(은)",
+    "grammar_pattern": "긍정문",
+    "example": "Planning for tomorrow made me excited.",
+    "example_translation": "내일을 위해 계획을 세우는 것은 나를 신나게 만들었어."
+  },
+  {
+    "id": 719,
+    "word": "tonight",
+    "part_of_speech": "adverb",
+    "meaning": "오늘밤에 오늘밤",
+    "grammar_pattern": "동명사",
+    "example": "The brightest moon was shining tonight.",
+    "example_translation": "가장 밝은 달이 오늘 밤 빛나고 있는 중이었어."
+  },
+  {
+    "id": 720,
+    "word": "too",
+    "part_of_speech": "adverb",
+    "meaning": "(-도)또한",
+    "grammar_pattern": "긍정문",
+    "example": "The little puppy wanted to join the game, too!",
+    "example_translation": "작은 강아지 또한 그 게임에 함께 참여하고 싶어 했어!"
+  },
+  {
+    "id": 721,
+    "word": "tooth",
+    "part_of_speech": "noun",
+    "meaning": "이",
+    "grammar_pattern": "긍정문",
+    "example": "I have brushed my tiny tooth!",
+    "example_translation": "나는 내 작은 이(치아)를 다 닦았어!"
+  },
+  {
+    "id": 722,
+    "word": "top",
+    "part_of_speech": "noun",
+    "meaning": "정상",
+    "grammar_pattern": "긍정문",
+    "example": "He has climbed up to the top of the hill.",
+    "example_translation": "그는 언덕 정상까지 올라갔단다."
+  },
+  {
+    "id": 723,
+    "word": "touch",
+    "part_of_speech": "verb",
+    "meaning": "닿다",
+    "grammar_pattern": "의문문",
+    "example": "Have you ever touched a fluffy rabbit?",
+    "example_translation": "너는 털이 몽실몽실한 토끼를 만져본 적이 있니?"
+  },
+  {
+    "id": 724,
+    "word": "tour",
+    "part_of_speech": "noun",
+    "meaning": "일주",
+    "grammar_pattern": "긍정문",
+    "example": "We have finished our sweet garden tour.",
+    "example_translation": "우리는 달콤한 정원 일주(투어)를 마쳤어."
+  },
+  {
+    "id": 725,
+    "word": "tower",
+    "part_of_speech": "noun",
+    "meaning": "탑",
+    "grammar_pattern": "명령문",
+    "example": "Look at that giant block tower!",
+    "example_translation": "저 거대한 블록 탑을 보렴!"
+  },
+  {
+    "id": 726,
+    "word": "town",
+    "part_of_speech": "noun",
+    "meaning": "읍",
+    "grammar_pattern": "긍정문",
+    "example": "There has been a small toy shop in this town.",
+    "example_translation": "이 읍(마을)에는 작은 장난감 가게가 계속 있어왔어."
+  },
+  {
+    "id": 727,
+    "word": "toy",
+    "part_of_speech": "verb",
+    "meaning": "장난감 장난하다",
+    "grammar_pattern": "원급비교",
+    "example": "Playing with this toy is as fun as a game.",
+    "example_translation": "이 장난감을 가지고 노는 것은 게임만큼 재미있어."
+  },
+  {
+    "id": 728,
+    "word": "train",
+    "part_of_speech": "noun",
+    "meaning": "기차",
+    "grammar_pattern": "긍정문",
+    "example": "The long train has just arrived.",
+    "example_translation": "긴 기차가 방금 도착했어."
+  },
+  {
+    "id": 729,
+    "word": "travel",
+    "part_of_speech": "verb",
+    "meaning": "여행하다",
+    "grammar_pattern": "동명사",
+    "example": "Traveling to the zoo is the best thing.",
+    "example_translation": "동물원으로 여행하는 것은 가장 좋은 일이야."
+  },
+  {
+    "id": 730,
+    "word": "tree",
+    "part_of_speech": "noun",
+    "meaning": "나무",
+    "grammar_pattern": "긍정문",
+    "example": "This green tree has grown bigger than me!",
+    "example_translation": "이 초록 나무는 나보다 더 크게 자랐어!"
+  },
+  {
+    "id": 731,
+    "word": "triangle",
+    "part_of_speech": "noun",
+    "meaning": "각형",
+    "grammar_pattern": "긍정문",
+    "example": "I have learned how to draw a triangle.",
+    "example_translation": "나는 삼각형을 그리는 방법을 배웠어."
+  },
+  {
+    "id": 732,
+    "word": "trip",
+    "part_of_speech": "noun",
+    "meaning": "여행",
+    "grammar_pattern": "긍정문",
+    "example": "We have planned a beautiful camping trip.",
+    "example_translation": "우리는 아름다운 캠핑 여행을 계획했어."
+  },
+  {
+    "id": 733,
+    "word": "TRUE",
+    "part_of_speech": "adjective",
+    "meaning": "진실",
+    "grammar_pattern": "긍정문",
+    "example": "Hearing a TRUE story has made me happy.",
+    "example_translation": "진실한 이야기를 듣는 것은 나를 행복하게 만들었어."
+  },
+  {
+    "id": 734,
+    "word": "try",
+    "part_of_speech": "verb",
+    "meaning": "시험해보다",
+    "grammar_pattern": "청유문",
+    "example": "Let's try to taste this sweet strawberry!",
+    "example_translation": "우리 이 달콤한 딸기를 한 번 맛보자!"
+  },
+  {
+    "id": 735,
+    "word": "turn",
+    "part_of_speech": "verb",
+    "meaning": "돌린다",
+    "grammar_pattern": "긍정문",
+    "example": "It has become your turn to roll the dice.",
+    "example_translation": "주사위를 돌릴(굴릴) 네 차례가 되었단다."
+  },
+  {
+    "id": 736,
+    "word": "twice",
+    "part_of_speech": "adverb",
+    "meaning": "두 번",
+    "grammar_pattern": "긍정문",
+    "example": "I have seen the cute panda twice.",
+    "example_translation": "나는 귀여운 판다를 두 번 보았어."
+  },
+  {
+    "id": 737,
+    "word": "type",
+    "part_of_speech": "noun",
+    "meaning": "형",
+    "grammar_pattern": "감탄문",
+    "example": "What a cute type of puppy it is!",
+    "example_translation": "정말 귀여운 형(종류)의 강아지구나!"
+  },
+  {
+    "id": 738,
+    "word": "ugly",
+    "part_of_speech": "adjective",
+    "meaning": "추한",
+    "grammar_pattern": "긍정문",
+    "example": "The monster has never been ugly to me.",
+    "example_translation": "그 괴물은 나에게 결코 추하게(못생기게) 보인 적이 없어."
+  },
+  {
+    "id": 739,
+    "word": "umbrella",
+    "part_of_speech": "noun",
+    "meaning": "우산",
+    "grammar_pattern": "긍정문",
+    "example": "Mom has bought the prettiest yellow umbrella.",
+    "example_translation": "엄마는 가장 예쁜 노란 우산과 장화를 사주셨어."
+  },
+  {
+    "id": 740,
+    "word": "uncle",
+    "part_of_speech": "noun",
+    "meaning": "아저씨",
+    "grammar_pattern": "긍정문",
+    "example": "My uncle has decided to visit us today.",
+    "example_translation": "우리 아저씨(삼촌)는 오늘 우리를 방문하기로 결정하셨어."
+  },
+  {
+    "id": 741,
+    "word": "under",
+    "part_of_speech": "preposition",
+    "meaning": "-아래에",
+    "grammar_pattern": "긍정문",
+    "example": "A tiny bug has hidden under the leaf.",
+    "example_translation": "작은 벌레가 나뭇잎 아래에 숨어버렸어."
+  },
+  {
+    "id": 742,
+    "word": "understand",
+    "part_of_speech": "verb",
+    "meaning": "이해하다",
+    "grammar_pattern": "의문문",
+    "example": "Have you understood the rules of the game?",
+    "example_translation": "너는 이 게임의 규칙을 이해했니?"
+  },
+  {
+    "id": 743,
+    "word": "up",
+    "part_of_speech": "preposition",
+    "meaning": "위로",
+    "grammar_pattern": "명령문",
+    "example": "Look up at the shiny stars right now!",
+    "example_translation": "지금 바로 저 반짝이는 별들을 위로 올려다보렴!"
+  },
+  {
+    "id": 744,
+    "word": "use",
+    "part_of_speech": "verb",
+    "meaning": "쓰다",
+    "grammar_pattern": "동명사",
+    "example": "Using colorful crayons is so much fun.",
+    "example_translation": "알록달록한 크레파스를 쓰는 것은 정말 재미있어."
+  },
+  {
+    "id": 745,
+    "word": "vegetable",
+    "part_of_speech": "adjective",
+    "meaning": "식물 야채, 푸성귀, 남새, 채소",
+    "grammar_pattern": "긍정문",
+    "example": "Eating fresh vegetables has made me strong.",
+    "example_translation": "신선한 식물 야채를 먹는 것은 나를 튼튼하게 만들었어."
+  },
+  {
+    "id": 746,
+    "word": "very",
+    "part_of_speech": "adverb",
+    "meaning": "매우",
+    "grammar_pattern": "긍정문",
+    "example": "This little kitty has become very big.",
+    "example_translation": "이 작은 아기 고양이는 정말(매우) 커졌단다."
+  },
+  {
+    "id": 747,
+    "word": "visit",
+    "part_of_speech": "verb",
+    "meaning": "방문하다, ...의 손님으로 묵다",
+    "grammar_pattern": "긍정문",
+    "example": "We have wanted to visit the dinosaur park.",
+    "example_translation": "우리는 공룡 공원을 방문하는 것을 원해왔어."
+  },
+  {
+    "id": 748,
+    "word": "voice",
+    "part_of_speech": "noun",
+    "meaning": "목소리, 음성, 음성",
+    "grammar_pattern": "감탄문",
+    "example": "What a sweet voice you have shared!",
+    "example_translation": "네가 정말 달콤한 목소리를 들려주었구나!"
+  },
+  {
+    "id": 749,
+    "word": "wait",
+    "part_of_speech": "verb",
+    "meaning": "기다리다",
+    "grammar_pattern": "긍정문",
+    "example": "Waiting for the school bus has been boring.",
+    "example_translation": "학교 버스를 기다리는 것은 지루한 일이었어."
+  },
+  {
+    "id": 750,
+    "word": "wake",
+    "part_of_speech": "verb",
+    "meaning": "잠깨다",
+    "grammar_pattern": "긍정문",
+    "example": "The sun has already woken up the baby.",
+    "example_translation": "태양이 벌써 아기를 잠 깨웠단다."
+  },
+  {
+    "id": 751,
+    "word": "walk",
+    "part_of_speech": "verb",
+    "meaning": "걷다",
+    "grammar_pattern": "청유문",
+    "example": "Let's walk to the playground together!",
+    "example_translation": "우리 함께 놀이터로 걸어가자!"
+  },
+  {
+    "id": 752,
+    "word": "wall",
+    "part_of_speech": "noun",
+    "meaning": "벽",
+    "grammar_pattern": "원급비교",
+    "example": "Dad has painted the room wall as white as snow.",
+    "example_translation": "아빠는 방 벽을 눈만큼 하얗게 칠하셨어."
+  },
+  {
+    "id": 753,
+    "word": "want",
+    "part_of_speech": "noun",
+    "meaning": "결핍",
+    "grammar_pattern": "긍정문",
+    "example": "I have always wanted to have a puppy.",
+    "example_translation": "나는 항상 강아지를 가지는 것을 원해왔어."
+  },
+  {
+    "id": 754,
+    "word": "war",
+    "part_of_speech": "noun",
+    "meaning": "전쟁",
+    "grammar_pattern": "긍정문",
+    "example": "The tiny ants have stopped their food war.",
+    "example_translation": "작은 개미들이 그들의 먹이 전쟁을 멈추었어."
+  },
+  {
+    "id": 755,
+    "word": "warm",
+    "part_of_speech": "adjective",
+    "meaning": "따뜻한",
+    "grammar_pattern": "긍정문",
+    "example": "The weather has become warmer than yesterday.",
+    "example_translation": "날씨가 어제보다 더 따뜻해졌어."
+  },
+  {
+    "id": 756,
+    "word": "wash",
+    "part_of_speech": "verb",
+    "meaning": "씻다",
+    "grammar_pattern": "명령문",
+    "example": "Wash your cute hands before eating!",
+    "example_translation": "먹기 전에 너의 귀여운 손을 씻으렴!"
+  },
+  {
+    "id": 757,
+    "word": "watch",
+    "part_of_speech": "noun",
+    "meaning": "손목시계",
+    "grammar_pattern": "긍정문",
+    "example": "He has lost his favorite toy watch.",
+    "example_translation": "그는 자기가 가장 좋아하는 장난감 손목시계를 잃어버렸어."
+  },
+  {
+    "id": 758,
+    "word": "water",
+    "part_of_speech": "noun",
+    "meaning": "물",
+    "grammar_pattern": "긍정문",
+    "example": "Drinking pure water has made my thirst go away.",
+    "example_translation": "순수한 물을 마시는 것은 나의 갈증을 사라지게 했어."
+  },
+  {
+    "id": 759,
+    "word": "watermelon",
+    "part_of_speech": "noun",
+    "meaning": "수박",
+    "grammar_pattern": "긍정문",
+    "example": "This is the biggest watermelon I have ever seen!",
+    "example_translation": "이것은 내가 본 것 중 가장 큰 수박이야!"
+  },
+  {
+    "id": 760,
+    "word": "way",
+    "part_of_speech": "noun",
+    "meaning": "길",
+    "grammar_pattern": "의문문",
+    "example": "Have you found the way to the magic castle?",
+    "example_translation": "너는 마법 성으로 가는 길을 찾았니?"
+  },
+  {
+    "id": 761,
+    "word": "we",
+    "part_of_speech": "pronoun",
+    "meaning": "우리가",
+    "grammar_pattern": "긍정문",
+    "example": "We have finished drawing a big rainbow.",
+    "example_translation": "우리가 큰 무지개 그리기를 다 마쳤어."
+  },
+  {
+    "id": 762,
+    "word": "wear",
+    "part_of_speech": "verb",
+    "meaning": "입다",
+    "grammar_pattern": "긍정문",
+    "example": "She has worn the prettiest princess dress.",
+    "example_translation": "그녀는 가장 예쁜 공주님 드레스를 입었어."
+  },
+  {
+    "id": 763,
+    "word": "weather",
+    "part_of_speech": "noun",
+    "meaning": "날씨",
+    "grammar_pattern": "원급비교",
+    "example": "The weather has been as bright as a smile.",
+    "example_translation": "날씨가 미소만큼이나 계속 밝고 좋았어."
+  },
+  {
+    "id": 764,
+    "word": "wedding",
+    "part_of_speech": "noun",
+    "meaning": "혼례",
+    "grammar_pattern": "긍정문",
+    "example": "They have gone to see a beautiful wedding.",
+    "example_translation": "그들은 아름다운 혼례(결혼식)를 보러 가버렸단다."
+  },
+  {
+    "id": 765,
+    "word": "week",
+    "part_of_speech": "noun",
+    "meaning": "주",
+    "grammar_pattern": "긍정문",
+    "example": "I haven't seen my friend for a week.",
+    "example_translation": "나는 내 친구를 일주일(주) 동안 보지 못했어."
+  },
+  {
+    "id": 766,
+    "word": "weekend",
+    "part_of_speech": "verb",
+    "meaning": "주말 주말의 주말을 지내다",
+    "grammar_pattern": "동명사",
+    "example": "Spending the weekend at the beach was great.",
+    "example_translation": "바닷가에서 주말을 보내는 것은 정말 멋졌어."
+  },
+  {
+    "id": 767,
+    "word": "weight",
+    "part_of_speech": "noun",
+    "meaning": "무게",
+    "grammar_pattern": "긍정문",
+    "example": "The fat pig has gained more weight than before.",
+    "example_translation": "뚱뚱한 돼지가 전보다 무게(살)가 더 많이 늘었어."
+  },
+  {
+    "id": 768,
+    "word": "welcome",
+    "part_of_speech": "noun",
+    "meaning": "환영 환영받는",
+    "grammar_pattern": "긍정문",
+    "example": "You have always been welcome to play here.",
+    "example_translation": "너는 언제나 여기서 노는 것이 환영받아 왔단다."
+  },
+  {
+    "id": 769,
+    "word": "well",
+    "part_of_speech": "interjection",
+    "meaning": "잘",
+    "grammar_pattern": "긍정문",
+    "example": "Wow, you have done your homework so well!",
+    "example_translation": "와, 너 숙제를 정말 잘 해냈구나!"
+  },
+  {
+    "id": 770,
+    "word": "west",
+    "part_of_speech": "noun",
+    "meaning": "서쪽",
+    "grammar_pattern": "긍정문",
+    "example": "The bright sun has gone down to the west.",
+    "example_translation": "밝은 태양이 서쪽으로 완전히 내려갔어."
+  },
+  {
+    "id": 771,
+    "word": "wet",
+    "part_of_speech": "adjective",
+    "meaning": "축축한",
+    "grammar_pattern": "긍정문",
+    "example": "The grass has become wetter than the sand.",
+    "example_translation": "잔디가 모래보다 더 촉촉해(축축해)졌어."
+  },
+  {
+    "id": 772,
+    "word": "what",
+    "part_of_speech": "pronoun",
+    "meaning": "무엇 무슨",
+    "grammar_pattern": "감탄문",
+    "example": "What a cute story you have told me!",
+    "example_translation": "네가 나에게 정말 귀여운 무슨(어떤) 이야기를 해주었구나!"
+  },
+  {
+    "id": 773,
+    "word": "when",
+    "part_of_speech": "conjunction",
+    "meaning": "언제",
+    "grammar_pattern": "명령문",
+    "example": "Tell me when you have finished your milk.",
+    "example_translation": "네가 우유를 언제 다 마셨는지 나에게 말해주렴."
+  },
+  {
+    "id": 774,
+    "word": "where",
+    "part_of_speech": "conjunction",
+    "meaning": "어디에 (-하는)곳에 pr.어디 (문제의)장소",
+    "grammar_pattern": "의문문",
+    "example": "Where have you hidden my pink crayon?",
+    "example_translation": "너 내 분홍색 크레파스를 어디에 숨겼니?"
+  },
+  {
+    "id": 775,
+    "word": "white",
+    "part_of_speech": "noun",
+    "meaning": "흰",
+    "grammar_pattern": "긍정문",
+    "example": "There has been a cute white rabbit in the box.",
+    "example_translation": "상자 안에 귀여운 흰 토끼가 계속 들어있었어."
+  },
+  {
+    "id": 776,
+    "word": "who",
+    "part_of_speech": "pronoun",
+    "meaning": "누구",
+    "grammar_pattern": "의문문",
+    "example": "Who has eaten the biggest strawberry cake?",
+    "example_translation": "누가 가장 큰 딸기 케이크를 먹어버렸니?"
+  },
+  {
+    "id": 777,
+    "word": "why",
+    "part_of_speech": "noun",
+    "meaning": "왜",
+    "grammar_pattern": "의문문",
+    "example": "Why has the little kitty started to cry?",
+    "example_translation": "왜 아기 고양이가 울기 시작했을까?"
+  },
+  {
+    "id": 778,
+    "word": "wife",
+    "part_of_speech": "noun",
+    "meaning": "아내",
+    "grammar_pattern": "긍정문",
+    "example": "The king’s wife has given a sweet gift to me.",
+    "example_translation": "왕의 아내(왕비님)가 나에게 달콤한 선물을 주셨어."
+  },
+  {
+    "id": 779,
+    "word": "will",
+    "part_of_speech": "noun",
+    "meaning": "의지",
+    "grammar_pattern": "긍정문",
+    "example": "A strong will has helped him to jump high.",
+    "example_translation": "강한 의지가 그가 높이 뛸 수 있도록 도와주었어."
+  },
+  {
+    "id": 780,
+    "word": "win",
+    "part_of_speech": "verb",
+    "meaning": "이기다",
+    "grammar_pattern": "긍정문",
+    "example": "Winning the fun race has made her smile.",
+    "example_translation": "재미있는 경주에서 이기는 것은 그녀를 미소 짓게 만들었어."
+  },
+  {
+    "id": 781,
+    "word": "wind",
+    "part_of_speech": "noun",
+    "meaning": "바람",
+    "grammar_pattern": "긍정문",
+    "example": "The cool wind has blown away my paper boat.",
+    "example_translation": "시원한 바람이 내 종이배를 날려 보내버렸어."
+  },
+  {
+    "id": 782,
+    "word": "window",
+    "part_of_speech": "noun",
+    "meaning": "창",
+    "grammar_pattern": "명령문",
+    "example": "Please look out of the clean window.",
+    "example_translation": "제발 깨끗한 창문 밖을 내다보렴."
+  },
+  {
+    "id": 783,
+    "word": "wish",
+    "part_of_speech": "verb",
+    "meaning": "바라다",
+    "grammar_pattern": "to부정사",
+    "example": "I have made a wish to become a cool pilot.",
+    "example_translation": "나는 멋진 조종사가 되고 싶은 바라다(소원)를 빌었어."
+  },
+  {
+    "id": 784,
+    "word": "with",
+    "part_of_speech": "preposition",
+    "meaning": "함께",
+    "grammar_pattern": "긍정문",
+    "example": "Playing tag with you has been the best.",
+    "example_translation": "너와 함께 술래잡기를 하는 것은 최고였어."
+  },
+  {
+    "id": 785,
+    "word": "woman",
+    "part_of_speech": "noun",
+    "meaning": "부인",
+    "grammar_pattern": "긍정문",
+    "example": "The kind woman has shown me the way.",
+    "example_translation": "그 친절한 부인(여성)분이 나에게 길을 보여주셨어."
+  },
+  {
+    "id": 786,
+    "word": "wood",
+    "part_of_speech": "noun",
+    "meaning": "숲",
+    "grammar_pattern": "There is/are",
+    "example": "There are many tall trees in this green wood.",
+    "example_translation": "이 초록 숲(나무) 속에는 많은 큰 나무들이 있단다."
+  },
+  {
+    "id": 787,
+    "word": "word",
+    "part_of_speech": "noun",
+    "meaning": "낱말",
+    "grammar_pattern": "원급비교",
+    "example": "Learning a new word has been as easy as pie.",
+    "example_translation": "새로운 낱말(단어)을 배우는 것은 식은 죽 먹기만큼 쉬웠어."
+  },
+  {
+    "id": 788,
+    "word": "work",
+    "part_of_speech": "noun",
+    "meaning": "일",
+    "grammar_pattern": "동명사",
+    "example": "Building a block castle is hard work.",
+    "example_translation": "블록 성을 쌓는 일(작업)은 힘든 일이야."
+  },
+  {
+    "id": 789,
+    "word": "world",
+    "part_of_speech": "noun",
+    "meaning": "세계",
+    "grammar_pattern": "긍정문",
+    "example": "This is the most beautiful world of all!",
+    "example_translation": "여기는 세상 모든 곳 중에서 가장 아름다운 세계야!"
+  },
+  {
+    "id": 790,
+    "word": "worry",
+    "part_of_speech": "verb",
+    "meaning": "근심하다",
+    "grammar_pattern": "부정문",
+    "example": "Don't worry about making mistakes!",
+    "example_translation": "실수하는 것에 대해 근심하다(걱정하다) 하지 마!"
+  },
+  {
+    "id": 791,
+    "word": "write",
+    "part_of_speech": "verb",
+    "meaning": "쓰다",
+    "grammar_pattern": "긍정문",
+    "example": "She has written a sweet letter to santa.",
+    "example_translation": "그녀는 산타할아버지께 달콤한 편지를 쓰다(썼어)."
+  },
+  {
+    "id": 792,
+    "word": "wrong",
+    "part_of_speech": "adjective",
+    "meaning": "나쁜",
+    "grammar_pattern": "긍정문",
+    "example": "He has never chosen the wrong box.",
+    "example_translation": "그는 결코 나쁜(틀린) 상자를 고른 적이 없어."
+  },
+  {
+    "id": 793,
+    "word": "year",
+    "part_of_speech": "noun",
+    "meaning": "연",
+    "grammar_pattern": "긍정문",
+    "example": "A whole year has passed so quickly.",
+    "example_translation": "일 년이라는 전체 시간이 정말 빠르게 지나가버렸어."
+  },
+  {
+    "id": 794,
+    "word": "yellow",
+    "part_of_speech": "noun",
+    "meaning": "황색의 황색",
+    "grammar_pattern": "긍정문",
+    "example": "The yellow butterfly has flown higher than the bird.",
+    "example_translation": "노란 나비가 새보다 더 높이 날아갔단다."
+  },
+  {
+    "id": 795,
+    "word": "yes",
+    "part_of_speech": "interjection",
+    "meaning": "예",
+    "grammar_pattern": "긍정문",
+    "example": "Saying yes to mom has made her happy.",
+    "example_translation": "엄마에게 예라고 대답하는 것은 엄마를 행복하게 만들었어."
+  },
+  {
+    "id": 796,
+    "word": "yesterday",
+    "part_of_speech": "adverb",
+    "meaning": "어제",
+    "grammar_pattern": "긍정문",
+    "example": "The fun party yesterday has already ended.",
+    "example_translation": "어제의 재미있던 파티는 이미 끝나버렸단다."
+  },
+  {
+    "id": 797,
+    "word": "you",
+    "part_of_speech": "pronoun",
+    "meaning": "당신",
+    "grammar_pattern": "긍정문",
+    "example": "You have become the smartest kid in the world!",
+    "example_translation": "당신(너)은 세상에서 가장 똑똑한 아이가 되었구나!"
+  },
+  {
+    "id": 798,
+    "word": "young",
+    "part_of_speech": "adjective",
+    "meaning": "젊은",
+    "grammar_pattern": "원급비교",
+    "example": "The young chick has grown as big as a hen.",
+    "example_translation": "젊은(어린) 병아리가 암탉만큼 크게 자랐어."
+  },
+  {
+    "id": 799,
+    "word": "zebra",
+    "part_of_speech": "noun",
+    "meaning": "얼룩말",
+    "grammar_pattern": "의문문",
+    "example": "Have you ever seen a running zebra?",
+    "example_translation": "너는 달리는 얼룩말을 본 적이 있니?"
+  },
+  {
+    "id": 800,
+    "word": "zoo",
+    "part_of_speech": "noun",
+    "meaning": "동물원",
+    "grammar_pattern": "청유문",
+    "example": "Let's go to the biggest zoo tomorrow!",
+    "example_translation": "우리 내일 가장 큰 동물원에 가자!"
+  }
+]
