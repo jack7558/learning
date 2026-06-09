@@ -116095,9 +116095,9 @@ return A.z($async$ys,r)},
 Dr(){var s=0,r=A.A(t.H),q=1,p=[],o=this,n,m,l,k,j,i,h,g,f,e,d,c
 var $async$Dr=A.B(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:q=3
-n="storybook_vocab1.json"
+n="assets/storybook_vocab1.json"
 m=o.a.c.a.toLowerCase()
-if(J.ab_(m,"\ud30c\uc774\uc5b4 question"))n="storybook_vocab0.json"
+if(J.ab_(m,"\ud30c\uc774\uc5b4 question"))n="assets/storybook_vocab0.json"
 s=6
 return A.u($.po().Qw(n),$async$Dr)
 case 6:l=b
